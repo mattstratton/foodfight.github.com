@@ -15,8 +15,14 @@ paginate = 9
 	about = "/:filename/"
 	episode = "/:filename/"
 
+  [[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
+
   [params]
   # Facebook = "//facebook.com/Arresteddevops"
+  about_logo = "/img/foodfight_header.png"
   GATracker = "UA-32494051-1"
   Twitter = "//twitter.com/foodfightshow"
   Description = "The Podcast where DevOps chefs do battle"
@@ -50,17 +56,13 @@ paginate = 9
   	[params.authors]
   	  [params.authors.Nathen]
   			name	= "Nathen Harvey"
-  			thumbnail = "https://www.arresteddevops.com/img/matt.png"
-  			bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
+  			thumbnail = "img/hosts/nharvey.png"
+  			bio = "As the Chief Awesome Officer at Chef, Nathen helps the community whip up an awesome ecosystem built around the Chef platform. Nathen also spends much of his time helping people learn about the practices, processes, and technologies that support DevOps, continuous delivery, and high velocity organizations. Prior to joining Chef, Nathen spent a number of years managing operations and infrastructure for a diverse range of web applications. "
   			[params.authors.Nathen.social]
-          github = "mattstratton"
-          facebook = "matt.stratton"
-          twitter = "mattstratton"
-          linkedin = "mattstratton"
-          homepage = "https://www.mattstratton.io"
-          pinterest = "mattstratton"
-          instagram = "instagram"
-          youtube = "mattstratton"
+          github = "nathenharvey"
+          twitter = "nathenharvey"
+          homepage = "http://nathenharvey.com/"
+          linkedin = "nathen"
   		[params.authors.Nell]
   			name = "Nell Shamrell-Harrington"
   			thumbnail = "img/hosts/nharrington.png"
@@ -68,10 +70,27 @@ paginate = 9
   				[params.authors.Nell.social]
   					twitter = "nellshamrell"
             github = "nellshamrell"
-  			[params.authors.Bridget]
-  				name = "Bridget Kromhout"
-  				thumbnail = "https://www.arresteddevops.com/img/Bridget.png"
-  				bio = "Bridget Kromhout is a Principal Technologist for [Cloud Foundry](https://pivotal.io/platform) at [Pivotal](https://pivotal.io/). Her CS degree emphasis was in theory, but she now deals with the concrete (if ‘cloud’ can be considered tangible). After years as an operations engineer (most recently at DramaFever), she traded in oncall for more travel. A frequent speaker at tech conferences, she helps organize tech meetups at home in Minneapolis, serves on the program committee for Velocity, and acts as a global core organizer for [devopsdays](https://www.devopsdays.org/). She occasionally blogs at [bridgetkromhout.com](http://bridgetkromhout.com/) and is active in a [Twitterverse](https://twitter.com/bridgetkromhout) near you."
-  				[params.authors.Bridget.social]
-  					twitter = "bridgetkromhout"
-            homepage = "http://bridgetkromhout.com/"
+  			[params.authors.Matt]
+  				name = "Matt Ray"
+  				thumbnail = "img/hosts/mray.jpg"
+  				bio = "Matt Ray is a Technical Evangelist at Chef."
+  				[params.authors.Matt.social]
+  					twitter = "mattray"
+            github = "mattray"
+            homepage = "http://www.leastresistance.net/"
+        [params.authors.Bryan]
+          name = "Bryan Berry"
+          thumbnail = 'img/hosts/bberry.jpg'
+          bio = "Bryan Berry is an IT consultant living and working in Rome, Italy. In a former life he worked on the One Laptop Per Child project in Nepal. He loves *nix, ruby, python, file systems, and more."
+          [params.authors.Bryan.social]
+            twitter = "bryanwb"
+            github = "bryanwb"
+            homepage = "http://devopsanywhere.blogspot.com/"
+        [params.authors.John]
+          name = "John E. Vincent (Lusis)"
+          thumbnail = "img/hosts/lusis.jpg"
+          bio = "John E. Vincent is a 17-year veteran of the IT industry and a frequent contributor to the DevOps discussion. He’s done everything from working the help desk to building out data centers. He got officially involved with DevOps in early 2010 and fancies himself a developer in his spare time. John lives with his wife and two sons in Roswell, Georgia. His code lives on Github."
+          [params.authors.John.social]
+            twitter = "lusis"
+            github = "lusis"
+            homepage = "http://blog.lusis.org/"
