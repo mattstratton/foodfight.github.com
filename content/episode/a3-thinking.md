@@ -1,0 +1,120 @@
++++
+title = "a3 thinking"
+date = "2017-02-28"
+slug = "2017/02/28/a3-thinking"
+Categories = []
+Description = ""
+explicit = "no"
+podcast_file = "FFS108.mp3"
+tags = []
+youtube = "pXHmeNhlETE"
+guests = ["cswetel"]
++++
+
+* [Panel](http://foodfightshow.org/2017/02/a3-thinking.html#panel)
+* [Outline](http://foodfightshow.org/2017/02/a3-thinking.html#outline)
+* [Picks](http://foodfightshow.org/2017/02/a3-thinking.html#picks)
+* Download
+  * [Video](https://youtu.be/pXHmeNhlETE)
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS108.mp3)
+
+Panel<a name="panel"></a>
+-----
+
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Catherine Swetel [twitter](https://twitter.com/CatSwetel), [github](https://github.com/catswetel)
+* Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
+* Alan Kraft
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+### Chef & Food Fight Updates
+
+* Join us in the [Chef Community Slack](http://community-slack.chef.io/)
+* [New Habitat homepage](https://www.habitat.sh/)
+* [ChefConf](https://chefconf.chef.io/2017/)
+  * Workshops
+* [Training](https://training.chef.io/)
+  * Online training from The Linux Academy and Udemy
+  * [Classes](https://training.chef.io/classes) - London, San Francisco, Washington DC, Seattle, Chicago, Dublin, Raleigh, Boston, and online.
+* [Upcoming Chef Events](https://events.chef.io/)
+  * March 1 - [Testing at the Edges webinar](https://events.chef.io/events/testing-at-the-edges/)
+  * March 2-5 - [Southern California Linux Expo](https://events.chef.io/events/scale-southern-california-linux-expo/)
+  * March 3 - [DevOps Automation M4 Meetup](https://events.chef.io/events/devops-automation-m4-meetup/)
+  * March 3 - [DevOpsDays Los Angeles](https://events.chef.io/events/devopsdays-los-angeles/)
+  * March 6-8 - [QCon London](https://events.chef.io/events/qcon-london/)
+  * March 7-8 - [DevOpsDays Baltimore](https://events.chef.io/events/devopsdays-baltimore/)
+  * March 8 - [Hands on with Habitat - London](https://events.chef.io/events/hands-habitat-london/)
+  * March 8 - [Quantifying DevOps Outcomes - Managing Risk webinar](https://events.chef.io/events/quantifying-outcomes-managing-risk/)
+* Blog Posts
+  * [Chef Community Engineering – 2016 – A Year in Review](https://blog.chef.io/2017/02/24/chef-community-engineering-2016-a-year-in-review/)
+  * [Infrastructure as Binaries](https://www.jfrog.com/blog/infrastructure-code-binaries/)
+  * [Habitat World Tour: Gent, Berlin, Amsterdam](https://blog.chef.io/2017/02/28/habitat-world-tour-gent-berlin-amsterdam/)
+* Social Media
+  * Tweet us - [@foodfighshow](https://twitter.com/foodfightshow)
+  * Email us - [info@foodfightshow.org](mailto:info@foodfightshow.org)
+  * Tell us in the [#foodfight channel in the Chef Community Slack](https://chefcommunity.slack.com/archives/foodfight)
+
+### A3 Thinking
+
+* What is A3?
+* Solving Problems with A3
+  * [Plan Do Study Act](https://deming.org/management-system/pdsacycle)
+  * [5 Whys](https://en.wikipedia.org/wiki/5_Whys)
+* It's Not Always Easy: Resistance to A3
+  * [Researching Your Own Practice: The Discipline of Noticing](https://www.amazon.com/Researching-Your-Own-Practice-Discipline/dp/0415248620)
+  * [Managing to Learn: Using the A3 management process by John Shook](https://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=246)
+* The A3 Process; Forms and Root Cause Analysis
+  * [The infinite hows](https://www.oreilly.com/ideas/the-infinite-hows)
+  * [The Food Fight Show: Complexity Theory and Cynefin](http://foodfightshow.org/2015/01/complexity-theory-and-cynefin.html)
+  * [The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA](https://www.amazon.com/Challenger-Launch-Decision-Technology-Deviance/dp/0226851761)
+  * [Each necessary, but only jointly sufficient](http://www.kitchensoap.com/2012/02/10/each-necessary-but-only-jointly-sufficient/)
+* A3ing Alone vs in a Team Setting
+* Do we need a problem?
+  * [Food Fight Show: Design Thinking](http://foodfightshow.org/2016/02/design-thinking.html)
+  * [David Allen's GTD (Getting Things Done)](http://gettingthingsdone.com/)
+* Real Life Examples
+  * [Shuhari](https://en.wikipedia.org/wiki/Shuhari)
+  * [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
+
+Picks<a name="picks"></a>
+-----
+
+#### Ben
+
+* [Resin.io](https://resin.io/)
+
+#### Alan
+
+* [The PreAccident Podcast](https://preaccidentpodcast.podbean.com/)
+* Take a theater class
+
+#### Catherine
+
+* [TINSEL Headset](http://tinsel.me/)
+
+#### Nell
+
+* [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
+* [The Daily Bunny](http://dailybunny.org/)
+
+#### Nathen
+
+* Hugs for people dealing with the S3 outage
+* [Fresh New Stuff video series](https://www.youtube.com/watch?v=OpsMDijWNfg&list=PL11cZfNdwNyNbxu10i7yPAjOoWAS_1_SQ&index=2)
+
+Download
+--------
+
+* [Video](https://youtu.be/pXHmeNhlETE)
+* [Audio](http://traffic.libsyn.com/foodfight/FFS108.mp3)
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).

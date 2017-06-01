@@ -1,0 +1,127 @@
++++
+title = "packer"
+date = "2013-08-14"
+slug = "2013/08/14/packer"
+Categories = ["packer", "vagrant", "go", "mitchellh"]
++++
+Join us as we discuss [Packer](http://packer.io) with [Mitchell Hashimoto](https://twitter.com/mitchellh)
+
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/MOCao3DeWSU" frameborder="0" allowfullscreen></iframe>
+
+* [Panel](http://foodfightshow.org/2013/08/packer.html#panel)
+* [Chef News](http://foodfightshow.org/2013/08/packer.html#news)
+* [Outline](http://foodfightshow.org/2013/08/packer.html#outline)
+* [Picks](http://foodfightshow.org/2013/08/packer.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3)
+  * [Video](http://youtu.be/MOCao3DeWSU)
+
+Panel<a name="panel"></a>
+------
+* Mitchell Hashimoto [github](https://github.com/mitchellh), [twitter](https://twitter.com/mitchellh)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+<!-- more -->
+
+Chef News<a name="news"></a>
+---------
+
+* [Infrastructure upgrades with Chef](http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/) - A blog post from Etsy on how they roll-out minor changes to their infrastructure using knife-spork and knife-flip. The post also details how they roll-out larger changes with feature flags using [chef-whitelist](https://github.com/etsy/chef-whitelist), a library cookbook for implementing feature flags.
+* [We are the Operations team at Etsy. Ask us anything!](http://www.reddit.com/r/IAmA/comments/1k7tlu/we_are_the_operations_team_at_etsy_ask_us_anything/) - A Q&A session with the Operations team at Etsy run via reddit.
+* [The Importance of Dependency Testing](http://www.miketheman.net/2013/08/11/the-importance-of-dependency-testing/)
+* [Awesome Community Chef: Mike Fiedler – “Roller Derbies & Cookbook Versions”](http://www.opscode.com/blog/2013/08/12/awesome-community-chef-mike-fiedler-roller-derbies-cookbook-versions/)
+
+* [Opscode Community Summit](http://wiki.opscode.com/display/chef/Community+Summit+3+-+2013) - Join us November 12-13 in Seattle to share your ideas, triumphs, and challenges with Chef or other personal projects.  Space is limited so [register today](https://www.regonline.com/opscodesummit-2013)!
+
+
+Outline<a name="outline"></a>
+-------
+* Chef News
+* Introductions
+* [HashiCorp](http://www.hashicorp.com)
+* The State of [Vagrant](http://www.vagrantup.com)
+* What is [Packer](http://www.packer.io/intro/index.html)
+* Developing Packer
+* [The Go Programming Language](http://golang.org)
+* [JSON](http://www.json.org)
+* Creating Images/Virtual Boxes
+* [veewee](https://github.com/jedi4ever/veewee)
+* [veewee-to-packer](https://github.com/mitchellh/veewee-to-packer)
+* Packer Workflow:
+  * Download Packer
+  * Write your template
+  * Builder brings up a machine
+  * Provisioner installs software (upload files, chef, puppet, etc.)
+  * Builder shuts thing down and packages things up
+  * With the template you run packer build
+  * Artifacts
+  * Builders produce artifact your template
+  * Post-processor takes an artifact and outputs a new artifact
+  * Builds
+* Mistakes made in Vagrant
+* Work on Packer vs work on Vagrant
+* Is Packer Stable?
+* Is the Chef Provisioner Included with the Packer Distribution?
+* Contributors
+* Parallel Builds Feature
+* Editing a configuration and building packer images workflow
+* [rpc](http://golang.org/pkg/net/rpc/)
+* Box Versioning
+
+Picks<a name="picks"></a>
+-----
+#### Mitchell
+
+* Mozilla
+  * [Rust](http://www.rust-lang.org/)
+    * [Rust for Rubyists](http://www.rustforrubyists.com/)
+  * [Firefox OS](http://www.mozilla.org/en-US/firefox/os/)
+  * [Servo](https://github.com/mozilla/servo)
+* Napa Valley
+
+#### Brandon
+
+* [John Willis](https://twitter.com/botchagalupe)
+* [Gene Kim](https://twitter.com/realgenekim)
+
+#### Bryan
+
+* [Go for System Administrators](http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/)
+* [Elixir Design Goals](http://elixir-lang.org/blog/2013/08/08/elixir-design-goals/)
+
+#### John
+
+* [Soundfreaq](http://soundfreaq.com/soundplatform2)
+* [DevOpsDays Atlanta](http://devopsdays.org/events/2013-atlanta/)
+* [Where's My Water](http://games.disney.com/wheres-my-water-app)
+
+#### Mike
+
+* [DevOpsDays NYC](http://devopsdays.org/events/2013-newyork/)
+* [Duolingo](http://www.duolingo.com/)
+
+#### Nathen
+
+* [Surge](http://surge.omniti.com/2013)
+* [Rocky Mountain Ruby Conference](http://rockymtnruby.com/)
+* [Raging Bitch - Belgian-style IPA](http://flyingdogales.com/beers/raging-bitch/)
+
+Download
+--------
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow59-Packer.mp3)
+* [Video](http://youtu.be/MOCao3DeWSU)
+
+<hr />
+
+The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+ 

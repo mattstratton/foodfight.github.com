@@ -1,0 +1,133 @@
++++
+title = "testing in practice"
+date = "2013-05-22"
+slug = "2013/05/22/testing-in-practice"
+Categories = []
++++
+Show Date: May 22, 2013
+
+Foodcritic, knife cookbook test, Chefspec, minitest chef handler, and cucumber chef.  So many tools but how are these actually used in practice?
+
+Listen in on the panel discussion of testing in practice.
+
+Watch Now
+--------
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/DhcXXOIerIc" frameborder="0" allowfullscreen></iframe>
+
+* [Panel](http://foodfightshow.org/2013/05/testing-in-practice.html#panel)
+* [Chef News](http://foodfightshow.org/2013/05/testing-in-practice.html#news)
+* [Outline](http://foodfightshow.org/2013/05/testing-in-practice.html#outline)
+* [Picks](http://foodfightshow.org/2013/05/testing-in-practice.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3)
+  * [Video stream](http://www.youtube.com/watch?v=DhcXXOIerIc)
+
+
+Panel<a name="panel"></a>
+-----
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
+* Jason Fox [twitter](https://twitter.com/jasonrobertfox), [github](https://github.com/jasonrobertfox), [blog](http://neverstopbuilding.net/)
+* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn), [blog](http://www.juliandunn.net/)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
+* Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
+
+<!-- more -->
+
+Chef News<a name="news"></a>
+---------
+
+* [TDD your DevOps with test-kitchen 1.0](http://starkandwayne.com/articles/2013/05/07/tdd-your-devops-with-test-kitchen/) a video from [@drnic](http://twitter.com/drnic) showing off TDD with test-kitchen.
+* Managing Your Ruby Toolchain - a series of blog posts from [@sascha_d](https://twitter.com/sascha_d):  [Part 1](http://blog.brattyredhead.com/blog/2013/05/12/pieces-and-parts-managing-your-ruby-toolchain/) and [Part 2:  The Package Repo Rant](http://blog.brattyredhead.com/blog/2013/05/17/managing-your-ruby-toolchain-part-2-the-package-repo-rant)
+* [The Chef Survival Guide:  An Opinionated Approach to Test Driven Chef Development](https://leanpub.com/chef-survival-guide) - The is an eBook from [Jason Fox](http://twitter.com/jasonrobertfox)
+* [Open The Bifrost!](http://www.opscode.com/blog/2013/05/21/open-the-bifrost/) - Recent improvements to Hosted Chef's permission manager.  With pretty graphs!
+
+Outline<a name="outline"></a>
+-------
+
+* Introductions
+* Chef News
+* What is testing?
+  * Unit Testing
+  * Integration Testing
+  * Acceptance Testing
+  * Regression Testing
+* The evolution of testing
+* Syntax of linting tools
+  * [Foodcritic](http://acrmp.github.io/foodcritic/)
+* Standardizing Workflows
+  * [chefspec](https://github.com/acrmp/chefspec)
+  * [Opscode Cookbook Test Process](http://wiki.opscode.com/display/chef/Opscode+Cookbook+Test+Process)
+  * [knife cookbook](http://docs.opscode.com/knife_cookbook.html)
+  * [minitest](https://github.com/seattlerb/minitest)
+* [Vagrant](http://www.vagrantup.com/)
+* Tools
+  * [chefspec](https://github.com/acrmp/chefspec)
+  * [Foodcritic](http://acrmp.github.io/foodcritic/)
+  * [minitest](https://github.com/seattlerb/minitest)
+  * [minitest-handler](http://community.opscode.com/cookbooks/minitest-handler)
+* [chefspec](https://github.com/acrmp/chefspec)
+  * The converge in chefspec vs normal converge
+  * Ruby blocks and bash blocks
+  * [Travis CI](https://github.com/travis-ci)
+  * Stubbing search calls
+* Mocks and Stubs
+  * [Martin Fowler: Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
+* [serverspec](https://github.com/mizzy/serverspec)
+* [Test Kitchen](https://github.com/opscode/test-kitchen)
+  * [bats](https://github.com/sstephenson/bats)
+  * [busser](https://github.com/fnichol/busser)
+* IRC Question: Test Kitchen currently uses Chef solo. Is there a way to get it to use [chef-client](http://docs.opscode.com/essentials_chef_client.html)?
+* Load Balancers and Jenkins Servers
+  * [cucumber-chef](https://github.com/Atalanta/cucumber-chef)
+* The concept of how a driver works and their role in Test Kitchen
+  * Mixing and matching drivers
+* A first foray into testing: where to start?
+  * [Code School - Testing with RSpec](http://rspec.codeschool.com/)
+* CI Methods of testing
+  * [Jenkins CI](http://jenkins-ci.org/)
+* When will Test Kitchen 1.0 be ready?
+
+Picks<a name="picks"></a>
+-----
+#### Bryan
+
+- [Prague Fatale](http://www.amazon.com/Prague-Fatale-Bernie-Gunther-Philip/dp/B00B1L6B4G)
+- [POODR](http://poodr.info)
+
+#### Fletcher
+
+- [Newcastle Brown Ale](http://beeradvocate.com/beer/profile/342/639) -- The beer that fueled Jamie (Test Kitchen 1.0) and many other projects
+
+##### Jason
+
+- [Troegs Dreamweaver](http://t.co/vFOKd2wiqv)
+- [chef survival guide](https://leanpub.com/chef-survival-guide)
+
+#### Julian
+
+- Beta of our expanded LWRP documentation -- please check it out and submit PRs! [resource](http://docs.opscode.com/lwrp_custom_resource.html) and [provider](http://docs.opscode.com/lwrp_custom_provider_resources.html)
+- [Summit Sága IPA](http://www.summitbrewing.com/brews/saga-ipa) -- because I'm in Minneapolis, and in honor of the fact that we deployed Bifröst, the new authentication backend for Hosted Chef
+
+##### Mike
+
+- [tailor](https://github.com/turboladen/tailor) - ruby style linter
+- [Benziger Family Winery](http://www.benziger.com/) - especially the [2009 Tribute](http://www.benziger.com/2009_tribute)
+
+##### Ranjib 
+
+- [jenkins.rb](https://github.com/jenkinsci/jenkins.rb) ruby api on top of jenkins
+
+
+#### Stephen
+
+- [chruby](https://github.com/postmodern/chruby) and his [cookbook](https://github.com/Atalanta/chef-chruby) for it
+- [interloper live 2006, Miles Hunt](https://itunes.apple.com/us/album/interloper-live-2006-live/id320047495)
+
+
+Download
+--------
+* [Audio](http://traffic.libsyn.com/foodfight/episode_51_testing_in_practice.mp3)
+* [Video stream](http://www.youtube.com/watch?v=DhcXXOIerIc)

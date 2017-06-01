@@ -1,0 +1,89 @@
++++
+title = "ohai"
+date = "2013-09-17"
+slug = "2013/09/17/ohai"
+Categories = []
++++
+
+Join our discussion about Ohai and Ohai Plugins.
+
+# Watch Now
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/g-q-P2z87zg?list=UUjcxay9M63Ci4CmFF9KO3jw" frameborder="0" allowfullscreen></iframe>
+
+* [Panel](http://foodfightshow.org/2013/09/ohai.html#panel)
+* [Outline](http://foodfightshow.org/2013/09/ohai.html#outline)
+* [Picks](http://foodfightshow.org/2013/09/ohai.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-62-Ohai.mp3)
+  * [Video](http://www.youtube.com/watch?v=g-q-P2z87zg)
+
+Panel<a name="panel"></a>
+-------------
+
+* Bryan McLellan - [twitter](https://twitter.com/btmspox), [github](https://github.com/btm), [blog](http://loftninjas.org/)
+* Claire McQuin - [github](https://github.com/mcquin)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Seth Vargo - [github](http://github.com/sethvargo), [twitter](https://twitter.com/sethvargo)
+* Warren 'Wazza' Bain [github](http://github.com/thoughtcroft), [twitter](https://twitter.com/thoughtcroft)
+
+<!-- more -->
+
+Outline<a name="outline"></a>
+-------
+* Introductions
+* [Warren's Blog Post: Cloud programming part four: how to write and install an Ohai plugin, the Fight Club way](http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&cd=1&hl=en&ct=clnk&gl=us)
+* What Ohai does and what it's used for
+* Writing your own Ohai plugin
+* [Community Plugins: Ohai](http://docs.opscode.com/community_plugin_ohai.html)
+* [Ohai documentation](http://docs.opscode.com/ohai.html)
+* [ninefold_ohai cookbook](https://github.com/ninefold/chef-ninefold-ohai)
+* The Hints System
+* Testing
+* [fauxhai](https://github.com/customink/fauxhai)
+* Running Ohai plugins
+* What's coming in Ohai 7
+* Attributes
+* More flexibility in plugin path organization
+
+Picks<a name="picks"></a>
+-----
+#### Seth
+
+* Iced Tea
+
+#### Warren
+
+* [GoPro Camera](http://gopro.com/)
+* [GoGaRuCo](http://gogaruco.com/)
+* [flood.io](https://flood.io/)
+* [V for Vendetta](http://www.imdb.com/title/tt0434409/)
+
+#### Claire
+
+* [Baroness "Yellow & Green"](http://baroness.bandcamp.com/album/yellow-green)
+* Using a Tennis Ball
+
+#### Bryan
+
+* [Disable typing mute in Google Hangouts on both OS X and Windows](https://plus.google.com/113194239234001586097/posts/MZna2qrTBfm)
+* [Beeminder](https://www.beeminder.com/)
+
+#### Nathen
+
+* [Rocky Mountain Ruby](http://rockymtnruby.com/)
+
+Download
+--------
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-62-Ohai.mp3)
+* [Video](http://www.youtube.com/watch?v=g-q-P2z87zg)
+
+<hr />
+
+The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+

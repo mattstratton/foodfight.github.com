@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vagrant on My New Hugo Site</title>
+    <link>http://example.org/categories/vagrant/</link>
+    <description>Recent content in Vagrant on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/vagrant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>packer</title>
+      <link>http://example.org/episode/2013/08/14/packer/</link>
+      <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/08/14/packer/</guid>
+      <description>Join us as we discuss Packer with Mitchell Hashimoto
+Watch Now   Panel Chef News Outline Picks Download  Audio Video   Panel  Mitchell Hashimoto github, twitter Brandon Burton github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Chef News  Infrastructure upgrades with Chef - A blog post from Etsy on how they roll-out minor changes to their infrastructure using knife-spork and knife-flip.</description>
+    </item>
+    
+  </channel>
+</rss>

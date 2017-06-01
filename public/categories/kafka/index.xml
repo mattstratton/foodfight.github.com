@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kafka on My New Hugo Site</title>
+    <link>http://example.org/categories/kafka/</link>
+    <description>Recent content in Kafka on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>apache kafka</title>
+      <link>http://example.org/episode/2014/11/17/apache-kafka/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/11/17/apache-kafka/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  Brandon Burton github, twitter Jay Kreps twitter blog  Outline  LinkedIn Apache Kafka  @apachekafka  Kafka Defined: Kafka is a distributed, partitioned, replicated commit log service. It provides the functionality of a messaging system, but with a unique design.  Getting Started: Introduction FAQ Documentation Mailing Lists irc.freenode.net/#apache-kafka  Replication &amp;amp; Use Cases  Partitions  ZooKeeper &amp;amp; Kafka  Apache Hadoop  Confluent  @ConfluentInc Confluent Launch  Building a Company Around Open Source Infrastructure  Support &amp;amp; Services Docker Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

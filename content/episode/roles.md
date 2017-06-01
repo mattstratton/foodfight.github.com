@@ -1,0 +1,38 @@
++++
+title = "roles"
+date = "2013-01-10"
+slug = "2013/01/10/roles"
+Categories = []
++++
+Show Date:  Thursday, January 10, 2013
+
+This episode is a look at Roles, Environments, Attributes and Data Bags.  
+The episode was recorded as a Google+ Hangout and streamed live on YouTube.
+
+You can now [subscribe to the Food Fight Show email newsletter](http://bit.ly/ffsmail).
+
+Panel<a name="panel"></a>
+-----
+
+* Sean O'Meara  [github](https://github.com/someara), [twitter](https://twitter.com/someara), [blog](http://blog.afistfulofservers.net/)
+* David Kleinschmidt [github](https://github.com/zobar), [twitter](https://twitter.com/zobar2)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Download
+--------
+
+* [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-36-Roles-Environs-Etc.mp3)
+* [Video Stream](http://www.youtube.com/watch?v=Z2NssEeVHlI)
+
+Watch Now<a name="video"></a>
+---------
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Z2NssEeVHlI" frameborder="0" allowfullscreen></iframe>
+
+Music Notes
+----------
+* Eric Reeves - Food Fight Show Theme Song
+* [Youngblood Brass Band - Brooklyn](http://www.youtube.com/watch?v=TxH9Dg1JLio)
+* [Epic Violin Guy - Revenge of the Nerds](http://www.youtube.com/watch?v=XePd71I4ozk)
+

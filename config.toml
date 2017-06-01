@@ -1,0 +1,77 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Food Fight"
+theme = "castanet"
+canonifyurls = false
+buildFuture = false
+buildDrafts = false
+dataDir = "data"
+# disqusShortname = "arresteddevops"
+archetypedir = "archetypes"
+paginate = 9
+
+[permalinks]
+	page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+
+  [params]
+  # Facebook = "//facebook.com/Arresteddevops"
+  GATracker = "UA-32494051-1"
+  Twitter = "//twitter.com/foodfightshow"
+  Description = "The Podcast where DevOps chefs do battle"
+  site_theme = "grey"
+  site_layout = "row"
+  enable_jumbo = "false"
+  copyright_notice = "Copyright © 2017 - Bryan Berry - Nathen Harvey - Matt Ray"
+  itunes_subscribe = "http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922"
+  android_subscribe = "http://subscribeonandroid.com/foodfightshow.org/atom.xml"
+  media_prefix = "http://traffic.libsyn.com/foodfight/"
+    [params.feed]
+    feed_copyright = "Copyright © 2017 - Bryan Berry - Nathen Harvey - Matt Ray" #do not use markdown in this field; it is used in the feed
+    # itunes_subtitle = "There's always DevOps in the Banana Stand"
+    itunes_author = "Bryan Berry - Nathen Harvey - Matt Ray" #no markdown or HTML
+    itunes_summary = "The Podcast where DevOps chefs do battle" # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Bryan Berry"
+    itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
+    itunes_first_sub_category = "Software How-To"
+    itunes_second_sub_category = "Tech News"
+  	[params.social]
+  		github = "foodfight"
+  		# facebook = "Arresteddevops"
+  		# facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
+  		twitter = "foodfightshow"
+  		twitter_domain = "foodfightshow.org" # This domain shows in twitter cards as "View on `twitter_domain`"
+  		# googleplus = "ArrestedDevOps"
+  		# instagram = "arresteddevops"
+  		youtube = "channel/UCjcxay9M63Ci4CmFF9KO3jw"
+  	[params.authors]
+  	  [params.authors.Nathen]
+  			name	= "Nathen Harvey"
+  			thumbnail = "https://www.arresteddevops.com/img/matt.png"
+  			bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
+  			[params.authors.Nathen.social]
+          github = "mattstratton"
+          facebook = "matt.stratton"
+          twitter = "mattstratton"
+          linkedin = "mattstratton"
+          homepage = "https://www.mattstratton.io"
+          pinterest = "mattstratton"
+          instagram = "instagram"
+          youtube = "mattstratton"
+  		[params.authors.Nell]
+  			name = "Nell Shamrell-Harrington"
+  			thumbnail = "img/hosts/nharrington.png"
+  			bio = "Adding his bio late enough for it to be a cutout stuffed in the playbill, Trevor Hess is a Software Consultant at 10th Magnitude. Usually writing .NET applications on Azure, he always appreciates new challenges. Between exceedingly nerdy anecdotes and useless facts lay some opinions and thoughts about how we build software and teams. Trevor has been seen previously in such shows as \"The Fantasticks\" and \"Joseph And the Amazing Technicolor Computer Screen\"."
+  				[params.authors.Nell.social]
+  					twitter = "nellshamrell"
+            github = "nellshamrell"
+  			[params.authors.Bridget]
+  				name = "Bridget Kromhout"
+  				thumbnail = "https://www.arresteddevops.com/img/Bridget.png"
+  				bio = "Bridget Kromhout is a Principal Technologist for [Cloud Foundry](https://pivotal.io/platform) at [Pivotal](https://pivotal.io/). Her CS degree emphasis was in theory, but she now deals with the concrete (if ‘cloud’ can be considered tangible). After years as an operations engineer (most recently at DramaFever), she traded in oncall for more travel. A frequent speaker at tech conferences, she helps organize tech meetups at home in Minneapolis, serves on the program committee for Velocity, and acts as a global core organizer for [devopsdays](https://www.devopsdays.org/). She occasionally blogs at [bridgetkromhout.com](http://bridgetkromhout.com/) and is active in a [Twitterverse](https://twitter.com/bridgetkromhout) near you."
+  				[params.authors.Bridget.social]
+  					twitter = "bridgetkromhout"
+            homepage = "http://bridgetkromhout.com/"

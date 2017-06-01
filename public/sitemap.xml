@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.org/episode/2017/04/17/devops-live-call-in-show/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2017/02/28/a3-thinking/</loc>
+    <lastmod>2017-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2017/02/27/ms-ignite-australia/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2017/02/17/configuration-management-camp-2017/</loc>
+    <lastmod>2017-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2017/01/06/sous-chefs/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2017/01/04/new-year/</loc>
+    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2016/12/08/policy-files/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2016/09/26/devopsdays-dfw/</loc>
+    <lastmod>2016-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2016/09/22/awesome-community-chefs/</loc>
+    <lastmod>2016-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2016/06/20/habitat/</loc>
+    <lastmod>2016-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2016/02/21/inspec/</loc>
+    <lastmod>2016-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2016/02/09/design-thinking/</loc>
+    <lastmod>2016-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2016/02/08/configuration-management-camp-2016/</loc>
+    <lastmod>2016-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/12/28/chef-and-openstack/</loc>
+    <lastmod>2015-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/10/23/learning-reviews/</loc>
+    <lastmod>2015-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/07/14/audit-mode-and-compliance/</loc>
+    <lastmod>2015-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/06/16/managing-secrets-in-the-vault/</loc>
+    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/06/12/devopsdays-dc/</loc>
+    <lastmod>2015-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/04/12/chefconf-day-3-recap/</loc>
+    <lastmod>2015-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/04/11/chefconf-day-2-recap/</loc>
+    <lastmod>2015-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/03/05/chefconf-preview/</loc>
+    <lastmod>2015-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/02/11/configuration-management-camp/</loc>
+    <lastmod>2015-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/01/29/complexity-theory-and-cynefin/</loc>
+    <lastmod>2015-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2015/01/20/three-year-retrospective/</loc>
+    <lastmod>2015-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/11/17/apache-kafka/</loc>
+    <lastmod>2014-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/11/04/consul-template/</loc>
+    <lastmod>2014-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/11/04/devopsdays-belgium-2014/</loc>
+    <lastmod>2014-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/10/18/even-moar-windows/</loc>
+    <lastmod>2014-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/10/18/live-from-chef-summit-london-2014/</loc>
+    <lastmod>2014-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/10/07/windows-automation-for-angry-neckbeards/</loc>
+    <lastmod>2014-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/10/06/community-summit-2014/</loc>
+    <lastmod>2014-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/08/27/chefdk/</loc>
+    <lastmod>2014-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/08/22/test-kitchen-1-dot-x/</loc>
+    <lastmod>2014-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/07/08/supermarket/</loc>
+    <lastmod>2014-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/06/04/chef-metal/</loc>
+    <lastmod>2014-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/06/03/devops-days-pittsburgh/</loc>
+    <lastmod>2014-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/06/03/management-in-operations/</loc>
+    <lastmod>2014-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/04/29/cookbook-patterns/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2014/01/10/were-doing-it-wrong/</loc>
+    <lastmod>2014-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/12/17/opsworks/</loc>
+    <lastmod>2013-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/12/03/best-practices-with-chef/</loc>
+    <lastmod>2013-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/11/27/docker-in-practice/</loc>
+    <lastmod>2013-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/11/19/community-summit-day-1/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/11/19/community-summit-recap/</loc>
+    <lastmod>2013-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/11/05/livin-on-the-edge-with-al-tobey/</loc>
+    <lastmod>2013-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/10/01/the-future-of-devops/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/09/27/chef-and-hpc/</loc>
+    <lastmod>2013-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/09/17/ohai/</loc>
+    <lastmod>2013-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/09/16/openstack/</loc>
+    <lastmod>2013-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/08/20/devops-riot/</loc>
+    <lastmod>2013-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/08/14/packer/</loc>
+    <lastmod>2013-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/07/22/immutable-infrastructure/</loc>
+    <lastmod>2013-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/07/09/secret-chef/</loc>
+    <lastmod>2013-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/07/01/erlang-eye-for-the-devops-guy-and-gal/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/06/28/devopsdays-silicon-valley/</loc>
+    <lastmod>2013-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/06/17/continuous-delivery/</loc>
+    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/06/13/episode-53-chef-internals-with-dan-deleo/</loc>
+    <lastmod>2013-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/06/05/amazon-web-services/</loc>
+    <lastmod>2013-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/05/22/testing-in-practice/</loc>
+    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/05/21/monitorama-2013/</loc>
+    <lastmod>2013-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/05/09/netflix-oss/</loc>
+    <lastmod>2013-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/04/30/chefconf-day-two-wrap-up/</loc>
+    <lastmod>2013-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/04/27/chefconf-2013-talking-shop-with-spheromak/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/04/26/chefconf-2013-day-1-wrap-up/</loc>
+    <lastmod>2013-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/04/26/chefconf-2013-talking-about-push-jobs-with-kevin-smith/</loc>
+    <lastmod>2013-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/04/15/docker-the-linux-container-runtime/</loc>
+    <lastmod>2013-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/04/08/a-smarter-os/</loc>
+    <lastmod>2013-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/03/25/the-phoenix-project/</loc>
+    <lastmod>2013-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/03/19/elasticsearch/</loc>
+    <lastmod>2013-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/03/13/lwrps/</loc>
+    <lastmod>2013-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/03/11/hangops/</loc>
+    <lastmod>2013-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/03/04/adaptive-fault-detection/</loc>
+    <lastmod>2013-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/02/20/chef-11/</loc>
+    <lastmod>2013-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/02/19/saving-the-world-with-devops-big-data-and-hpc/</loc>
+    <lastmod>2013-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/02/13/logstash/</loc>
+    <lastmod>2013-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/02/06/use-thinking-methodically-about-performance/</loc>
+    <lastmod>2013-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/01/28/application-deployment/</loc>
+    <lastmod>2013-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/01/24/windows-roundtable/</loc>
+    <lastmod>2013-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/01/22/roles2/</loc>
+    <lastmod>2013-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/01/18/devopsdays-nyc-thats-a-wrap/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/01/18/devopsdays-with-matthias-meyer/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/01/10/roles/</loc>
+    <lastmod>2013-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2013/01/02/food-fight-show-year-two/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/12/20/ops-school-and-training-sysadmins/</loc>
+    <lastmod>2012-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/12/13/monitoringlove-with-sensu/</loc>
+    <lastmod>2012-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/11/15/cookbook-versioning/</loc>
+    <lastmod>2012-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/11/06/google-plus-hangouts/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/11/01/inaugural-office-hours/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/31/release-engineering/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/25/community-summit-day-two/</loc>
+    <lastmod>2012-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/23/community-summit-day-one/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/11/metrics-driven-engineering/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/07/devops-delicacy-special-episode/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/05/devopsdays-rome/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/03/interview-with-kate-matsudaira/</loc>
+    <lastmod>2012-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/10/01/ken-robertson-on-go/</loc>
+    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/29/surge-conf-2012/</loc>
+    <lastmod>2012-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/29/surge-update-with-matt-grahamn-from-etsy/</loc>
+    <lastmod>2012-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/29/wrap-up-surge-with-theo-schlossnagle/</loc>
+    <lastmod>2012-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/28/surge-update-knewton/</loc>
+    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/28/surge-update-mike-nolet/</loc>
+    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/28/update-from-surge-with-andrew-miklas-from-pagerduty/</loc>
+    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/27/surge-day-1/</loc>
+    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/25/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern/</loc>
+    <lastmod>2012-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/09/20/vagrant/</loc>
+    <lastmod>2012-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/08/25/test-kitchen/</loc>
+    <lastmod>2012-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/08/23/chatops-at-github-with-jesse-newland/</loc>
+    <lastmod>2012-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/08/03/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf/</loc>
+    <lastmod>2012-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/07/27/interview-with-theo-schlossnagle/</loc>
+    <lastmod>2012-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/07/20/changing-culture-and-being-a-force-for-awesome/</loc>
+    <lastmod>2012-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/07/18/monitoring-for-n00bs-with-jason-dixon/</loc>
+    <lastmod>2012-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/07/14/devops-delicacy-chef-introductory-workshop-with-david-bock/</loc>
+    <lastmod>2012-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/07/10/interview-with-joshua-timberman/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/2012/07/03/roll-your-own-paas-mark-imbriaco-and-alex-howells/</loc>
+    <lastmod>2012-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/cassandra/</loc>
+    <lastmod>2013-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2013-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/filesystems/</loc>
+    <lastmod>2013-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/go/</loc>
+    <lastmod>2013-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/golang/</loc>
+    <lastmod>2013-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/jaykreps/</loc>
+    <lastmod>2014-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/kafka/</loc>
+    <lastmod>2014-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/linux/</loc>
+    <lastmod>2013-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/mitchellh/</loc>
+    <lastmod>2013-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/packer/</loc>
+    <lastmod>2013-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/vagrant/</loc>
+    <lastmod>2013-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/episode/episode-46-zookeeper1/</loc>
+  </url>
+  
+</urlset>

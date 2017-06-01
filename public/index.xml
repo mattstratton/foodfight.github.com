@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>devops live call in show</title>
+      <link>http://example.org/episode/2017/04/17/devops-live-call-in-show/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2017/04/17/devops-live-call-in-show/</guid>
+      <description>Coming soon on Monday, May 8! We are joining forces with Arrested DevOps to host our first live devops call in show! We will be featuring Dr. Nicole Forsgren, ready to answer your DevOps questions about measuring effectiveness, ROI of DevOps initiatives, and more!
+Mark your calendars for Monday, May 8 at 10 AM PDT. We will be accepting requests to ask Nicole questions live on air in the #foodfight channel of the Chef Community Slack, the #chef channel of Hangops Slack, and the #arrested-devops channel in the DevOps Chat Slack.</description>
+    </item>
+    
+    <item>
+      <title>a3 thinking</title>
+      <link>http://example.org/episode/2017/02/28/a3-thinking/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2017/02/28/a3-thinking/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  Nell Shamrell-Harrington github, twitter, blog Catherine Swetel twitter, github Ben Rockwood twitter, blog, github Alan Kraft Nathen Harvey github, twitter, blog  Outline &amp;amp; Show Notes Chef &amp;amp; Food Fight Updates  Join us in the Chef Community Slack New Habitat homepage ChefConf  Workshops  Training  Online training from The Linux Academy and Udemy Classes - London, San Francisco, Washington DC, Seattle, Chicago, Dublin, Raleigh, Boston, and online.</description>
+    </item>
+    
+    <item>
+      <title>ms ignite australia</title>
+      <link>http://example.org/episode/2017/02/27/ms-ignite-australia/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2017/02/27/ms-ignite-australia/</guid>
+      <description>Join Nell Shamrell and Matt Ray as they discuss the Microsoft Ignite Australia conference.
+ Panel Outline Picks Download  Audio   Panel  Matt Ray github, twitter, blog Nell Shamrell-Harrington github, twitter, blog  Show Notes  The Microsoft Company Pivot  HoloLens  Habitat  Creating Packages that Run Anywhere with Chef Habitat (Nell Shamrell, Ken Thompson)  Treating Windows and Linux as First-class Citizens InSpec and Azure Complience Being in Australia  Limited Edition T-Shirts   Picks Matt  360fly 4K Camera Spoon  Nell  Visual Studio Code Breakfast in Australia avomash  Download  Audio  The Food Fight Show is brought to you by Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>configuration management camp 2017</title>
+      <link>http://example.org/episode/2017/02/17/configuration-management-camp-2017/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2017/02/17/configuration-management-camp-2017/</guid>
+      <description>Listen in to this recap from Configuration Management Camp Gent 2017.
+ Outline Picks Download  Audio   Show Notes  Live from Config Management Camp Gent 2017 @lusis&amp;rsquo;s Keynote: Configuration Management: Is it a solved problem? What is the future of configuration management? Getting Away From Centralized Authority: Centralization vs Decentralization Immutable Infrastructure; Logging In Containers Running Docker About Config Management Camp Hallway Track Key Takeaways: Self-care, Empathy, Limitation Awareness Cost and Value of Config Management Camp Audience Thoughts &amp;amp; Experiences  Download  Audio  The Food Fight Show is brought to you by Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>sous chefs</title>
+      <link>http://example.org/episode/2017/01/06/sous-chefs/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2017/01/06/sous-chefs/</guid>
+      <description>Watch Now!   Panel Outline Picks Download  Video Audio   Panel  Grant Ridder github, twitter Joseph Holsten twitter, github, irc: josephholsten, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline &amp;amp; Show Notes Chef &amp;amp; Food Fight Updates  Join us in the Chef Community Slack New InSpec website ChefConf Upcoming Chef Events Have topic or guest ideas? Who do you want to hear from?</description>
+    </item>
+    
+    <item>
+      <title>new year</title>
+      <link>http://example.org/episode/2017/01/04/new-year/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2017/01/04/new-year/</guid>
+      <description>Watch Now!   Panel Outline Picks Download  Video Audio   Panel  Nell Shamrell-Harrington github, twitter, blog Nathen Harvey github, twitter, blog Brandon Burton github, twitter  Outline &amp;amp; Show Notes  Personal Updates Food Fight Show Reflections  Configuration Management Camp 2016 DevOpsDays DFW Habitat Design Thinking InSpec Nell Shamrell: Untangling Terraform Through Refactoring  Chef Board of Governance (CBGB) Chef Community Guidelines Chef Partner Cookbook Program  An example of the quality measures of a cookbook Other metrics we&amp;rsquo;re looking to implement  Habitat Chef Community Members and Contributors  Chef Community Slack rfc074-community-slack.</description>
+    </item>
+    
+    <item>
+      <title>policy files</title>
+      <link>http://example.org/episode/2016/12/08/policy-files/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2016/12/08/policy-files/</guid>
+      <description>Watch Now!   Panel Outline Picks Download  Video Audio   Panel  John Bellone github, twitter Michael Hedgpeth github, twitter blog Daniel DeLeo github, twitter George Miranda github, twitter Nell Shamrell-Harrington github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline &amp;amp; Show Notes  Upcoming Events  Seattle Chef Meetup – Game Night! DevOps Remote Conference Microsoft Azure on Chef Workshop Config Management Camp ChefConf 2017: Submit a CFP by January 18th!</description>
+    </item>
+    
+    <item>
+      <title>devopsdays dfw</title>
+      <link>http://example.org/episode/2016/09/26/devopsdays-dfw/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2016/09/26/devopsdays-dfw/</guid>
+      <description>Panel Outline Audio  Panel  Trevor Hess Arrested Devops, github, twitter Michael Coté Software Defined Talk, github, twitter, blog Annie Hedgpeth twitter, github, blog Michael Hedgpeth github, twitter, blog Nathen Harvey github, twitter, blog  Outline &amp;amp; Show Notes  The First DevOps Days: Dallas Nathen’s Three Counts  Have you been to a DevOps Days before? How many have participated in Open Spaces? Is this your first technical conference?</description>
+    </item>
+    
+    <item>
+      <title>awesome community chefs</title>
+      <link>http://example.org/episode/2016/09/22/awesome-community-chefs/</link>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2016/09/22/awesome-community-chefs/</guid>
+      <description>Panel Outline Audio  Panel  Doug Ireton github, twitter, blog Seth Thomas github, twitter Stuart Preston github, twitter, blog Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, blog  Outline &amp;amp; Show Notes  Doug’s Involvement in the Chef Community What Keeps Mike Going in Open Source Stuart’s Microsoft Background and Involvement in the Chef Community What it Means for Seth to be a Lieutenant for a Project in the Chef Ecosystem Doug Organizing The Downtown Seattle Friday Morning Coffee Ops Mike and the Ops School Curriculum Stuart’s Chef Extension for Visual Studio Code Seth: How can I join the Chef Community?</description>
+    </item>
+    
+    <item>
+      <title>habitat</title>
+      <link>http://example.org/episode/2016/06/20/habitat/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2016/06/20/habitat/</guid>
+      <description>Watch Now  Join us for a discussion about Habitat a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You&amp;rsquo;ll spend less time on the environment and more time building features.
+ Panel Outline Download  Video Audio   Panel  Adam Jacob twitter, github Nell Shamrell-Harrington github, twitter, blog Jamie Winsor github, twitter, blog Brandon Burton github, twitter Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline &amp;amp; Show Notes Show Notes  Happy 100th Episode!</description>
+    </item>
+    
+    <item>
+      <title>inspec</title>
+      <link>http://example.org/episode/2016/02/21/inspec/</link>
+      <pubDate>Sun, 21 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2016/02/21/inspec/</guid>
+      <description>Watch Now  Join us for a discussion about InSpec, the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.
+ Panel Outline Picks Download  Video Audio   Panel  Christoph Hartmann github, twitter Dominik Richter github, twitter Gary Bright github twitter Paul Welch github, twitter Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline &amp;amp; Show Notes What&amp;rsquo;s Cooking?</description>
+    </item>
+    
+    <item>
+      <title>design thinking</title>
+      <link>http://example.org/episode/2016/02/09/design-thinking/</link>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2016/02/09/design-thinking/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  Ben Rockwood twitter, blog, github Jeff Sussna twitter, website Brandon Burton github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline &amp;amp; Show Notes What&amp;rsquo;s Cooking? - Chef News &amp;amp; Events  Webinars:  Chef DOJO: Your DevOps Journey Assessment Test Driven Cookbook Development - February 24 Chef Workflow - March 9  Upcoming Chef Training  Chef Essentials Chicago Toronto San Francisco Atlanta Online Chef Intermediate Topics Chicago Seattle Atlanta Online Test-driven Cookbook Development - New offering Online  From the Chef Blog  7 Ways IT Will Change in 2016 to Bring DevOps Mainstream Update on native 64-bit Windows Chef Client Delivery’s Bitbucket (Stash) Integration Released Supermarket 2.</description>
+    </item>
+    
+    <item>
+      <title>configuration management camp 2016</title>
+      <link>http://example.org/episode/2016/02/08/configuration-management-camp-2016/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2016/02/08/configuration-management-camp-2016/</guid>
+      <description>A wrap-up of Configuration Management Camp 2016 recorded live at the end of the conference.
+ Panel Outline Picks Download  Audio   Panel  James Shubin - twitter Kris Buytaert - twitter Seth Thomas github, twitter Donnie Berkholz twitter Ian Penney twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  The History of Configuration Management Camp Configuration Management Camp Experiences  FOSDEM  Tracks &amp;amp; Ignite Talks MGMT Project Config Management Camp &amp;lsquo;15 vs Config Management Camp &amp;lsquo;16 AIX  Download  Audio  The Food Fight Show is brought to you by Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>chef and openstack</title>
+      <link>http://example.org/episode/2015/12/28/chef-and-openstack/</link>
+      <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/12/28/chef-and-openstack/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  JJ Asghar github, twitter, blog, irc: j^2 Nick Silkey github, twitter, irc: filler Samuel Cassiba github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline &amp;amp; Show Notes  Last OpenStack Episode - Episode 61 - Sept, 2013  Grizzly to Havana timeframe Nova - Compute Swift - Object Storage Glance - Image Service Keystone - Identity Service Horizon - Dashboard Neutron - Network Service Cinder - Block Storage Service Ceilometer - Metering Service Heat - Orchestration  New services since then:</description>
+    </item>
+    
+    <item>
+      <title>learning reviews</title>
+      <link>http://example.org/episode/2015/10/23/learning-reviews/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/10/23/learning-reviews/</guid>
+      <description>Join us for a discussion of Learning Reviews. What and how can we learn from failure?
+Watch Now   Panel Outline Picks Download  Video Audio   Panel  Dave Zwieback twitter, blog, github Caitlin Milligan Sheaffer twitter Lola Soto twitter Christopher Webber github, twitter Yulia Sheynkman about Robb Kidd github, twitter Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline &amp;amp; Show Notes  Beyond Blame: Learning From Failure and Success by Dave Zwieback Learning Reviews vs Performance Reviews and Postmortems Blameless Postmortems The History of the Book and The Postmortems Workshops Lola&amp;rsquo;s Postmortem Workshop Experience Identifying and Preventing Blame Accountability Prioritization Tradeoffs Understanding Risk Discount Rank (Why is an executive in the room?</description>
+    </item>
+    
+    <item>
+      <title>audit mode and compliance</title>
+      <link>http://example.org/episode/2015/07/14/audit-mode-and-compliance/</link>
+      <pubDate>Tue, 14 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/07/14/audit-mode-and-compliance/</guid>
+      <description>Listen in as we discuss Chef&amp;rsquo;s Audit Mode, Analytics, and compliance.
+Watch Now   Panel Outline Picks Download  Video Audio   Panel  Elliott Davis github, twitter Joshua Schipper twitter Joshua Timberman github, twitter, blog Julian Dunn twitter, github Kyleen MacGugan github, twitter Steven Murawski github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  What is compliance? Why is infrastructure as code not enough?</description>
+    </item>
+    
+    <item>
+      <title>managing secrets in the vault</title>
+      <link>http://example.org/episode/2015/06/16/managing-secrets-in-the-vault/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/06/16/managing-secrets-in-the-vault/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Seth Vargo github, twitter Milos Gajdos github, twitter, blog Mike Fiedler github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  What is a &amp;ldquo;secret&amp;rdquo;? Protecting Secrets (Secret Management)  chef-vault  Decrypting Secrets  Personally Identifiable Information (PII)  Working with Vaults (Experience)  keywhiz Amazon KMS (Key Management Service)  Vault  Vault Interactive Tutorial Backends Audit Backends Auth Backends Secret Backends Postgres VALID UNTIL (Lease Expiration) Renewals Transit Secret Backend Use Case: Using for Vault developers to share secrets back and forth?</description>
+    </item>
+    
+    <item>
+      <title>devopsdays dc</title>
+      <link>http://example.org/episode/2015/06/12/devopsdays-dc/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/06/12/devopsdays-dc/</guid>
+      <description>A wrap-up of DevOpsDays DC recorded live at the end of the conference.
+  Download  Video Audio   Outline  DevOpsDays DC 2015 United States Pattern and Trademark Office (USPTO) The Program Videos of the Keynotes and Ignite Talks Some of what happened in Open Spaces: Areas 1-4 and Areas 5-8 Some Twitter searches: #devopsdays, #doddc, @devopsdaysdc mentions, the main @devopsdaysdc feed Etherpad for session notes, job postings, and banter ITIL  Download  Video Audio  The Food Fight Show is brought to you by Bryan Berry and Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>chefconf day 3 recap</title>
+      <link>http://example.org/episode/2015/04/12/chefconf-day-3-recap/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/04/12/chefconf-day-3-recap/</guid>
+      <description>Watch now   Panel Outline Download  Video Audio   Panel  Mary Thengvall twitter github Adam Jacob twitter github Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  Conference Themes: The Community and The People - &amp;ldquo;People First&amp;rdquo; The Santa Clara Convention Center How Chef Has Grown and Changed the Past 4 Years Technology Diversity The Exhibit Hall Favorite Parts of ChefConf 2015  Download  Video Audio  The Food Fight Show is brought to you by Bryan Berry and Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>chefconf day 2 recap</title>
+      <link>http://example.org/episode/2015/04/11/chefconf-day-2-recap/</link>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/04/11/chefconf-day-2-recap/</guid>
+      <description>Watch now   Panel Outline Download  Video Audio   Panel  Mikhail Panchenko twitter, github Opsmatic Nicole Forsgren twitter, github Brandon Burton github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  ChefConf 2015 Community Summit (Open Spaces)  DevOps make things better and take care of each other; Better Code = Better Results. Jennifer Davis: From Hero to Zero (DevOpsDays Boston 2014) Burnout.io John Willis: DevOps Culture (Part 1) (CAMS = Culture, Automation, Measurement and Sharing) Adam Jacob: No Assholes Rules Reward Firefighting And You&amp;rsquo;ll Create A Culture Of Arsonists  Opsmatic  @optmatic  Day 2 Keynotes and Sessions The Chef Community Cookbooks Survey  Download  Video Audio  The Food Fight Show is brought to you by Bryan Berry and Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>chefconf preview</title>
+      <link>http://example.org/episode/2015/03/05/chefconf-preview/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/03/05/chefconf-preview/</guid>
+      <description>Watch now   Panel Outline Download  Video Audio   Panel  Brian Scott twitter, github, blog Bridget Kromhout twitter, github Christine Draper twitter, github, blog, website Jamesha Fisher twitter Jeff LaPlante Jennifer Burke twitter Jennifer Davis twitter, github Jessica DeVita twitter Jon Cowie twitter, github Karolin Beck twitter Matt Wrock twitter Mukta Aphale github, twitter, TechLinguist Harold &amp;ldquo;Waldo&amp;rdquo; Grunenwald twitter, github Brandon Burton github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Chef Conf 2015: Game On!</description>
+    </item>
+    
+    <item>
+      <title>configuration management camp</title>
+      <link>http://example.org/episode/2015/02/11/configuration-management-camp/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/02/11/configuration-management-camp/</guid>
+      <description>A wrap-up of Configuration Management Camp 2015 recorded live at the end of the conference.
+ Panel Outline Picks Download  Audio   Panel  Kara Sowles - twitter Gareth Rushgrove - twitter James Shubin - twitter Andrew Clay Shafer - twitter Kris Buytaert - twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  Panel Intros The Puppet Podcast The Genesis of ConfigManagementCamp 8 Track Conference in Gent, Belgium from February 2-3 2015 FOSDEM Conference Differences between this year&amp;rsquo;s conference and last year&amp;rsquo;s Life of a Community Manager FOSDEM vs ConfigManagementCamp Monitorama Containerization Virtualization Widespread Maturity Building Images in Docker Tools and Solving Higher Level Problems Controversial Topics:  Config management is a solved problem.</description>
+    </item>
+    
+    <item>
+      <title>complexity theory and cynefin</title>
+      <link>http://example.org/episode/2015/01/29/complexity-theory-and-cynefin/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/01/29/complexity-theory-and-cynefin/</guid>
+      <description>Join us as we discuss Complexity Theory and Cynefin. This twitter thread is the inspiration for this show.
+Watch Now   Panel Outline Picks Download  Video Audio   Panel  Nathen Harvey github, twitter, irc: nathenharvey, blog Mike Fiedler github, twitter, blog Dave Zwieback twitter, blog, github Courtney Nash twitter, github Ben Rockwood twitter, blog, github Dave Snowden twitter, blog  Outline Chef News  Upcoming Chef Training - Register with code FOODFIGHT to save 10%  Bangalore - Fundamentals San Francisco - Fundamentals Bangalore - Intermediate London - Intermediate with Nathen!</description>
+    </item>
+    
+    <item>
+      <title>three year retrospective</title>
+      <link>http://example.org/episode/2015/01/20/three-year-retrospective/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2015/01/20/three-year-retrospective/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Brandon Burton github, twitter Matt Ray github, twitter, irc: mattray, blog Mike Fiedler github, twitter, blog John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter  Outline  How The Food Fight Show got started Favorite Episodes:  Testing in Practice Back to the Kernel With Greg Kroah-Hartman TESTALLTHETHINGS: Testing Infrastructure with Jim Hopp, Stephen Nelson-Smith, and Andrew Crump Live Post-Mortem With David Zwieback, John Allspaw, and Mike Rembetsy Adrian Cockcroft Episode =&amp;gt; Netflix OSS Steven Murawski Episode =&amp;gt; Windows Automation for Frustrated Sysadmins Nordstrom Episode =&amp;gt; Windows Roundtable Live Episodes LWRPs Application Deployment Continuous Delivery  What has gotten better in the DevOps community since the show started?</description>
+    </item>
+    
+    <item>
+      <title>apache kafka</title>
+      <link>http://example.org/episode/2014/11/17/apache-kafka/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/11/17/apache-kafka/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  Brandon Burton github, twitter Jay Kreps twitter blog  Outline  LinkedIn Apache Kafka  @apachekafka  Kafka Defined: Kafka is a distributed, partitioned, replicated commit log service. It provides the functionality of a messaging system, but with a unique design.  Getting Started: Introduction FAQ Documentation Mailing Lists irc.freenode.net/#apache-kafka  Replication &amp;amp; Use Cases  Partitions  ZooKeeper &amp;amp; Kafka  Apache Hadoop  Confluent  @ConfluentInc Confluent Launch  Building a Company Around Open Source Infrastructure  Support &amp;amp; Services Docker Inc.</description>
+    </item>
+    
+    <item>
+      <title>consul template</title>
+      <link>http://example.org/episode/2014/11/04/consul-template/</link>
+      <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/11/04/consul-template/</guid>
+      <description>Watch Now Part 1 
+Part 2 
+ Panel Outline Picks Download  Video Part 1 Part 2 Audio   Panel  Brandon Burton github, twitter Dan Phrawzty github, twitter, irc: phrawzty, blog John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog Seth Vargo github, twitter, irc: sethvargo, blog  Outline  Seth Vargo Introduction consul-template Introduction  Go! go-template Consul - consul.io JSON redis Ruby WebNode15 Chef Chef Cookbook  chef-template  Puppet Ansible IRC Bash bash-template  Quiescence  Quiescence - Webster’s Dictionary DryRun Verbosity  Seth’s Background  HachiCorp Vagrant Rails Go!</description>
+    </item>
+    
+    <item>
+      <title>devopsdays belgium 2014</title>
+      <link>http://example.org/episode/2014/11/04/devopsdays-belgium-2014/</link>
+      <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/11/04/devopsdays-belgium-2014/</guid>
+      <description>Outline Audio  Outline  Five-Year Anniversary DevOps Days Conference  Patrick Debois DevOps Open Spaces  What’s Special About DevOps - J. Paul Reed  The Ship Show @ShipShowPodcast Culture vs. Tools Reddit Thread on DevOps Thank You Patrick - YouTube The Ship Show - Five Years of DevOps (and Its Days) DevOps Days Talks and Events Michael Ducy Andi Mann  Concepts of Talks  Inclusive Language and Actions Gender Bias  Next DevOps Conferences  FOSDEM: Brussels - January 2015 Config Management Camp: Gent February 2-3, 2015 DevOps Days Paris - April 2015  Social Contracts Future of DevOps - Closing Thoughts  Download  Audio  The Food Fight Show is brought to you by Bryan Berry and Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>even moar windows</title>
+      <link>http://example.org/episode/2014/10/18/even-moar-windows/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/10/18/even-moar-windows/</guid>
+      <description>Panel Outline Download  Audio   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Steven Murawski github, twitter, blog Adam Edwards github Daniel Mitchell Hans  Outline  How do I figure out how parameterize an MSI install? Key windows-specific resources you should know about: registry_key, env Creating and managing Windows services  What is a windows service? Tools, automating creation of services? nssm.cc, procrun How does a service resource relate to Windows services?</description>
+    </item>
+    
+    <item>
+      <title>live from chef summit london 2014</title>
+      <link>http://example.org/episode/2014/10/18/live-from-chef-summit-london-2014/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/10/18/live-from-chef-summit-london-2014/</guid>
+      <description>Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog Jon Cowie, Web Operations Engineer at Etsy github, twitter, blog Aaron Kalin github, twitter Zachary T. Stevens github, twitter  Listen now
+Outline  chef guard myrepos tool for managing a large # of git repos knife-inspect  A recording from the end of the first day of the Chef Community Summit in London, 2014.</description>
+    </item>
+    
+    <item>
+      <title>windows automation for angry neckbeards</title>
+      <link>http://example.org/episode/2014/10/07/windows-automation-for-angry-neckbeards/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/10/07/windows-automation-for-angry-neckbeards/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Video Audio   Panel  Steven Murawski - github, twitter, blog Matt Stratton - github, twitter Stephen Nelson-Smith - twitter, irc: cope, blog Nathen Harvey - github, twitter, irc: nathenharvey, blog Bryan Berry - github, twitter, irc: bryanwb, blog: devopsanywhere  Outline Chef News  Chef Community Summit Wiki  Upcoming Events Chef Week London - Intermediate Training with Mandi Walls, Chef Community Summit London, and a Chef Hack Day.</description>
+    </item>
+    
+    <item>
+      <title>community summit 2014</title>
+      <link>http://example.org/episode/2014/10/06/community-summit-2014/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/10/06/community-summit-2014/</guid>
+      <description>A recording from the end of the first day of the Chef Community Summit in Seattle, 2014.
+Listen now
+Session notes and more information captured during the Community Summit can be found in the Chef Community Summit Wiki on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>chefdk</title>
+      <link>http://example.org/episode/2014/08/27/chefdk/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/08/27/chefdk/</guid>
+      <description>Join our panelists as we discuss ChefDK!
+Watch Now   Panel Outline Picks Download  Video Audio   Panel  Daniel DeLeo - github, twitter Jason Reslock - github, twitter John Deatherage - github, twitter Jon Cowie github, twitter, blog Serdar Sutay - github, twitter Tara Hernandez - githubtwitter, irc: tequilarista Joshua Timberman - github, twitter, blog Mike Fiedler - github, twitter, blog Nathen Harvey - github, twitter, irc: nathenharvey, blog  Outline Chef News Upcoming Events  Chef Community Summit - October 2 &amp;amp; 3 - FOODFIGHT saves 10% Chef Community Summit London - October 15 &amp;amp; 16 - FOODFIGHT saves 10%</description>
+    </item>
+    
+    <item>
+      <title>test kitchen 1 dot x</title>
+      <link>http://example.org/episode/2014/08/22/test-kitchen-1-dot-x/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/08/22/test-kitchen-1-dot-x/</guid>
+      <description>Join our panelists as we discuss Test Kitchen!
+Watch Now   Panel Outline Picks Download  Audio Video   Panel  Fletcher Nichol twitter, github JJ Asghar github, twitter, blog, irc: j^2 Jonathan Hartman github, twitter, irc: roboticcheese - Jon was able to join us almost long enough to introduce himself ;( Joshua Timberman github, twitter, blog Mike Fiedler github, twitter, blog Salim Afiune github, twitter Scott Pustay github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Chef News Upcoming Events  Chef Community Summit - October 2 &amp;amp; 3 - FOODFIGHT saves 10% Chef Community Summit London - October 15 &amp;amp; 16 - FOODFIGHT saves 10%</description>
+    </item>
+    
+    <item>
+      <title>supermarket</title>
+      <link>http://example.org/episode/2014/07/08/supermarket/</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/07/08/supermarket/</guid>
+      <description>Join us for a discussion about the new community site: Chef Supermarket.
+Watch Now Part 1
+ Part 2 
+ Panel Outline Picks Download  Audio Video Part 1 Part 2   Panel  Jeff Carapetyan twitter, blog, github, irc:jcarapet Brett Chalupa github, twitter, blog Mike Biang github, twitter Chris Webber github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline
+ AWS Summit Chef Supermarket Managing Systems  Future Intentions  Contribution Process &amp;amp; Licenses  Become a Contributor Contributor License Agreement (CLA) Apache 2.</description>
+    </item>
+    
+    <item>
+      <title>chef metal</title>
+      <link>http://example.org/episode/2014/06/04/chef-metal/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/06/04/chef-metal/</guid>
+      <description>Join us as we discuss chef-metal with it&amp;rsquo;s creator, John Keiser
+Watch Now   Panel Outline Picks Download  Audio Video   Panel  John Keiser github, twitter Dafydd Crosby github, twitter, blog Matt Wrock github, twitter, blog Ranjib Dey github, twitter, blog Matt Ray github, twitter, irc: mattray, blog Brandon Burton github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Chef News  Managing Windows Servers with Chef - A new book by John Ewart DockerCon - June 9-10 Chef Fundamentals Webinar Series Texas Linux Fest - June 13-14  Chef Workshop - June 13  Austin Chef Meetup - June 18 Velocity - June 24-26  Chef hack day at Velocity  DevOpsDays Silicon Valley - June 27-28 Upcoming Training  Boston - June 16-17 DC - June 18-19 Online - Windows class - June 23-25 San Francicso - June 25-26 London - June 26-27    Show Notes  chef-metal - A library for creating machines and infrastructures idempotently in Chef.</description>
+    </item>
+    
+    <item>
+      <title>devops days pittsburgh</title>
+      <link>http://example.org/episode/2014/06/03/devops-days-pittsburgh/</link>
+      <pubDate>Tue, 03 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/06/03/devops-days-pittsburgh/</guid>
+      <description>  Panel Outline Download  Audio   Panel  Jake Champlin github, twitter, irc: grubernaut, blog Pete Cheslock twitter, blog, github, irc: petecheslock
+ Andrew Clay Shafer twitter
+ Julian Dunn twitter, github
+ John Vincent, aka Lusis twitter, github
+ Nathen Harvey github, twitter, irc: nathenharvey, blog
+  Outline  DevOpsDays: Pittsburgh  Talks (Videos)  Jake Cham;lin&amp;rsquo;s First DevOpsDays Experience  @grubernaut Werewolf  Jennifer Davis&amp;rsquo; Talk From Zero to Hero  @sigje #ChefConf 2014: Adam Jacob, &amp;ldquo;Keynote Session&amp;rdquo;  John Ellian  General Dynamics  Pete Cheslock&amp;rsquo;s Talk DevOps: How to Fail With One Weird Trick  @petecheslock Sports Analogies  John Vincent, aka Lusis on DevOpsDays  @lusis  Cayci Gorlitsky  @caycicaysi PyLadies Charleston @PyLadiesCHS  Bridget Kromhout  @bridgetkromhout DevOps Against Humanity  Julian Dunn  @julian_dunn  Ben Rockwood  @benr Joyent Coda  Anthony Mastrean  @AnthonyMastrean  Nivia H  @Lanooba  Dan on Organizing DevOpsDays  @meatballhat   </description>
+    </item>
+    
+    <item>
+      <title>management in operations</title>
+      <link>http://example.org/episode/2014/06/03/management-in-operations/</link>
+      <pubDate>Tue, 03 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/06/03/management-in-operations/</guid>
+      <description>  Panel Outline Download  Audio   Panel  Kevin Behr twitter Mark Imbriaco twitter Ben Rockwood twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  The Phonenix Project by Kevin Behr, George Spafford, and Gene Kim Kevin&amp;rsquo;s DevOpsDays Opening Keynote (TL;DR)  Prioritization Command Narative Strategic Intent  Mission Statements Operations  Context  Embedding Ops Interface Middle Management Cynefin Processes  Scaling Teams Feedback Kanban  Working in IT Context Switching  </description>
+    </item>
+    
+    <item>
+      <title>cookbook patterns</title>
+      <link>http://example.org/episode/2014/04/29/cookbook-patterns/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/04/29/cookbook-patterns/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Audio Video   Panel  Jamie Winsor - github, twitter, blog Tom Duffield - github, twitter, blog, irc: tomduffield Brandon Burton github, twitter Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Chef News  #ChefConf 2014 - Watch all the videos on YouTube! Awesome Community Chefs ChefDK 0.1.0 Released Upcoming Conferences  LOPSA-East - Featuring talks from five Chef employees!</description>
+    </item>
+    
+    <item>
+      <title>were doing it wrong</title>
+      <link>http://example.org/episode/2014/01/10/were-doing-it-wrong/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2014/01/10/were-doing-it-wrong/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Audio Video   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Mike Fiedler github, twitter, blog Ranjib Dey github, twitter, blog  Outline  Using a general key value store for storing configuration data Etcd vs ZooKeeper Kelsey Hightower&amp;rsquo;s SysAdvent post on etcd Latency chef-server Configuration Management cassandra Hazelcast Use cases Pre-baking images omnibus  Picks Lusis  autoseal travel mug influxdb Why I&amp;rsquo;m learning Java Bryan&amp;rsquo;s blog post post on why he is learning a relatively boring programming language  Mike  Bounty Source CodeTriage  Ranjib  Check Point Restore in Userspace ruby-lxc native binding to lxc for Ruby Chef Server written in Go  Bryan  gh, command-line tool for interacting github  Download  Audio Video  The Food Fight Show is brought to you by Bryan Berry and Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>opsworks</title>
+      <link>http://example.org/episode/2013/12/17/opsworks/</link>
+      <pubDate>Tue, 17 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/12/17/opsworks/</guid>
+      <description>Watch and listen to our discussion of Amazon&amp;rsquo;s OpsWorks.
+Watch Now   Panel Outline Picks Download  Audio Video   Panel  Jonathan Weiss github, twitter Brandon Burton github, twitter Mike Fiedler github, twitter, blog Tom Duffield github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Chef News  Opscode is now Chef #ChefConf 2014 ultra-early-bird pricing ends on 31 December. Get your tickets now!</description>
+    </item>
+    
+    <item>
+      <title>best practices with chef</title>
+      <link>http://example.org/episode/2013/12/03/best-practices-with-chef/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/12/03/best-practices-with-chef/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Audio Video   Panel  Dylan Northrup twitter, github, blog Kris Buytaert twitter, github, blog John Vincent, aka Lusis twitter, github Julian Dunn twitter, github Tom Robison twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline FOSDEM &amp;amp; Configuration Management Camp EU Kris joins us to discuss FOSDEM and the Configuration Management Camp conferences.</description>
+    </item>
+    
+    <item>
+      <title>docker in practice</title>
+      <link>http://example.org/episode/2013/11/27/docker-in-practice/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/11/27/docker-in-practice/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Audio Video   Panel  Brandon Burton github, twitter James Turnbull twitter, github Tim Dysinger twitter, github, blog  Outline  Introductions Docker  Docker in Practice Pre-1.0  Vagrant test-kitchen Image Layering Device Mapper The Registry 0.6.7 Offline Image Transfer The Remote API Concept Use Cases Workflow Potentials Uber Vendoring James&amp;rsquo; Book Configuration Management Auditing Versioning The Tool Kit Core OS ZooKeeper Testing  Picks Brandon  Sean Porter&amp;rsquo;s Test-Kitchen Docker Driver Demo  Fabio  viewdocs.</description>
+    </item>
+    
+    <item>
+      <title>community summit day 1</title>
+      <link>http://example.org/episode/2013/11/19/community-summit-day-1/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/11/19/community-summit-day-1/</guid>
+      <description>Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.
+Check the github-based wiki for notes from many of the sessions.
+ Panel Outline Download  Panel  John Dyer twitter Tom Duffield twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  Opscode Community Summit Introductions Killswitch Engage Open Spaces Berkshelf Chef without a git repo The Community Site The CLA Signing Process EchoSign Vagrant with chef-solo and chef-zero knife-essentials The Education and Training Session Attribute Validation Cookbook as Library Gems chef-rewind poise eclipse Riot Games Versioning in Chef 12 test-kitchen #ChefConf 2014 Awesome Chef Awards Nominations Heavy Water Dyn  Download  Audio  The Food Fight Show is brought to you by Bryan Berry and Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>community summit recap</title>
+      <link>http://example.org/episode/2013/11/19/community-summit-recap/</link>
+      <pubDate>Tue, 19 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/11/19/community-summit-recap/</guid>
+      <description>Join us as we recap the Opscode Community Summit.
+Watch Now   Panel Outline Download  Audio Video   Panel  John Dyer twitter Mike Fiedler github, twitter, blog JJ Asghar twitter, github Ian Meyer twitter, github Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Show Note During the original recording of the show we went a bit off topic and there was a brief discussion that was not in keeping with the spirit of this show.</description>
+    </item>
+    
+    <item>
+      <title>livin on the edge with al tobey</title>
+      <link>http://example.org/episode/2013/11/05/livin-on-the-edge-with-al-tobey/</link>
+      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/11/05/livin-on-the-edge-with-al-tobey/</guid>
+      <description>Join us as we discuss how to test your distributed system in production with Al Tobey
+Watch Now   Panel Chef News Outline Picks Download  Audio Video   Panel  Al Tobey, Open Source Mechanic at Datastax github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Mike Fiedler github, twitter, blog  Outline
+ Introductions Practice Makes Perfect: Extreme Cassandra Optimization cassandra Apache Cassandra Wiki Cassandra vs Riak DataStax and Cassandra Red Hat MongoDB Oracle JDK and OpenJDK Optimization Third-Party Integration Red Hat and Twitter How Cassandra Deals with the Heap Space Issue Read Ahead Starting Points System D File Systems  Picks Bryan  Remapping the right option key on the Macbook to be a Control key M-f, M-b, M-d, M-del shortcuts in the shell, see the Emacs Readline Cheatsheet  Al  Vibram shoes Serfdom  Mike  Basil Polenta with Poached egg and lemon roasted brussel sprouts Ruby Monk Ruby Tutorials  Download  Audio Video  The Food Fight Show is brought to you by Bryan Berry and Nathen Harvey with help from other hosts and the awesome community of Chefs.</description>
+    </item>
+    
+    <item>
+      <title>the future of devops</title>
+      <link>http://example.org/episode/2013/10/01/the-future-of-devops/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/10/01/the-future-of-devops/</guid>
+      <description>Andrew Clay Shafer (@littleidea) joins us to discuss the future of DevOps.
+Watch Now   Panel Outline Picks Download  Audio Video   Panel  Andrew Clay Shafer twitter, Brandon Burton github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Julian Dunn twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  Upcoming DevOps Days  Atlanta - October 3-4 Barcelona - October 10-11 New York - October 17-18 Vancouver - October 25-26 Portland - November 4-5 London - November 11-12 India - November 16-17  Outline  What is DevOps?</description>
+    </item>
+    
+    <item>
+      <title>chef and hpc</title>
+      <link>http://example.org/episode/2013/09/27/chef-and-hpc/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/09/27/chef-and-hpc/</guid>
+      <description>Bryan and Nathen are joined by Brock Palen and Jeff Squyers, the co-hosts of the RCE Cast, a podcast about High Performance Computing.
+Watch Now   Panel Outline Picks Download  Audio Video   Panel  Brock Palen twitter, github, blog Jeff Squyres twitter, github Ben Cotton twitter, github, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline  Upcoming devopsdays Config Management Camp RCE an HPC Podcast What is HPC?</description>
+    </item>
+    
+    <item>
+      <title>ohai</title>
+      <link>http://example.org/episode/2013/09/17/ohai/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/09/17/ohai/</guid>
+      <description>Join our discussion about Ohai and Ohai Plugins.
+Watch Now   Panel Outline Picks Download  Audio Video   Panel  Bryan McLellan - twitter, github, blog Claire McQuin - github Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog Seth Vargo - github, twitter Warren &amp;lsquo;Wazza&amp;rsquo; Bain github, twitter  Outline  Introductions Warren&amp;rsquo;s Blog Post: Cloud programming part four: how to write and install an Ohai plugin, the Fight Club way What Ohai does and what it&amp;rsquo;s used for Writing your own Ohai plugin Community Plugins: Ohai Ohai documentation ninefold_ohai cookbook The Hints System Testing fauxhai Running Ohai plugins What&amp;rsquo;s coming in Ohai 7 Attributes More flexibility in plugin path organization  Picks Seth  Iced Tea  Warren  GoPro Camera GoGaRuCo flood.</description>
+    </item>
+    
+    <item>
+      <title>openstack</title>
+      <link>http://example.org/episode/2013/09/16/openstack/</link>
+      <pubDate>Mon, 16 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/09/16/openstack/</guid>
+      <description>Watch Now   Panel Outline Picks Download  Audio Video   Panel  Craig Tracey - twitter, github, blog Edmund Haselwanter - twitter, github Hendrik Volkmer github, twitter, blog: Refactoring life. Mercilessly. Judd Maltin - twitter, github, irc: newgoliath, blog Matt Ray github, twitter, irc: mattray, blog Nathen Harvey github, twitter, irc: nathenharvey, blog Rob Hirschfeld - twitter, github, blog  Outline  Introductions What is OpenStack?  Rob Hirschfeld: Kicking off discussion about OpenStack Core Rackspace  7 Core Components (Terms)  Compute (Nova) Object Storage (Swift) Image Service (Glance) Identity Service (Keystone) Dashboard (Horizon) Network Service (Neutron) Block Storage Service (Cinder) Metering Service (Salometer) Orchestration (Heat)  DevStack  docker Chef for OpenStack  knife-openstack Python How To Contribute to OpenStack  review.</description>
+    </item>
+    
+    <item>
+      <title>devops riot</title>
+      <link>http://example.org/episode/2013/08/20/devops-riot/</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/08/20/devops-riot/</guid>
+      <description>Join us as we discuss DevOps at Riot Games.
+Watch Now   Panel Chef News Outline Picks Download  Audio Video   Panel  Brandon Burton github, twitter Dominica DeGrandis twitter Erik Black github, twitter, irc: eblack Jeff Hackert github, twitter Josiah Kiehl github, twitter Mike Fiedler github, twitter, blog Michael Ivey github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Chef News  Introducing Enterprise Chef - Private and Hosted Chef have been renamed to Enterprise Chef&amp;#124;.</description>
+    </item>
+    
+    <item>
+      <title>packer</title>
+      <link>http://example.org/episode/2013/08/14/packer/</link>
+      <pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/08/14/packer/</guid>
+      <description>Join us as we discuss Packer with Mitchell Hashimoto
+Watch Now   Panel Chef News Outline Picks Download  Audio Video   Panel  Mitchell Hashimoto github, twitter Brandon Burton github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Chef News  Infrastructure upgrades with Chef - A blog post from Etsy on how they roll-out minor changes to their infrastructure using knife-spork and knife-flip.</description>
+    </item>
+    
+    <item>
+      <title>immutable infrastructure</title>
+      <link>http://example.org/episode/2013/07/22/immutable-infrastructure/</link>
+      <pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/07/22/immutable-infrastructure/</guid>
+      <description>Show Date: July 22, 2013
+Join us as we discuss Immutable Infrastructure with Chad Fowler.
+This episode was inspired by Chad&amp;rsquo;s recent blog post on Immutable Infrastructure. For some additional thoughts on the subject, check-out Mike Fiedler&amp;rsquo;s #ChefConf talk: Treating Your Infrastructure Like Garbage.
+Watch Now   Panel Chef News Outline Picks Download  Audio Video   Panel  Chad Fowler twitter, github, blog Craig Tracey twitter, github, blog Fletcher Nichol twitter, github Mike Fiedler github, twitter, blog Ranjib Dey github, twitter, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Brandon Burton github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Chef News  DevOps Toolbox: Introduction - a series of blog posts from Christopher Laco that walks through many tools used with Chef.</description>
+    </item>
+    
+    <item>
+      <title>secret chef</title>
+      <link>http://example.org/episode/2013/07/09/secret-chef/</link>
+      <pubDate>Tue, 09 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/07/09/secret-chef/</guid>
+      <description>Show Date: July 9, 2013
+In this episode, we discuss managing secrets with Chef.
+Watch Now   Panel Chef News Outline Picks Download  Audio Video   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Cameron Johnston - github, twitter Kevin Moser github, twitter Matt Ray github, twitter, irc: mattray, blog Miah Johnson github, twitter Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Chef News  Chef on Windows – detecting and fixing WMI problems which prevent chef-client runs a blog post from thetrainline.</description>
+    </item>
+    
+    <item>
+      <title>erlang eye for the devops guy and gal</title>
+      <link>http://example.org/episode/2013/07/01/erlang-eye-for-the-devops-guy-and-gal/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/07/01/erlang-eye-for-the-devops-guy-and-gal/</guid>
+      <description>Show Date: Monday, July 1, 2013
+An introduction to Erlang and OTP for operations professionals.
+Watch Now   Panel Outline Picks Download  Audio Video   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog Seth Thomas github, twitter Hector Castro twitter, github, blog Chris Meiklejohn twitter, github, blog Panos Papadomitsos (PJ) - twitter, github, blog Steve Vinoksi github, twitter, blog  Outline  Introductions Erlang Erlang: The Movie Why Erlang is a good choice for operations Erlang Processes CPU caches Garbage Collection/Heap Sizes and Allocation  The Memory Supervisor Heap Per Process NUMA Awareness  Writing an Application in Erlang vs Go  Open Telecom Platform (OTP)  What is Erlang?</description>
+    </item>
+    
+    <item>
+      <title>devopsdays silicon valley</title>
+      <link>http://example.org/episode/2013/06/28/devopsdays-silicon-valley/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/06/28/devopsdays-silicon-valley/</guid>
+      <description>Show Date: June 21, 2013
+Join this episode where we re-cap DevOpsDays Silicon Valley. We were lucky enough to have members from The Ship Show and DevOps Cafe.
+ Panel Outline Picks Download Audio  Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog John Vincent, aka Lusis twitter, github J. Paul Reed twitter Sascha Bates github, twitter Patrick Debois github, twitter Damon Edwards github, twitter Robert Berger github, github  Outline  Operations Level Up - Presentation from Mandi Walls ([@lnxchk])(https://twitter.</description>
+    </item>
+    
+    <item>
+      <title>continuous delivery</title>
+      <link>http://example.org/episode/2013/06/17/continuous-delivery/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/06/17/continuous-delivery/</guid>
+      <description>Show Date: June 17, 2013
+Watch Now   Panel Chef News Outline Picks Download  Audio Video   Panel  Jez Humble twitter, github, blog Adam Jacob twitter, github Mike McGarr twitter, blog Mike Fiedler github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere  Chef News  Continuous Delivery at SAP Jenkins running Test-Kitchen via Vagrant. On Windows.</description>
+    </item>
+    
+    <item>
+      <title>episode 53 chef internals with dan deleo</title>
+      <link>http://example.org/episode/2013/06/13/episode-53-chef-internals-with-dan-deleo/</link>
+      <pubDate>Thu, 13 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/06/13/episode-53-chef-internals-with-dan-deleo/</guid>
+      <description>Show Date: June 12, 2013
+In today&amp;rsquo;s show we discuss the internals of the chef client code.
+Watch Now   Panel Chef News Outline Picks Download  Audio Video Stream   Panel  Ranjib Dey github, twitter, blog Joshua Timberman github, twitter, blog Daniel DeLeo github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere  News RAMP will be held July 11-12 in Budapest, Hungary. Theo Schlossnagle (@postwait) will be the keynote speaker and speakers from Netflix, Yahoo, Dropbox, Percona and other great companies will present their experiences in building scalable systems.</description>
+    </item>
+    
+    <item>
+      <title>amazon web services</title>
+      <link>http://example.org/episode/2013/06/05/amazon-web-services/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/06/05/amazon-web-services/</guid>
+      <description>Show Date: June 5, 2013
+A round table discussion on using Chef with AWS and brief exploration of some of the many AWS services.
+Watch Now   Panel Chef News Outline Picks Download  Audio Video stream   Panel  Brandon Burton github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Kevin Nuckolls github, twitter Mike Fiedler github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog Trotter Cashion github, twitter, blog  Chef News  Responsive infrastructure with Opscode Chef–an introduction an introduction to Chef from Sam Cooper at bluebox.</description>
+    </item>
+    
+    <item>
+      <title>testing in practice</title>
+      <link>http://example.org/episode/2013/05/22/testing-in-practice/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/05/22/testing-in-practice/</guid>
+      <description>Show Date: May 22, 2013
+Foodcritic, knife cookbook test, Chefspec, minitest chef handler, and cucumber chef. So many tools but how are these actually used in practice?
+Listen in on the panel discussion of testing in practice.
+Watch Now   Panel Chef News Outline Picks Download  Audio Video stream   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Fletcher Nichol twitter, github Jason Fox twitter, github, blog Julian Dunn twitter, github, blog Mike Fiedler github, twitter, blog Ranjib Dey github, twitter, blog Stephen Nelson-Smith twitter, github  Chef News  TDD your DevOps with test-kitchen 1.</description>
+    </item>
+    
+    <item>
+      <title>monitorama 2013</title>
+      <link>http://example.org/episode/2013/05/21/monitorama-2013/</link>
+      <pubDate>Tue, 21 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/05/21/monitorama-2013/</guid>
+      <description>Show Date: 29 March 2013
+Brandon Burton (@solarce) took a microphone to this year&amp;rsquo;s Monitorama and was able to record a bunch of DevOps Delicacies for the show. It&amp;rsquo;s taken Nathen a while to get these edited and ready for release but here they are!
+ Bear on DevOps Consulting with @bear Bethany Erskine of Paperless Post with @skymob Github and Happiness with @wfarr, @jnewland, and @nixgeek Heavywater consulting with @portertech and @webframp John Willis on Docker with @botchagalupe Julian Martinez from Locaweb with @ncode Kyle Kingsbury on Riemann with @aphyr Pete Cheslock on Culture with @petecheslock Sam Kottler with @samkottler  </description>
+    </item>
+    
+    <item>
+      <title>netflix oss</title>
+      <link>http://example.org/episode/2013/05/09/netflix-oss/</link>
+      <pubDate>Thu, 09 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/05/09/netflix-oss/</guid>
+      <description>Show Date: Thursday, May 9, 2013
+Join us as we discuss the Netflix OSS tools.
+ Panel Chef News Outline Picks Download  Audio Video Stream   Watch Now  Panel  Adrian Cockcroft github, twitter, blog Jeremy Edberg github, twitter Trotter Cashion github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Brandon Burton github, twitter, irc: solarce Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Test Kitchen and Jenkins - A blog post from Joshua Timberman about how he&amp;rsquo;s set up a Jenkins build server to run test-kitchen on cookbooks.</description>
+    </item>
+    
+    <item>
+      <title>chefconf day two wrap up</title>
+      <link>http://example.org/episode/2013/04/30/chefconf-day-two-wrap-up/</link>
+      <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/04/30/chefconf-day-two-wrap-up/</guid>
+      <description> Show Date: 26 April 2013
+This is another FoodShipShow Joint Production!
+Join us as we wrap-up #ChefConf 2013.
+You can now subscribe to the Food Fight Show email newsletter.
+ Download Audio  Panel  Fletcher Nichol github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Mike Fiedler github, twitter Sascha Bates @sascha_d J. Paul Reed @SoberBuildEng Youssuf El-Kalay @buildscientist Seth Thomas @cheeseplus Nathen Harvey github, twitter, irc: nathenharvey, blog  Download  Download the Audio file  </description>
+    </item>
+    
+    <item>
+      <title>chefconf 2013 talking shop with spheromak</title>
+      <link>http://example.org/episode/2013/04/27/chefconf-2013-talking-shop-with-spheromak/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/04/27/chefconf-2013-talking-shop-with-spheromak/</guid>
+      <description> Show Date: Thursday, April 27, 2013
+In this episode, we sat down with Jesse Nelson, Miah Johnson and Matthieu Sauve-Frankel at Chefconf
+ Panel Download  Audio    Panel  Jesse Nelson Miah Johnson Matthieu Sauve-Frankel Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere  Download  Audio  </description>
+    </item>
+    
+    <item>
+      <title>chefconf 2013 day 1 wrap up</title>
+      <link>http://example.org/episode/2013/04/26/chefconf-2013-day-1-wrap-up/</link>
+      <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/04/26/chefconf-2013-day-1-wrap-up/</guid>
+      <description> Show Date: 25 April 2013
+This is the inaugural FoodShipShow Joint Production!
+You can now subscribe to the Food Fight Show email newsletter.
+ Download Audio   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Mike Fiedler github, twitter Sascha Bates @sascha_d J. Paul Reed @SoberBuildEng Youssuf El-Kalay @buildscientist Ranjib Dey @RanjibDey Seth Thomas @cheeseplus  Download  Download the Audio file  </description>
+    </item>
+    
+    <item>
+      <title>chefconf 2013 talking about push jobs with kevin smith</title>
+      <link>http://example.org/episode/2013/04/26/chefconf-2013-talking-about-push-jobs-with-kevin-smith/</link>
+      <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/04/26/chefconf-2013-talking-about-push-jobs-with-kevin-smith/</guid>
+      <description> Show Date: 26 April 2013
+Be sure to checkout Crest, a greate demonstration of using Push Jobs like primitives.
+You can now subscribe to the Food Fight Show email newsletter.
+ Download Audio   Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Kevin Smith @KevSmith, github  Download  Download the Audio file  </description>
+    </item>
+    
+    <item>
+      <title>docker the linux container runtime</title>
+      <link>http://example.org/episode/2013/04/15/docker-the-linux-container-runtime/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/04/15/docker-the-linux-container-runtime/</guid>
+      <description>Show Date: Monday, April 15, 2013
+Join us as we discuss Docker and linux containers.
+ Panel Chef News Outline Picks Download  Audio Video Stream   Watch Now  Panel  Jérôme Petazzoni github, twitter, irc: jpetazzo Solomon Hykes github, twitter, irc: shykes Chris Roberts github, twitter, irc: spox Brandon Burton github, twitter John Vincent, aka Lusis twitter, github Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Berkshelf 1.</description>
+    </item>
+    
+    <item>
+      <title>a smarter os</title>
+      <link>http://example.org/episode/2013/04/08/a-smarter-os/</link>
+      <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/04/08/a-smarter-os/</guid>
+      <description>Show Date: Monday, April 8, 2013
+In this episode, we discuss SmartOS and other Solaris derivatives.
+ Panel Chef News Outline Reading List Picks Download  Audio Video Stream   Watch Now  Panel  Ben Rockwood github, twitter Blake Irvin github, twitter Eric Saxby github, twitter Bryan Horstmann-Allen github, twitter John Vincent, aka Lusis twitter, github Brandon Burton github, twitter, irc: solarce Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News Outline  Introductions  Nathen Harvey Brandon Burton Ben Rockwood Blake Irvin Eric Saxby  History of SmartOS  Open Solaris illumos SmartOS OmniOS Open Indiana Nexenta  Joyent&amp;rsquo;s path to using Solaris and making SmartOS More Introductions  Bryan Horstmann-Allen John Vincent (aka lusis)  Mention of Bryan Cantrill&amp;rsquo;s &amp;ldquo;Fork Yeah!</description>
+    </item>
+    
+    <item>
+      <title>the phoenix project</title>
+      <link>http://example.org/episode/2013/03/25/the-phoenix-project/</link>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/03/25/the-phoenix-project/</guid>
+      <description>Show Date: Monday, March 25, 2013
+In this episode, we sat down with Gene Kim and Jez Humble to discuss The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win.
+ Panel Chef News Outline Reading List Picks Download  Audio Video Stream   Watch Now  In the News  foodcritic 2.0.0 - CHANGELOG jvmargs - Sanity check command-line arguments to the JVM. github minitest-handler cookbook Cookbook Versioning Policy - Sane versioning for Chef Cookbooks  Outline  Introductions Intro to the Phoenix Project Phoenix Project - Why now?</description>
+    </item>
+    
+    <item>
+      <title>elasticsearch</title>
+      <link>http://example.org/episode/2013/03/19/elasticsearch/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/03/19/elasticsearch/</guid>
+      <description>Show Date: Tuesday, March 19
+In this episode, we sat down with Shay Banon, Karel Minarik, Rashid Khan, and Dan Phrawzty to discuss elasticsearch.
+ Panel Chef News Picks Download  Audio Video Stream   Watch Now  Panel  Shay Banon twitter Karel Minarik github, twitter, irc: karmi Rashid Khan github, twitter irc: rashidkpc Dan Phrawzty github, twitter, irc: phrawzty, blog John Vincent, aka Lusis twitter, github Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Brandon Burton github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Chef News  Vote for awesome community chefs!</description>
+    </item>
+    
+    <item>
+      <title>lwrps</title>
+      <link>http://example.org/episode/2013/03/13/lwrps/</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/03/13/lwrps/</guid>
+      <description>Show Date: Wednesday, March 13, 2013
+In this episode, we sat down with Miah Johnson, Ranjib Dey, Doug Ireton, Chris McClimans, Joshua Timberman, and Seth Vargo to discuss Libraries, Definitions and LWRPs.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Miah Johnson github, twitter Ranjib Dey github, twitter, blog Doug Ireton github, twitter, irc: dougireton, blog Brandon Burton github, twitter Chris McClimans github, twitter Joshua Timberman github, twitter, blog Seth Vargo github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Doug&amp;rsquo;s articles on writing LWRPs  Creating an LWRP, Part 1: The Resource Creating an LWRP, Part 2: The Provider Creating an LWRP, Part 3  LWRP A lightweight resource is a custom resource that creates an abstract approach for defining a set of actions and (for each action) a set of attributes and validation parameters.</description>
+    </item>
+    
+    <item>
+      <title>hangops</title>
+      <link>http://example.org/episode/2013/03/11/hangops/</link>
+      <pubDate>Mon, 11 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/03/11/hangops/</guid>
+      <description> Show Date: Friday, March 8, 2013
+This is a cross-post from Hangops. Nathen joined Brandon on this week&amp;rsquo;s Hangops which was all about Chef 11.
+ Audio  Watch the Video  </description>
+    </item>
+    
+    <item>
+      <title>adaptive fault detection</title>
+      <link>http://example.org/episode/2013/03/04/adaptive-fault-detection/</link>
+      <pubDate>Mon, 04 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/03/04/adaptive-fault-detection/</guid>
+      <description>Show Date: Monday, March 4, 2013
+In this episode, we sat down with Baron Schwartz to discuss his presentation on Adaptive Fault Detection. Jason Dixon and Brandon Burton joined the conversation.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Baron Schwartz github, twitter, blog Jason Dixon github, twitter, blog Brandon Burton github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Picks Baron  VividCortex Bree, apple, honey, and pesto sandwich Thyme-tea based gin drink  Jason  Food Recipes - Patches welcome!</description>
+    </item>
+    
+    <item>
+      <title>chef 11</title>
+      <link>http://example.org/episode/2013/02/20/chef-11/</link>
+      <pubDate>Wed, 20 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/02/20/chef-11/</guid>
+      <description>Show Date: Wednesday, February 20, 2013
+In this episode, we sit down with some of the engineering team at Opscode to discuss the recently released Chef 11.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Dan DeLeo github, twitter Kevin Smith github, twitter Seth Falcon github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Picks Kevin  21st Century C Characterizing the Scalability of Erlang VM on Many-Core Processors Art of Multiprocessor Programming The Garbage Collection Handbook 2nd Ed.</description>
+    </item>
+    
+    <item>
+      <title>saving the world with devops big data and hpc</title>
+      <link>http://example.org/episode/2013/02/19/saving-the-world-with-devops-big-data-and-hpc/</link>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/02/19/saving-the-world-with-devops-big-data-and-hpc/</guid>
+      <description>Show Date: Tuesday, February 19, 2013
+In this episode, we discuss the role DevOps can play in helping science overcome some of the most pressing research challenges such as climate change and canceer research.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Dr. James Cuff, twitter Anthony Goddard, twitter, github, blog Brandon Burton github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Picks James  julia - high-level, high-performance dynamic programming language for technical computing.</description>
+    </item>
+    
+    <item>
+      <title>logstash</title>
+      <link>http://example.org/episode/2013/02/13/logstash/</link>
+      <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/02/13/logstash/</guid>
+      <description> Show Date: Wednesday, February 13, 2013
+In this episode, we discuss Logstash and The logstash Book with Jordan Sissel and James Turnbull.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Jordan Sissel twitter, github, blog James Turnbull twitter, github John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  Picks Jordan  Net Hack  James  Sensu  lusis  Hammerfall - Hearts On Fire (Curling Version)  Nathen  fpm  Download  Audio Video Stream  </description>
+    </item>
+    
+    <item>
+      <title>use thinking methodically about performance</title>
+      <link>http://example.org/episode/2013/02/06/use-thinking-methodically-about-performance/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/02/06/use-thinking-methodically-about-performance/</guid>
+      <description>Show Date: Tuesday, February 6, 2013
+In this episode, we sit down with Brendan Gregg of Joyent to discuss performance and his recent article, Thinking Methodically about Performance.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Brendan Gregg of Joyent github, twitter, blog Avleen Vig github, twitter, blog MattRay github, twitter, irc: mattray, blog John Vincent, aka Lusis twitter, github Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Picks Bryan  jdownloader The Future of Networking by scott shenker electronic cigarettes  Avleen  Due App  Brendan  Elite 4 Raspbery Pi</description>
+    </item>
+    
+    <item>
+      <title>application deployment</title>
+      <link>http://example.org/episode/2013/01/28/application-deployment/</link>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/01/28/application-deployment/</guid>
+      <description>Show Date: Monday, January 28, 2013
+This episode was started with a tweet:
+{% blockquote @jsegura https://twitter.com/jsegura/status/293914528171839488 %} @nathenharvey are you still recommending capistrano deploys in a chef infrastructure? I want to know what the best practices are {% endblockquote %}
+ Panel Show Notes Download  Audio Video Stream   Watch Now  Panel  Javier Segura github, twitter Julian Dunn github, twitter, blog Joshua Timberman github, twitter, blog Mike Fiedler github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Show Notes Should you deploy your applicaiton with Chef&amp;rsquo;s deploy resource or should you use Capistrano or something like it?</description>
+    </item>
+    
+    <item>
+      <title>windows roundtable</title>
+      <link>http://example.org/episode/2013/01/24/windows-roundtable/</link>
+      <pubDate>Thu, 24 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/01/24/windows-roundtable/</guid>
+      <description>Show Date: Thursday, January 24, 2013
+In this episode, we discuss managing Window environments with Chef.
+ Panel Picks Download  Audio Video Stream   Watch Now  Panel  Doug Ireton, Nordstrom github, twitter, irc: dougireton, blog Jon DeCamp github, twitter, irc: jondecamp Kevin Moser github, twitter, irc: moserke Adam Edwards github Micah Coletti github Amos Coletti github John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  Picks John  The Year&amp;rsquo;s Best Science Fiction  Adam  Elasmosaurus  Amos  RubyMine Trappistes Rochefort 10  Doug  Powerline an awesome Vim status line plugin  Jon  jq lightweight and flexible command-line JSON processor  Kevin  LastPass  Micah  Testing cookbooks!</description>
+    </item>
+    
+    <item>
+      <title>roles2</title>
+      <link>http://example.org/episode/2013/01/22/roles2/</link>
+      <pubDate>Tue, 22 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/01/22/roles2/</guid>
+      <description>Show Date: Tuesday, January 22, 2013
+This episode is a continuation of our discussion of Roles, Environments, Attributes and Data Bags. The episode was recorded as a Google+ Hangout and streamed live on YouTube.
+You can now subscribe to the Food Fight Show email newsletter.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Jeff Hagadorn [github](), twitter Sean O&amp;rsquo;Meara github, twitter, blog Joshua Timberman github, twitter, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline This show was a roundtable discussion of some of the components within Chef.</description>
+    </item>
+    
+    <item>
+      <title>devopsdays nyc thats a wrap</title>
+      <link>http://example.org/episode/2013/01/18/devopsdays-nyc-thats-a-wrap/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/01/18/devopsdays-nyc-thats-a-wrap/</guid>
+      <description>Show Date: 18 January 2013
+Join this round-table discussion summarizing DevOpsDays NYC.
+Panel  Patrick Debois github, twitter, blog Julian Dunn github, twitter, blog Mike Fiedler github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Download Download the DevOpsDays NYC Wrap-up Episode</description>
+    </item>
+    
+    <item>
+      <title>devopsdays with matthias meyer</title>
+      <link>http://example.org/episode/2013/01/18/devopsdays-with-matthias-meyer/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/01/18/devopsdays-with-matthias-meyer/</guid>
+      <description>Show Date: 18 January 2013
+In this episode, Nathen and John sat down to talk with Mathias Meyer, aka @roidrage, to discuss his DevOpsDays NYC presentation, Failure is Always An Option, TravisCI, and more.
+ Download  Here&amp;rsquo;s the video of the Boeing 787 Dreamliner Wing Break Test that was discussed in the episode.
+ </description>
+    </item>
+    
+    <item>
+      <title>roles</title>
+      <link>http://example.org/episode/2013/01/10/roles/</link>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/01/10/roles/</guid>
+      <description> Show Date: Thursday, January 10, 2013
+This episode is a look at Roles, Environments, Attributes and Data Bags.
+The episode was recorded as a Google+ Hangout and streamed live on YouTube.
+You can now subscribe to the Food Fight Show email newsletter.
+Panel  Sean O&amp;rsquo;Meara github, twitter, blog David Kleinschmidt github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  Download  Audio Video Stream  Watch Now  Music Notes  Eric Reeves - Food Fight Show Theme Song Youngblood Brass Band - Brooklyn Epic Violin Guy - Revenge of the Nerds  </description>
+    </item>
+    
+    <item>
+      <title>food fight show year two</title>
+      <link>http://example.org/episode/2013/01/02/food-fight-show-year-two/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2013/01/02/food-fight-show-year-two/</guid>
+      <description>Show Date: 2 January 2013
+This episode is a look back at the Food Fight Show in 2012 and a discussion of the changes planned for 2013. The episode was recorded as a Google+ Hangout and streamed live on YouTube.
+You can now subscribe to the Food Fight Show email newsletter.
+ Video Panel Outline Download  Audio Video Stream   Watch Now  Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Mike Fiedler github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Learning Chef Nathen has started a blog series aimed at helping new people get up and running with Chef.</description>
+    </item>
+    
+    <item>
+      <title>ops school and training sysadmins</title>
+      <link>http://example.org/episode/2012/12/20/ops-school-and-training-sysadmins/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/12/20/ops-school-and-training-sysadmins/</guid>
+      <description>Show Date: Thursday, 20 December 2012
+In this episode, we discuss Ops School and training System Administrators. The episode was recorded as a Google+ Hangout and steamed live on YouTube.
+Watch Now   Video Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Meet Up Groups Cookbook News New Cookbooks Updated Cookbooks  Outline Picks Download  Audio Video Stream   Listener Survey Take the Foodfight Listener Survey! http://bit.ly/ffssurvey</description>
+    </item>
+    
+    <item>
+      <title>monitoringlove with sensu</title>
+      <link>http://example.org/episode/2012/12/13/monitoringlove-with-sensu/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/12/13/monitoringlove-with-sensu/</guid>
+      <description>Show Date: Tuesday, 11 December 2012
+In this episode Nathen, @lusis, and Mike Fiedler sit down with Sean Porter and Ulf Mansson to discuss Sensu and #monitoringlove.
+This episode was inspired by Ulf&amp;rsquo;s presentation at DevOps Days Rome 2012:
+Monitoringlove: a True story in this presentation given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme from monitoringsucks to monitoringlove. Hey kids, Ulf is right.</description>
+    </item>
+    
+    <item>
+      <title>cookbook versioning</title>
+      <link>http://example.org/episode/2012/11/15/cookbook-versioning/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/11/15/cookbook-versioning/</guid>
+      <description>Show Date: Tuesday, 13 October 2012
+Watch our Hangout! A week after the podcast we held a hangout on Google+ to discuss the topics from this episode. Watch the video on YouTube
+  Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Picks Download  Panel  Jamie Winsor github, twitter, blog Jon Cowie github, [twitter]](https://twitter.com/jonlives), blog Sascha Bates github, twitter, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Partial Search for Opscode Hosted Chef was recently released.</description>
+    </item>
+    
+    <item>
+      <title>google plus hangouts</title>
+      <link>http://example.org/episode/2012/11/06/google-plus-hangouts/</link>
+      <pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/11/06/google-plus-hangouts/</guid>
+      <description>We held two different Hangouts on Google+ this week. Thank you to everyone who participated!
+What did you think about the format, topics, time of day, etc. of the Hangouts? We&amp;rsquo;d want to hear your feedback! Should we keep doing these? Drop us a line at info@foodfightshow.org.
+Download the podcast
+Reusable Cookbook Patterns  Watch YouTube Video   Release Engineering  Watch the YouTube Video   What did you think about the format, topics, time of day, etc.</description>
+    </item>
+    
+    <item>
+      <title>inaugural office hours</title>
+      <link>http://example.org/episode/2012/11/01/inaugural-office-hours/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/11/01/inaugural-office-hours/</guid>
+      <description>Office Hours - Thursday, November 1, 2012
+Today we held our Inaugural Chef Hangout Office Hours.
+Join Now! Well, the office hours are over but you can still watch the recording on YouTube!
+Outline:
+ Introductions Roles Driving the PostgreSQL cookbook with data and attributes Berkshelf Library- and application-style cookbooks Hacking knife ssh DNS cutover strategies Guarding against chef-solo failures in Vagrant View the Google Chat Transcript   Comments were posted in three places:</description>
+    </item>
+    
+    <item>
+      <title>release engineering</title>
+      <link>http://example.org/episode/2012/10/31/release-engineering/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/31/release-engineering/</guid>
+      <description>Show Date: Tuesday, 30 October 2012
+In this episode, Bryan and Nathen sat down with J. Paul Reed and Seth Thomas to talk about the practice, profession, and tools of Release Engineering. We also talked a bit about their Podcast, The Ship Show.
+ Panel Outline What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Picks Download  Panel  J. Paul Reed github, twitter, blog Seth Thomas github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog The Ship Show website, twitter  Outline  00:44 - In the News 06:28 - New Cookbooks 17:18 - Updated Cookbooks 19:15 - Introductions 19:40 - The Ship Show 27:40 - Release Engineering - Continuous Integration 36:20 - Release Engineering - Version Control  40:28 - &amp;ldquo;git&amp;hellip;is the Ike Turner of version control systems&amp;rdquo; 47:47 - Strengths of perforce  56:15 - Deployment Strategies 1:02:00 - Build Tools 1:12:05 - DevOps Culture  1:14:46 - &amp;ldquo;DevOps, as a movement, has made it OK to talk about the cultural stuff&amp;rdquo;  1:16:13 - Continuous Integration Systems 1:19:35 - Packaging and artifact repositories 1:26:59 - Summing up the episode 1:29:20 - Picks  In the News  Last week was the Chef Community Summit.</description>
+    </item>
+    
+    <item>
+      <title>community summit day two</title>
+      <link>http://example.org/episode/2012/10/25/community-summit-day-two/</link>
+      <pubDate>Thu, 25 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/25/community-summit-day-two/</guid>
+      <description>Show Date: Wednesday, October 24
+ Panel Outline Download  Panel  Fletcher Nichol github, twitter Seth Vargo github, twitter Mike Fiedler github, twitter Jeff Hulten github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Nathen sits down with Fletcher Nichol (@fnichol), Seth Vargo (@sethvargo), Mike Fiedler (@mikefiedler), and Jeff Hulten (@jhulten) to talk about day two of the Chef Community Summit. We meant to chat for about 20 minutes but this conversation ended taking about an hour.</description>
+    </item>
+    
+    <item>
+      <title>community summit day one</title>
+      <link>http://example.org/episode/2012/10/23/community-summit-day-one/</link>
+      <pubDate>Tue, 23 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/23/community-summit-day-one/</guid>
+      <description>Show Date: Tuesday October 23
+ Panel Outline Google+ Hangout Twitter hashtag Session Summaries Download  Panel  Jamie Winsor, github, twitter Eric G. Wolfe github, twitter Seth Vargo github, twitter Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline Nathen sits down with Eric Wolfe (@atomic_penguin), Seth Vargo (@sethvargo), and Jamie Winsor (@resetexistence) to talk about day one of the Chef Community Summit.
+Topics include:
+ Open space format of the summit Various sessions of the day including:  New Chef Documentation - check out docs.</description>
+    </item>
+    
+    <item>
+      <title>metrics driven engineering</title>
+      <link>http://example.org/episode/2012/10/11/metrics-driven-engineering/</link>
+      <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/11/metrics-driven-engineering/</guid>
+      <description>Show Date: Tuesday, 9 October 2012
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Download  Outline John and Nathen sat down with Marc Watts, Mark Jennings, and David Lutzy to discuss the DevOps culture and history at Lonely Planet, performance, metrics-driven engineering, and more.
+ 0:40 - In the News 2:08 - Meetup Groups &amp;amp; Events 3:38 - Google+ Chef Hangouts 3:55 - Special Offer 4:20 - New Cookbooks 5:35 - Updated Cookbooks 6:35 - Panel Introductions 7:53 - What is Lonely Planet?</description>
+    </item>
+    
+    <item>
+      <title>devops delicacy special episode</title>
+      <link>http://example.org/episode/2012/10/07/devops-delicacy-special-episode/</link>
+      <pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/07/devops-delicacy-special-episode/</guid>
+      <description>Show Date: Monday, 8 October 2012
+Today is David Lutz&amp;rsquo;s birthday. We&amp;rsquo;ve enlisted the help of Venessa Paech and Nathen&amp;rsquo;s children to help wish David a Happy Birthday.
+Download this special DevOps Delicacy
+Here&amp;rsquo;s one of David&amp;rsquo;s famous DevOps videos
+ Happy Birthday, David!</description>
+    </item>
+    
+    <item>
+      <title>devopsdays rome</title>
+      <link>http://example.org/episode/2012/10/05/devopsdays-rome/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/05/devopsdays-rome/</guid>
+      <description>Some updates from DevOps Days Italy
+ Jason Dixon gets Graphy on Graphite at Devops Days Italy John Willis on why Deming Matters  </description>
+    </item>
+    
+    <item>
+      <title>interview with kate matsudaira</title>
+      <link>http://example.org/episode/2012/10/03/interview-with-kate-matsudaira/</link>
+      <pubDate>Wed, 03 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/03/interview-with-kate-matsudaira/</guid>
+      <description>Show Date: Tuesday, 2 October 2012
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Download  Panel  Kate Matsudaira - twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  The folks over at CollabNet are running a survey that you should take 90-seconds to complete today: DevOps Survey - What&amp;rsquo;s Driving DevOps?
+ @avleen has announced OpsSchool. The idea is to build out a syllabus and content to help shape the next generation of SysAdmins.</description>
+    </item>
+    
+    <item>
+      <title>ken robertson on go</title>
+      <link>http://example.org/episode/2012/10/01/ken-robertson-on-go/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/10/01/ken-robertson-on-go/</guid>
+      <description>Panel
+ Ken Robertson github, twitter, blog
+ Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere
+ Nathen Harvey github, twitter, irc: nathenharvey, blog
+ Download
+  Download Ken Robertson on Go, Cloudfoundry, and Chef: Download here
+Do you have cookbook news that you&amp;rsquo;d like to share or feedback on the show? Please drop a line to info@foodfightshow.org.
+Be sure to follow @foodfightshow on twitter and to rate us on itunes!</description>
+    </item>
+    
+    <item>
+      <title>surge conf 2012</title>
+      <link>http://example.org/episode/2012/09/29/surge-conf-2012/</link>
+      <pubDate>Sat, 29 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/29/surge-conf-2012/</guid>
+      <description>Nathen spent part of this week at Surge Conference and was able to grab a bunch of the presenters for some quick interviews. We also had a chance to sit down with Michael Bevilacqua-Linn earlier in the week to discuss his presentation.
+Here&amp;rsquo;s a list of links to all of the Surge-related episodes:
+ Episode 28: Big Data in the Small: Why N Tier Architectures Are an Antipattern Update from Surge with Ryan Kennedy from Yammer Update from Surge with Andrew Miklas From PagerDuty Update from Surge with Alejandro Companioni and Dave Zwieback from Knewton Update from Surge with Mike Nolet from AppNexus Update from Surge with Matt Grahamn from Etsy Episode 29: Interview with Kate Matsudaira Wrap-up Surge with Theo Schlossnagle  Email info@foodfightshow.</description>
+    </item>
+    
+    <item>
+      <title>surge update with matt grahamn from etsy</title>
+      <link>http://example.org/episode/2012/09/29/surge-update-with-matt-grahamn-from-etsy/</link>
+      <pubDate>Sat, 29 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/29/surge-update-with-matt-grahamn-from-etsy/</guid>
+      <description>Show Date: Friday, 28 September 2012
+Download the episode
+In this DevOps Delicacy, Nathen sits down with Matt Grahamn from Etsy. They discussed Matt&amp;rsquo;s Surge presentation:
+Changing Etsy&amp;rsquo;s Architectural Foundation with Continuous Deployment You hate that crusty old hunk of company technology that has long outlived the reasons it was adopted in the first place. But after all this time, it&amp;rsquo;s stuck in the middle of everything; how to get rid of it?</description>
+    </item>
+    
+    <item>
+      <title>wrap up surge with theo schlossnagle</title>
+      <link>http://example.org/episode/2012/09/29/wrap-up-surge-with-theo-schlossnagle/</link>
+      <pubDate>Sat, 29 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/29/wrap-up-surge-with-theo-schlossnagle/</guid>
+      <description>Show Date: Friday, 28 September 2012
+In this DevOps Delicacy, Nathen sits down with Theo Schlossnagle. They discussed Theo&amp;rsquo;s Surge presentations and wrapped-up the event.
+Download the episode</description>
+    </item>
+    
+    <item>
+      <title>surge update knewton</title>
+      <link>http://example.org/episode/2012/09/28/surge-update-knewton/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/28/surge-update-knewton/</guid>
+      <description>Show Date: Friday, 28 September 2012
+Download the episode
+In this DevOps Delicacy, Nathen sat down with Alejandro Companioni and Dave Zwieback from Knewton.
+They discussed Alejandro&amp;rsquo;s Surge presentation and Dave&amp;rsquo;s lightning talk.
+Autoscaling With Leptoid: Using Time Series Analysis and Application Metrics To Scale the Knewton Platform Auto-scaling is the holy grail of cloud computing. While the mechanics of auto-scaling are fairly straightforward, it can be difficult to find a reliable signal for determining the exact amount of computing resources required at any given moment.</description>
+    </item>
+    
+    <item>
+      <title>surge update mike nolet</title>
+      <link>http://example.org/episode/2012/09/28/surge-update-mike-nolet/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/28/surge-update-mike-nolet/</guid>
+      <description>Show Date: Friday, 28 September 2012
+ Mike Nolet - twitter, blog Nathen Harvey - twitter, blog  Download the episode
+In this DevOps Delicacy, Nathen sits down with Mike Nolet, CTO &amp;amp; Co-founder of AppNexus. They discussed Mike&amp;rsquo;s Surge presentation:
+From Zero to 500k QPS in Three Years: Scaling AppNexus I&amp;rsquo;d like to tell our story of how we went from two guys on a couch who thought they could build a cloud-hosting company, to more than 200 employees, building the world leader in real-time advertising technology.</description>
+    </item>
+    
+    <item>
+      <title>update from surge with andrew miklas from pagerduty</title>
+      <link>http://example.org/episode/2012/09/28/update-from-surge-with-andrew-miklas-from-pagerduty/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/28/update-from-surge-with-andrew-miklas-from-pagerduty/</guid>
+      <description>Show Date: Friday, 28 September 2012
+Download the episode
+In this DevOps Delicacy, Nathen sat down with Andrew Miklas, CTO and Co-founder of PagerDuty. They discussed Andrew&amp;rsquo;s Surge presentation:
+Ensuring the Call Goes Out—Everytime Many systems can afford a bit of downtime now and then. Unfortunately, at PagerDuty, even a three-minute outage at the wrong time can cost thousands in lost revenue. This talk will cover some of the techniques and tricks we use at PagerDuty to ensure that our phone and SMS alerts continue to flow while staying well within the budget of a typical startup.</description>
+    </item>
+    
+    <item>
+      <title>surge day 1</title>
+      <link>http://example.org/episode/2012/09/27/surge-day-1/</link>
+      <pubDate>Thu, 27 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/27/surge-day-1/</guid>
+      <description>Show Date: Thursday, 27 September 2012
+Download the episode
+Today is the first day of surge. Nathen had a chance to sit down with Ryan Kennedy, Director of Core Services at Yammer. They discussed Ryan&amp;rsquo;s Surge presentation:
+Build Your Own Database: Berkeley DB Java Edition at Yammer Sometimes the solution to your problem can&amp;rsquo;t be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready.</description>
+    </item>
+    
+    <item>
+      <title>big data in the small why n tier architectures are an antipattern</title>
+      <link>http://example.org/episode/2012/09/25/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern/</link>
+      <pubDate>Tue, 25 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/25/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern/</guid>
+      <description>Show Date: Tuesday, 25 September 2012
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Picks Download  Panel  Michael Bevilacqua-Linn twitter, blog, surge presentation
+ Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere
+ Nathen Harvey github, twitter, irc: nathenharvey, blog
+  In the News  Berkshelf 0.6.0beta1 is out, includes windows support and easier install. How much easier? It now uses a pure ruby constraint solver, which spares us the pain of having to hand-compile the gecode library.</description>
+    </item>
+    
+    <item>
+      <title>vagrant</title>
+      <link>http://example.org/episode/2012/09/20/vagrant/</link>
+      <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/09/20/vagrant/</guid>
+      <description>Show Date: Tuesday, 11 September 2012
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Picks Download  Panel  Mitchell Hashimoto github, twitter Patrick Debois github, twitter, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Chef 10.14 has been released! Since we recorded the last podcast there have actually been a number of Chef releases in the 10.</description>
+    </item>
+    
+    <item>
+      <title>test kitchen</title>
+      <link>http://example.org/episode/2012/08/25/test-kitchen/</link>
+      <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/08/25/test-kitchen/</guid>
+      <description>Show Date: Thursday, 23 August 2012
+ Panel Special Offer What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Test Kitchen Announcement Test Kitchen Repo Download  Panel  Joshua Timberman, the King of Sysadmins. twitter, github, blog Andrew Crump, The Titan of Testing twitter, github Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Chad Gibbons recently wrote up a blog post titled Lessons Learned on using Chef from Development to Production.</description>
+    </item>
+    
+    <item>
+      <title>chatops at github with jesse newland</title>
+      <link>http://example.org/episode/2012/08/23/chatops-at-github-with-jesse-newland/</link>
+      <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/08/23/chatops-at-github-with-jesse-newland/</guid>
+      <description>Show Date: 22 August 2012, 13:00 PST
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Download  Panel  Jesse Newland, who does ops at github. github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Jamie Winsor has started a guide on how to author a cookbook the berkshelf way.</description>
+    </item>
+    
+    <item>
+      <title>jamie winsor and michael ivey skool us on berkshelf</title>
+      <link>http://example.org/episode/2012/08/03/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf/</link>
+      <pubDate>Fri, 03 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/08/03/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf/</guid>
+      <description>Show Date: Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Download  Panel  Jamie Winsor, github, twitter Michael Ivey, github, twitter, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Mission Accomplished! Jordan Sissel has a new gig at Dreamhost working full-time on logstash He blogged about what he intends to do to grow logstash&amp;rsquo;s value for both new and existing users.</description>
+    </item>
+    
+    <item>
+      <title>interview with theo schlossnagle</title>
+      <link>http://example.org/episode/2012/07/27/interview-with-theo-schlossnagle/</link>
+      <pubDate>Fri, 27 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/07/27/interview-with-theo-schlossnagle/</guid>
+      <description>Show Date: Thursday, 26 July 2012
+ Panel Special Offers What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Download  Panel  Theo Schlossnagle github, twitter, blog: Esoteric Curio MattRay github, twitter, irc: mattray, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Special Offers Surge Theo mentions a discount code for Surge in this episode. Use it to save $100 on your Surge registration.</description>
+    </item>
+    
+    <item>
+      <title>changing culture and being a force for awesome</title>
+      <link>http://example.org/episode/2012/07/20/changing-culture-and-being-a-force-for-awesome/</link>
+      <pubDate>Fri, 20 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/07/20/changing-culture-and-being-a-force-for-awesome/</guid>
+      <description>Show Date: Thursday, 19 July 2012
+ Panel Special Offer What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Download  Panel  Jesse Robbins github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Nathen Harvey github, twitter, irc: nathenharvey, blog  Special Offer Do you know someone who needs help getting started with Chef? Opscode is offering the Chef Introductory Workshop in Seattle on August 6th and we&amp;rsquo;ve got a free pass for one lucky listener!</description>
+    </item>
+    
+    <item>
+      <title>monitoring for n00bs with jason dixon</title>
+      <link>http://example.org/episode/2012/07/18/monitoring-for-n00bs-with-jason-dixon/</link>
+      <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/07/18/monitoring-for-n00bs-with-jason-dixon/</guid>
+      <description>Show Date: Tuesday, 17 July 2012
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Outline Picks Download  Panel  Jason Dixon github, twitter, irc: jdixon, blog Tim Dysinger github, twitter Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github  In the News  On Resilience in Automated Systems by Mathias Meyer - would be a great topic for the show</description>
+    </item>
+    
+    <item>
+      <title>devops delicacy chef introductory workshop with david bock</title>
+      <link>http://example.org/episode/2012/07/14/devops-delicacy-chef-introductory-workshop-with-david-bock/</link>
+      <pubDate>Sat, 14 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/07/14/devops-delicacy-chef-introductory-workshop-with-david-bock/</guid>
+      <description>Show Date: Friday, 13 Jul 2012
+ Panel Outline Download  Show note Apologies for the background noise in the second and third interview sessions.
+Panel  David Bock github, twitter, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  Outline For this DevOps Delicacy, Nathen met with David Bock to talk about the Chef Introductory Workshop. We met before, during, and after the course and discussed David&amp;rsquo;s expectations of the class, prior experience with Chef, thoughts on the class and more.</description>
+    </item>
+    
+    <item>
+      <title>interview with joshua timberman</title>
+      <link>http://example.org/episode/2012/07/10/interview-with-joshua-timberman/</link>
+      <pubDate>Tue, 10 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/07/10/interview-with-joshua-timberman/</guid>
+      <description>Show Date: Tuesday, 10 July 2012
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Picks Outline Download  Panel  Joshua Timberman twitter, github, email, blog Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere Matt Ray twitter, github John Vincent, aka Lusis twitter, github, blog Nathen Harvey github, twitter, irc: nathenharvey, blog  In the News  Jon Cowie&amp;rsquo;s presentation at Velocity 2012, Michelin Starred Cooking with Chef</description>
+    </item>
+    
+    <item>
+      <title>roll your own paas mark imbriaco and alex howells</title>
+      <link>http://example.org/episode/2012/07/03/roll-your-own-paas-mark-imbriaco-and-alex-howells/</link>
+      <pubDate>Tue, 03 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/2012/07/03/roll-your-own-paas-mark-imbriaco-and-alex-howells/</guid>
+      <description>Show Date: Tuesday, 3 July 2012
+ Panel What&amp;rsquo;s Cookin&amp;rsquo;  In the News Cookbook News  Picks Download Panel Mark Imbriaco github, twitter
+ Alex Howells github, twitter
+ Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere
+ John Vincent, aka Lusis twitter, github
+ Nathen Harvey github, twitter, irc: nathenharvey, blog
+  In the News  Oh, no! I have a node that hasn&amp;rsquo;t checked in with Chef server for days!</description>
+    </item>
+    
+    <item>
+      <title>episode 46 zookeeper1</title>
+      <link>http://example.org/episode/episode-46-zookeeper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/episode-46-zookeeper1/</guid>
+      <description> Show Date: Tuesday, 12 March 2013
+In this episode, we sat down with Matt Wise, Ben Hartshorne and Charity Majors to talk about using zookeeper with Chef and Puppet.
+ Panel Outline Picks Download  Audio Video Stream   Watch Now  Panel  Bryan Berry github, twitter, irc: bryanwb, blog: devopsanywhere John Vincent, aka Lusis twitter, github Charity Majors github, twitter, blog Ben Hartshorne github, twitter, blog Matt Wise  Show Notes  Matt uses kazoo Matt developed zkwatcher Matt&amp;rsquo;s post on creating a service registry w/ zookeeper Ben and Charity are using the zookeeper gem Ben&amp;rsquo;s blog post on distributed locks with zookeeper  Picks Bryan  CS 162 Java is the new C  Matt Wise  logstash  lusis  Lusis is looking for someone to take over his awesome project Noah Lusis presentation on Noah  Ben Hartshorne  ZooKeeper  Download  Audio Video Stream  </description>
+    </item>
+    
+  </channel>
+</rss>

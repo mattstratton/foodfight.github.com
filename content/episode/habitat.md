@@ -1,0 +1,65 @@
++++
+title = "habitat"
+date = "2016-06-20"
+slug = "2016/06/20/habitat"
+Categories = []
++++
+
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/gDlpXijLH2Y" frameborder="0" allowfullscreen></iframe>
+
+Join us for a discussion about [Habitat](https://www.habitat.sh) a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features.
+
+* [Panel](http://foodfightshow.org/2016/06/habitat.html#panel)
+* [Outline](http://foodfightshow.org/2016/06/habitat.html#outline)
+* Download
+  * [Video](https://www.youtube.com/watch?v=gDlpXijLH2Y)
+  * [Audio](http://traffic.libsyn.com/foodfight/foodfight-100-habitat.mp3)
+
+<!-- more -->
+
+Panel<a name="panel"></a>
+-----
+
+* Adam Jacob [twitter](https://twitter.com/adamhjk), [github](https://github.com/adamhjk)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Jamie Winsor [github](https://github.com/reset), [twitter](https://twitter.com/resetexistence), [blog](http://vialstudios.com/)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+###  Show Notes
+
+* Happy 100th Episode!
+* What is [Habitat](https://www.habitat.sh)?
+* Does Habitat do too much?
+* The Build System
+  * Why build a packaging system?
+  * Supervisors ans Artifacts
+* [Docker](https://www.docker.com/)
+* How all-or-nothing is Habitat?
+  * Progressive Reveal
+* [Chef](https://www.chef.io/)
+  * [Chef Delivery](https://www.chef.io/delivery/)
+* [Terraform](https://www.terraform.io/)
+* What's the plan with [Windows](https://www.microsoft.com/en-us/windows)?
+* Habitat Feedback
+* [Getting Started](https://www.habitat.sh/community/)
+  * [HabiChat](http://slack.habitat.sh/)
+
+Download
+--------
+* [Video](https://www.youtube.com/watch?v=gDlpXijLH2Y)
+* [Audio](http://traffic.libsyn.com/foodfight/foodfight-100-habitat.mp3)
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).

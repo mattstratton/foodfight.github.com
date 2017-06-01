@@ -1,0 +1,15 @@
++++
+title = "hangops"
+date = "2013-03-11"
+slug = "2013/03/11/hangops"
+Categories = []
++++
+Show Date:  Friday, March 8, 2013
+
+This is a cross-post from [Hangops](http://twitter.com/hangops).  [Nathen](http://twitter.com/nathenharvey) joined [Brandon](http://twitter.com/solarce) on this week's Hangops which was all about Chef 11.  
+
+* [Audio](http://traffic.libsyn.com/foodfight/Hangops-Chef-11.mp3)
+
+## Watch the Video
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/jp9D_CFH6UY" frameborder="0" allowfullscreen></iframe>

@@ -1,0 +1,118 @@
++++
+title = "opsworks"
+date = "2013-12-17"
+slug = "2013/12/17/opsworks"
+Categories = []
++++
+
+Watch and listen to our discussion of Amazon's [OpsWorks](http://aws.amazon.com/opsworks/).
+
+
+# Watch Now
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cJjvLZXpOxg" frameborder="0" allowfullscreen></iframe>
+
+* [Panel](http://foodfightshow.org/2013/12/opsworks.html#panel)
+* [Outline](http://foodfightshow.org/2013/12/opsworks.html#outline)
+* [Picks](http://foodfightshow.org/2013/12/opsworks.html#picks)
+* Download
+  * [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3)
+  * [Video](http://youtu.be/cJjvLZXpOxg)
+
+Panel<a name="panel"></a>
+-----
+
+* Jonathan Weiss [github](https://github.com/jweiss), [twitter](https://twitter.com/jweiss)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Tom Duffield [github](http://github.com/tduffield), [twitter](http://twitter.com/tomduffield), [blog](http://tomduffield.com)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+<!-- more -->
+
+Outline<a name="outline"></a>
+-------
+
+### Chef News
+
+* [Opscode is now Chef](http://www.getchef.com/blog/2013/12/09/chef-the-company-formerly-known-as-opscode/)
+* [#ChefConf 2014](http://chefconf.com) ultra-early-bird pricing ends on 31 December.  Get your tickets now!
+* Upcoming Chef Training Events
+  * [Philadelphia](http://www.getchef.com/blog/event/2-day-chef-fundamentals-philadelphia-area/)
+  * [San Francisco](http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-4/)
+  * [Chicago](http://www.getchef.com/blog/event/2-day-chef-fundamentals-chicago-2/)
+  * [Boston](http://www.getchef.com/blog/event/2-day-chef-fundamentals-boston-area/)
+  * [Amsterdam](http://www.getchef.com/blog/event/2-day-chef-fundamentals-amsterdam/)
+  * [Phoenix](http://www.getchef.com/blog/event/2-day-chef-fundamentals-phoenix/)
+  * [London](http://www.getchef.com/blog/event/2-day-chef-fundamentals-london/)
+
+### Show Notes
+
+* Chef News
+* Introductions
+* [AWS OpsWorks](http://aws.amazon.com/opsworks/)
+* [Amazon Web Services](http://aws.amazon.com/)
+* [Amazon EC2](http://aws.amazon.com/ec2/)
+* [scalarium](https://github.com/scalarium)
+* [AWS CloudFormation](http://aws.amazon.com/cloudformation/)
+* AWS OpsWorks Under the Hood - [Slides](http://www.slideshare.net/AmazonWebServices/aws-opsworks-under-the-hood-dmg304-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=913oT6xV-Qk)
+* Wrapping Solutions Around Chef vs Inside Chef
+* [chef-server](https://github.com/opscode-cookbooks/chef-server) and search
+* [Databags](http://docs.opscode.com/essentials_data_bags.html)
+* [Use Custom JSON to Modify the Stack Configuration JSON](http://docs.aws.amazon.com/opsworks/latest/userguide/workingstacks-json.html)
+* Attaching Opsworks stacks to an existing Chef server
+* Lifecycle Stages
+* [Amazon Web Services on Github](https://github.com/amazonwebservices)
+* Operating Systems
+* Versioning Schemes
+* Metric Monitoring
+* The Configuration Drift
+* [AWS CloudTrail](http://aws.amazon.com/cloudtrail/faqs/)
+* [Chef Logs](http://docs.aws.amazon.com/opsworks/latest/userguide/troubleshoot-debug-log.html)
+* [Using the AWS OpsWorks CLI](http://docs.aws.amazon.com/opsworks/latest/userguide/cli-examples.html)
+* [OpsWorks in iOS and Android](https://twitter.com/jeffbarr/status/413398665219149824)
+* How Intuit Leveraged AWS OpsWorks as the Engine of Our PaaS - [Slides](http://www.slideshare.net/AmazonWebServices/how-intuit-leveraged-aws-opsworks-as-the-engine-of-our-paas-dmg305-aws-reinvent-2013), [Video](http://www.youtube.com/watch?v=fZ8HmekZabo)
+* Why Choose OpsWorks?
+
+Picks<a name="picks"></a>
+-----
+#### Jonathan
+
+* [Glances](http://nicolargo.github.io/glances/)
+
+#### Brandon
+
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [Sys Advent:  omnibus'ing your way to happines](http://sysadvent.blogspot.com/2013/12/day-16-omnibusing-your-way-to-happiness.html)
+
+#### Mike
+
+* [my fridge food](http://myfridgefood.com/)
+* [RuboCop](https://github.com/bbatsov/rubocop)
+* [Pylint](http://www.pylint.org/)
+* [JSON Lint](https://github.com/zaach/jsonlint)
+* [Best Pun Ever?!](https://twitter.com/wizonesolutions/status/413364827143540736)
+
+#### Tom
+
+* [spf13-vim](http://vim.spf13.com/)
+* [Project For Awesome](http://www.projectforawesome.com/)
+
+#### Nathen
+
+* [FOSDEM](https://fosdem.org/)
+* [cfgmgmtcamp](http://cfgmgmtcamp.eu/)  
+
+Download
+--------
+* [Audio](http://traffic.libsyn.com/foodfight/FoodFightShow-70-OpsWorks.mp3)
+* [Video](http://youtu.be/cJjvLZXpOxg)
+
+<hr />
+
+The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+

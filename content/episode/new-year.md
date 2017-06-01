@@ -1,0 +1,96 @@
++++
+title = "new year"
+date = "2017-01-04"
+slug = "2017/01/04/new-year"
+Categories = []
++++
+
+# Watch Now!
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Llo-DKBRAs4" frameborder="0" allowfullscreen></iframe>
+
+* [Panel](http://foodfightshow.org/2017/01/new-year.html#panel)
+* [Outline](http://foodfightshow.org/2017/01/new-year.html#outline)
+* [Picks](http://foodfightshow.org/2017/01/new-year.html#picks)
+* Download
+  * [Video](http://youtu.be/Llo-DKBRAs4)
+  * [Audio](http://traffic.libsyn.com/foodfight/FFS104.mp3)
+
+<!-- more -->
+
+Panel<a name="panel"></a>
+-----
+
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+
+Outline & Show Notes<a name="outline"></a>
+-------
+
+* Personal Updates
+* Food Fight Show Reflections
+  * [Configuration Management Camp 2016](http://foodfightshow.org/2016/02/configuration-management-camp-2016.html)
+  * [DevOpsDays DFW](http://foodfightshow.org/2016/09/devopsdays-dfw.html)
+  * [Habitat](http://foodfightshow.org/2016/06/habitat.html)
+  * [Design Thinking](http://foodfightshow.org/2016/02/design-thinking.html)
+  * [InSpec](http://foodfightshow.org/2016/02/inspec.html)
+    * [Nell Shamrell: Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs)
+* [Chef Board of Governance (CBGB)](https://github.com/chef/chef-rfc/blob/master/rfc029-governance-policy.md)
+* [Chef Community Guidelines](https://docs.chef.io/community_guidelines.html)
+* [Chef Partner Cookbook Program](https://www.chef.io/partners/cookbooks/)
+  * [An example of the quality measures of a cookbook](https://supermarket.chef.io/cookbooks/datadog#quality)
+  * [Other metrics we're looking to implement](https://github.com/chef-cookbooks/cookbook-quality-metrics)
+* [Habitat](https://www.habitat.sh/)
+* Chef Community Members and Contributors
+  * [Chef Community Slack](http://community-slack.chef.io/)
+    * [rfc074-community-slack.md](https://github.com/chef/chef-rfc/blob/master/rfc074-community-slack.md)
+  * [hangops.slack.com](https://signup.hangops.com/)
+* Getting Rid of the Contributor License Agreement (CLA) and [Introducing Developer Certificate of Origin (DCO)](https://blog.chef.io/2016/09/19/introducing-developer-certificate-of-origin/)
+* Conferences
+  * [Rachel Trombetta, GE Digital - ChefConf 2016 Keynote](https://www.youtube.com/watch?v=FUla4UHlZEM)
+  * [Hugging in the Chef Community](https://github.com/chef/chef-rfc/blob/master/rfc061-hugs.md)
+* Upcoming Food Fight Show Episodes
+  * [Sous Chefs](https://github.com/foodfight/showz/blob/master/scripts/episode-105-sous-chefs.md) - [Tuesday, January 24, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-24,540,cn3)
+  * [A3 Thinking](https://github.com/foodfight/showz/blob/master/scripts/episode-xx-a3-thinking.md) - [Tuesday, February 28, 2017 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3)
+  * Live Show from [Microsoft Ignite](https://msftignite.com.au/)
+  * [Config Management Camp](http://cfgmgmtcamp.eu/) Wrapup
+  * [Terraform](https://www.terraform.io/)
+  * [AWS OpsWorks](https://aws.amazon.com/opsworks/)
+* 2017 Predictions
+
+Picks<a name="picks"></a>
+-----
+
+#### Nell
+
+* [Top Chef](http://www.bravotv.com/top-chef) Season 13 (10 years of Top Chef!)
+* [Star Wars Commander iOS Game](https://itunes.apple.com/us/app/star-wars-commander/id847985808?mt=8)
+
+#### Nathen
+
+* [DevOpsDays Baltimore](https://www.devopsdays.org/events/2017-baltimore/welcome/)
+* [ChefConf CFP](https://chefconf.chef.io/2017/)
+* [Configuration Management Camp 2017](http://cfgmgmtcamp.eu/) & the [Habitat Workshop following](http://cfgmgmtcamp.eu/fringe.html#habitat)
+
+
+#### Brandon
+
+* [AWS Advent](https://www.awsadvent.com/)
+  * Thank you to [Jennifer Davis](https://twitter.com/sigje), [Seth Thomas](https://twitter.com/cheeseplus), [Soenke Ruempler](https://twitter.com/s0enke), and all the editor and author contributors!
+* [SysAdvent](https://sysadvent.blogspot.com)
+  * [Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html) by [Alice Goldfuss](https://twitter.com/alicegoldfuss)
+
+Download
+--------
+* [Video](http://youtu.be/Llo-DKBRAs4)
+* [Audio](http://traffic.libsyn.com/foodfight/FFS104.mp3)
+
+<hr />
+
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
+
+The show is sponsored, in part, by [Chef](http://www.chef.io).
+
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
+
