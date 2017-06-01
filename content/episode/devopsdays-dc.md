@@ -2,7 +2,16 @@
 title = "devopsdays dc"
 date = "2015-06-12"
 aliases = "/2015/06/12/devopsdays-dc"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 A wrap-up of [DevOpsDays DC](http://devopsdaysdc.org) recorded live at the end of the conference.
 

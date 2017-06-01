@@ -2,7 +2,16 @@
 title = "devops delicacy chef introductory workshop with david bock"
 date = "2012-07-14"
 aliases = "/2012/07/14/devops-delicacy-chef-introductory-workshop-with-david-bock"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Friday, 13 Jul 2012
 

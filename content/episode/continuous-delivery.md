@@ -2,7 +2,16 @@
 title = "continuous delivery"
 date = "2013-06-17"
 aliases = "/2013/06/17/continuous-delivery"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:   June 17, 2013

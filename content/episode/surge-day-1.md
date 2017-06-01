@@ -2,7 +2,16 @@
 title = "surge day 1"
 date = "2012-09-27"
 aliases = "/2012/09/27/surge-day-1"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Thursday, 27 September 2012
 

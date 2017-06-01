@@ -2,7 +2,16 @@
 title = "google plus hangouts"
 date = "2012-11-06"
 aliases = "/2012/11/06/google-plus-hangouts"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 We held two different Hangouts on Google+ this week.  Thank you to everyone who participated!
 

@@ -2,7 +2,17 @@
 title = "chefconf 2013 day 1 wrap up"
 date = "2013-04-26"
 aliases = "/2013/04/26/chefconf-2013-day-1-wrap-up"
-Categories = []
+Description = "This is the inaugural FoodShipShow Joint Production!"
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "ffs_chefconf_day1_2.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 
 Show Date:  25 April 2013
@@ -12,7 +22,7 @@ This is the inaugural FoodShipShow Joint Production!
 You can now [subscribe to the Food Fight Show email newsletter](http://bit.ly/ffsmail).
 
 * Download [Audio](http://traffic.libsyn.com/foodfight/ffs_chefconf_day1_2.mp3)
-   
+
 Panel<a name="panel"></a>
 -----
 

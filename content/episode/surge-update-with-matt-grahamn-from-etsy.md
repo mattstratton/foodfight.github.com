@@ -2,7 +2,16 @@
 title = "surge update with matt grahamn from etsy"
 date = "2012-09-29"
 aliases = "/2012/09/29/surge-update-with-matt-grahamn-from-etsy"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Friday, 28 September 2012
 

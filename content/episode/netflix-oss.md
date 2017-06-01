@@ -2,7 +2,16 @@
 title = "netflix oss"
 date = "2013-05-09"
 aliases = "/2013/05/09/netflix-oss"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Thursday, May 9, 2013
 

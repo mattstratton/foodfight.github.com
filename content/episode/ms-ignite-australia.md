@@ -2,7 +2,16 @@
 title = "ms ignite australia"
 date = "2017-02-27"
 aliases = "/2017/02/27/ms-ignite-australia"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FFS107.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join Nell Shamrell and Matt Ray as they discuss the [Microsoft Ignite Australia](https://msftignite.com.au/) conference.
@@ -57,4 +66,3 @@ The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nat
 The show is sponsored, in part, by [Chef](http://www.chef.io).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
-

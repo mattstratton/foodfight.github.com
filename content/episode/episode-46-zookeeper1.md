@@ -1,6 +1,15 @@
 +++
 title = "episode 46 zookeeper1"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  Tuesday, 12 March 2013

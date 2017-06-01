@@ -2,16 +2,21 @@
 title = "amazon web services"
 date = "2013-06-05"
 aliases = "/2013/06/05/amazon-web-services"
-Categories = []
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FoodFightShow52-Chef_and_AWS.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "b8LXZMjVi1A"
+Description = "A round table discussion on using Chef with AWS and brief exploration of some of the many AWS services."
 +++
 
 Show Date:  June 5, 2013
 
 A round table discussion on using Chef with AWS and brief exploration of some of the many AWS services.
-
-# Watch Now
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/b8LXZMjVi1A" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/06/amazon-web-services.html#panel)
 * [Chef News](http://foodfightshow.org/2013/06/amazon-web-services.html#news)
@@ -118,7 +123,7 @@ Picks
 * [Good Omens](http://books.google.com/books/about/Good_Omens.html?id=B7FL6zzN_FsC)
 *  “the sparse usage of ternary operators” (`mikes_disposition = (used_sparingly?)? "happy" : "rage"`)
 
-#### Bryan 
+#### Bryan
 * [Pry, the good Parts](http://www.confreaks.com/videos/2467-railsconf2013-pry-the-good-parts)
 and Pry.rescue do #.... end
 * [fog](http://fog.io)
@@ -128,7 +133,7 @@ and Pry.rescue do #.... end
 #### Brandon
 * [imgur Technology Stack](http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/)
 * [Docker 0.4.0](https://github.com/dotcloud/docker/wiki/Docker-0.4.0-release-note,-June-3-2013)
- 
+
 #### Trotter
 * [Mistborn Trilogy](http://www.goodreads.com/book/show/6604209-mistborn-trilogy-boxed-set)
 * The Atlantic Ocean

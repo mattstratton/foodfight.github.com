@@ -2,7 +2,16 @@
 title = "interview with kate matsudaira"
 date = "2012-10-03"
 aliases = "/2012/10/03/interview-with-kate-matsudaira"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Tuesday, 2 October 2012
 

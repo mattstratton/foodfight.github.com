@@ -2,7 +2,16 @@
 title = "community summit day 1"
 date = "2013-11-19"
 aliases = "/2013/11/19/community-summit-day-1"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.
 

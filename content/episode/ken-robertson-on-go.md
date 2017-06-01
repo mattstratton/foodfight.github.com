@@ -2,7 +2,16 @@
 title = "ken robertson on go"
 date = "2012-10-01"
 aliases = "/2012/10/01/ken-robertson-on-go"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 * [Panel](http://foodfightshow.org/2012/10/ken-robertson-on-go.html#panel)

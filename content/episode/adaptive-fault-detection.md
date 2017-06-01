@@ -2,7 +2,16 @@
 title = "adaptive fault detection"
 date = "2013-03-04"
 aliases = "/2013/03/04/adaptive-fault-detection"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "Food-Fight-Show-43-adaptive-fault-detection.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "nyR0elLfy28"
 +++
 Show Date:  Monday, March 4, 2013
 
@@ -15,12 +24,7 @@ In this episode, we sat down with [Baron Schwartz](https://twitter.com/xaprb) to
   * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-43-adaptive-fault-detection.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=nyR0elLfy28)
 
-Watch Now
----------
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/nyR0elLfy28" frameborder="0" allowfullscreen></iframe>
-
-<!-- more -->
 
 Panel<a name="panel"></a>
 -----
@@ -40,7 +44,7 @@ Picks<a name="picks"></a>
 * Bree, apple, honey, and pesto sandwich
 * Thyme-tea based gin drink
 
-#### Jason 
+#### Jason
 
 * [Food Recipes](https://github.com/obfuscurity/food-recipes) - Patches welcome!
 * [UCR Suite](http://www.cs.ucr.edu/~eamonn/UCRsuite.html)

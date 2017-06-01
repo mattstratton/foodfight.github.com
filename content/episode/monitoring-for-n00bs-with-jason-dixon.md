@@ -2,7 +2,16 @@
 title = "monitoring for n00bs with jason dixon"
 date = "2012-07-18"
 aliases = "/2012/07/18/monitoring-for-n00bs-with-jason-dixon"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Tuesday, 17 July 2012
 

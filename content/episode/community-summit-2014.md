@@ -2,7 +2,16 @@
 title = "community summit 2014"
 date = "2014-10-06"
 aliases = "/2014/10/06/community-summit-2014"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 A recording from the end of the first day of the Chef Community Summit in Seattle, 2014.

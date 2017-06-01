@@ -2,7 +2,16 @@
 title = "surge update mike nolet"
 date = "2012-09-28"
 aliases = "/2012/09/28/surge-update-mike-nolet"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Friday, 28 September 2012
 

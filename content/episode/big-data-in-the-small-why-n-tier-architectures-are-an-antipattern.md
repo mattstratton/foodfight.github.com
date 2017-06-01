@@ -2,7 +2,17 @@
 title = "big data in the small why n tier architectures are an antipattern"
 date = "2012-09-25"
 aliases = "/2012/09/25/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "Food-Fight-Show-28-BigData.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 Show Date:  Tuesday, 25 September 2012
 
@@ -183,4 +193,3 @@ Big Data in the Small: Why N Tier Architectures Are an Antipattern:  [Download h
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to [info@foodfightshow.org](mailto:info@foodfightshow.org).
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
-

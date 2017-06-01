@@ -2,7 +2,16 @@
 title = "ohai"
 date = "2013-09-17"
 aliases = "/2013/09/17/ohai"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join our discussion about Ohai and Ohai Plugins.

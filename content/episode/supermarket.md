@@ -2,7 +2,16 @@
 title = "supermarket"
 date = "2014-07-08"
 aliases = "/2014/07/08/supermarket"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join us for a discussion about the new community site:  [Chef Supermarket](https://supermarket.getchef.com).

@@ -2,7 +2,16 @@
 title = "saving the world with devops big data and hpc"
 date = "2013-02-19"
 aliases = "/2013/02/19/saving-the-world-with-devops-big-data-and-hpc"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Tuesday, February 19, 2013
 

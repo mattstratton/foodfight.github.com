@@ -2,7 +2,16 @@
 title = "docker the linux container runtime"
 date = "2013-04-15"
 aliases = "/2013/04/15/docker-the-linux-container-runtime"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Monday, April 15, 2013
 

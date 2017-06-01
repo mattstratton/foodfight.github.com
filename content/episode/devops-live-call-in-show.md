@@ -2,14 +2,19 @@
 title = "devops live call in show"
 date = "2017-04-17"
 aliases = "/2017/04/17/devops-live-call-in-show"
-Categories = []
+Description = "We have joined forces with Arrested DevOps to host our first live devops call in show!  We featured Dr. Nicole Forsgren to answer your DevOps questions about measuring effectiveness, ROI of DevOps initiatives, and more!"
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = "fkCZXI8SNfk"
 +++
 
-# Coming soon on Monday, May 8!
-
-We are joining forces with Arrested DevOps to host our first live devops call in show!  We will be featuring Dr. Nicole Forsgren, ready to answer your DevOps questions about measuring effectiveness, ROI of DevOps initiatives, and more!
-
-Mark your calendars for Monday, May 8 at 10 AM PDT.  We will be accepting requests to ask Nicole questions live on air in the #foodfight channel of the [Chef Community Slack](http://community-slack.chef.io), the #chef channel of [Hangops Slack](https://signup.hangops.com/), and the #arrested-devops channel in the [DevOps Chat Slack](https://devopschat.co/). Mark your calendars!
+We have joined forces with Arrested DevOps to host our first live devops call in show!  We featured Dr. Nicole Forsgren to answer your DevOps questions about measuring effectiveness, ROI of DevOps initiatives, and more!
 
 
 Panel<a name="panel"></a>
@@ -18,4 +23,3 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 * Matt Stratton [github](https://github.com/mattstratton), [twitter](https://twitter.com/mattstratton)
 * Nicole Forsgren, PhD [github](https://github.com/nicolefv), [twitter](https://twitter.com/nicolefv)
-

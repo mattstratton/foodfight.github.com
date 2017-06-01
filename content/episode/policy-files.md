@@ -2,13 +2,17 @@
 title = "policy files"
 date = "2016-12-08"
 aliases = "/2016/12/08/policy-files"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FFS103Policyfiles.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "a5YT7JVBwi4"
 +++
-
-# Watch Now!
-
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/a5YT7JVBwi4" frameborder="0" allowfullscreen></iframe>
 
 
 * [Panel](http://foodfightshow.org/2016/12/policy-files.html#panel)

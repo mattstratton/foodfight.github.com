@@ -2,7 +2,16 @@
 title = "managing secrets in the vault"
 date = "2015-06-16"
 aliases = "/2015/06/16/managing-secrets-in-the-vault"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 # Watch Now

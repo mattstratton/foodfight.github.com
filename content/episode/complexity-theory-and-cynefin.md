@@ -2,7 +2,16 @@
 title = "complexity theory and cynefin"
 date = "2015-01-29"
 aliases = "/2015/01/29/complexity-theory-and-cynefin"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join us as we discuss Complexity Theory and Cynefin.  This [twitter thread](https://twitter.com/benr/status/555825719750565888) is the inspiration for this show.

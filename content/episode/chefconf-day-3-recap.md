@@ -2,7 +2,17 @@
 title = "chefconf day 3 recap"
 date = "2015-04-12"
 aliases = "/2015/04/12/chefconf-day-3-recap"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 # Watch now
 

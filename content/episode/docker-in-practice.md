@@ -2,7 +2,16 @@
 title = "docker in practice"
 date = "2013-11-27"
 aliases = "/2013/11/27/docker-in-practice"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 # Watch Now

@@ -2,7 +2,17 @@
 title = "chef 11"
 date = "2013-02-20"
 aliases = "/2013/02/20/chef-11"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "Food-Fight-Show-42-chef11.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "yo2vchHd_FE"
+
 +++
 Show Date:  Wednesday, February 20, 2013
 

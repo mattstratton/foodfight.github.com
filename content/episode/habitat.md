@@ -2,12 +2,18 @@
 title = "habitat"
 date = "2016-06-20"
 aliases = "/2016/06/20/habitat"
-Categories = []
+Description = "Join us for a discussion about Habitat, a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features."
+episode_image = "img/episode/habitat.png"
+episode_banner = "img/episode/habitat_banner.png"
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "foodfight-100-habitat.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "gDlpXijLH2Y"
 +++
-
-# Watch Now
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/gDlpXijLH2Y" frameborder="0" allowfullscreen></iframe>
 
 Join us for a discussion about [Habitat](https://www.habitat.sh) a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features.
 

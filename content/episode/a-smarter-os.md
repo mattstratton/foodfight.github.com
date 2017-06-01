@@ -3,11 +3,15 @@ Description = "In this episode, we discuss SmartOS and other Solaris derivatives
 explicit = "no"
 podcast_file = "Food-Fight-Show-48-A-SmarterOS.mp3"
 tags = []
-youtube = "DJfppm1SyeI"
 title = "a smarter os"
 date = "2013-04-08"
 aliases = "/2013/04/08/a-smarter-os"
-Categories = []
+episode_image = ""
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_bytes = ""
+youtube = "DJfppm1SyeI"
 +++
 Show Date:  Monday, April 8, 2013
 
@@ -22,12 +26,7 @@ In this episode, we discuss SmartOS and other Solaris derivatives.
   * [Audio](http://traffic.libsyn.com/foodfight/Food-Fight-Show-48-A-SmarterOS.mp3)
   * [Video Stream](http://www.youtube.com/watch?v=DJfppm1SyeI)
 
-Watch Now
----------
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/DJfppm1SyeI" frameborder="0" allowfullscreen></iframe>
-
-<!-- more -->
 
 Panel<a name="panel"></a>
 -----

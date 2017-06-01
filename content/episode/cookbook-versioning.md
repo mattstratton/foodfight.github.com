@@ -2,7 +2,16 @@
 title = "cookbook versioning"
 date = "2012-11-15"
 aliases = "/2012/11/15/cookbook-versioning"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Tuesday, 13 October 2012
 

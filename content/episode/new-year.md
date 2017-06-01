@@ -2,12 +2,18 @@
 title = "new year"
 date = "2017-01-04"
 aliases = "/2017/01/04/new-year"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FFS104.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "Llo-DKBRAs4"
 +++
 
-# Watch Now!
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/Llo-DKBRAs4" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2017/01/new-year.html#panel)
 * [Outline](http://foodfightshow.org/2017/01/new-year.html#outline)
@@ -93,4 +99,3 @@ The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nat
 The show is sponsored, in part, by [Chef](http://www.chef.io).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
-

@@ -2,7 +2,16 @@
 title = "wrap up surge with theo schlossnagle"
 date = "2012-09-29"
 aliases = "/2012/09/29/wrap-up-surge-with-theo-schlossnagle"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Friday, 28 September 2012
 

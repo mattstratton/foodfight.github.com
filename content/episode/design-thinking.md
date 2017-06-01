@@ -2,7 +2,16 @@
 title = "design thinking"
 date = "2016-02-09"
 aliases = "/2016/02/09/design-thinking"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 # Watch Now

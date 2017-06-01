@@ -2,7 +2,16 @@
 title = "community summit day one"
 date = "2012-10-23"
 aliases = "/2012/10/23/community-summit-day-one"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  Tuesday October 23

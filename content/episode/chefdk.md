@@ -2,7 +2,16 @@
 title = "chefdk"
 date = "2014-08-27"
 aliases = "/2014/08/27/chefdk"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join our panelists as we discuss [ChefDK](https://github.com/opscode/chef-dk)!

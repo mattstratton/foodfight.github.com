@@ -2,7 +2,16 @@
 title = "windows roundtable"
 date = "2013-01-24"
 aliases = "/2013/01/24/windows-roundtable"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  Thursday, January 24, 2013

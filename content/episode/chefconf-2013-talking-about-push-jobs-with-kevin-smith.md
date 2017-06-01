@@ -2,19 +2,29 @@
 title = "chefconf 2013 talking about push jobs with kevin smith"
 date = "2013-04-26"
 aliases = "/2013/04/26/chefconf-2013-talking-about-push-jobs-with-kevin-smith"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "ffs_pushy.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 
 
 Show Date:  26 April 2013
 
 Be sure to checkout [Crest](https://github.com/kevsmith/crest), a
-greate demonstration of using Push Jobs like primitives. 
+greate demonstration of using Push Jobs like primitives.
 
 You can now [subscribe to the Food Fight Show email newsletter](http://bit.ly/ffsmail).
 
 * Download [Audio](http://traffic.libsyn.com/foodfight/ffs_pushy.mp3)
-   
+
 Panel<a name="panel"></a>
 -----
 

@@ -2,7 +2,16 @@
 title = "live from chef summit london 2014"
 date = "2014-10-18"
 aliases = "/2014/10/18/live-from-chef-summit-london-2014"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Panel<a name="panel"></a>

@@ -2,7 +2,16 @@
 title = "interview with theo schlossnagle"
 date = "2012-07-27"
 aliases = "/2012/07/27/interview-with-theo-schlossnagle"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Thursday, 26 July 2012
 

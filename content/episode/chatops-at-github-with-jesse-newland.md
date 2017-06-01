@@ -2,7 +2,17 @@
 title = "chatops at github with jesse newland"
 date = "2012-08-23"
 aliases = "/2012/08/23/chatops-at-github-with-jesse-newland"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "ffs25_3.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 
 
@@ -16,7 +26,7 @@ Show Date:  22 August 2012, 13:00 PST
 * [Picks](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html#picks)
 * [Download](http://traffic.libsyn.com/foodfight/ffs25_3.mp3)
 
-<!-- more --> 
+<!-- more -->
 
 Panel<a name="panel"></a>
 -----
@@ -33,8 +43,8 @@ In the News<a name="news"></a>
   a cookbook the berkshelf way](http://vialstudios.com/guide-authoring-cookbooks.html). It is still a work in progress but it is a great primer on the Riot Games' way of cookbook development. Of special note is the `berks cookbook`
   command which can be used in place of `knife cookbook create`. It
   will generate a Vagrantfile, .gitignore, Gemfile, and even a
-  Thorfile with a foodcritic task.  
- 
+  Thorfile with a foodcritic task.
+
 * [Jamie  Winsor](http://vialstudios.com) has released version 0.0.2
   of [ridley](https://github.com/reset/ridley) a reliable Chef API
   client with a simple intuitive DSL. Also, it is threadsafe and
@@ -43,7 +53,7 @@ In the News<a name="news"></a>
 
 * [Archlinux may be switching](http://news.ycombinator.com/item?id=4383243) its default
   init system from the Old Skool sysv init system to
-  [systemd](http://www.freedesktop.org/wiki/Software/systemd/).   
+  [systemd](http://www.freedesktop.org/wiki/Software/systemd/).
 
 * Yosefk had a great blog post [What "Worse is Better vs The
   Right Thing" is really about](http://www.yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html).
@@ -107,10 +117,10 @@ In the News<a name="news"></a>
   add support for an additional virtualization platform through a
   plugin. btw, we will have [mitchellh](https://twitter.com/mitchellh) and [pdebois](http://twitter.com/pdebois) on the show in early
   September to talk about the future of Vagrant!
-  
+
 ## Upcoming Meetup Groups
 
-* [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) will be meeting on 
+* [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) will be meeting on
   Tuesday, August 28 to talk about [Team Development Workflows with Chef](www.meetup.com/Chef-BOSTON/events/76035282/)
 * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group)
   will host another Chef Cafe on Thursday, September 6
@@ -119,8 +129,8 @@ In the News<a name="news"></a>
   interested to meet with some really intelligent people, you should
   come out. The attendance fee is trivial and Bryan's wife has agreed that
   you can all stay in his spare bedroom. all of you ;).
-  
-  
+
+
 
 Cookbook News<a name="cookbooks"></a>
 -------------
@@ -186,8 +196,8 @@ A recipe for setting up system-wide SSL certs on Ubuntu / Debian systems. Sets u
 
 ### Updated Cookbooks
 
-Opscode has been busy with the database cookbooks check the [mailing list 
-for more details and discussion](http://lists.opscode.com/sympa/arc/chef/2012-08/msg00206.html) 
+Opscode has been busy with the database cookbooks check the [mailing list
+for more details and discussion](http://lists.opscode.com/sympa/arc/chef/2012-08/msg00206.html)
 about these cookbooks:
 
 * [database](http://community.opscode.com/cookbooks/database) v1.3.4
@@ -228,7 +238,7 @@ about these cookbooks:
 * [stoplight](http://community.opscode.com/cookbooks/stoplight) v0.1.4 - [sethvargo](http://community.opscode.com/users/sethvargo)
 
 
- 
+
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to [info@foodfightshow.org](mailto:info@foodfightshow.org).
 
 
@@ -274,19 +284,19 @@ Outline<a name="outline"></a>
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
+#### Bryan
 
 * [Daniel Suarez interview](http://twit.tv/show/triangulation/64) on Triangulation
 * [Norman Centuries podcast](http://normancenturies.com/)
 * [Dominus Tripel](http://beer.uvinum.com/dominus-tripel) amazing belgian tripel
 
-#### lusis  
+#### lusis
 
 * [CoolVue iPad Mount](http://toucoul.com/products/coulvue-for-ipad-2)
 * [Enstratus](http://enstratus.com/)
 * [Three Philosophers](http://www.ommegang.com/#!beer_three) from Ommegang Brewery
 
-#### Nathen  
+#### Nathen
 
 * Swapping control and caps lock on your keyboard
 * [https://noplaintext.com/](https://noplaintext.com/)

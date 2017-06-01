@@ -2,7 +2,16 @@
 title = "erlang eye for the devops guy and gal"
 date = "2013-07-01"
 aliases = "/2013/07/01/erlang-eye-for-the-devops-guy-and-gal"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date: Monday, July 1, 2013
 

@@ -2,7 +2,16 @@
 title = "devopsdays nyc thats a wrap"
 date = "2013-01-18"
 aliases = "/2013/01/18/devopsdays-nyc-thats-a-wrap"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  18 January 2013

@@ -2,7 +2,16 @@
 title = "surge conf 2012"
 date = "2012-09-29"
 aliases = "/2012/09/29/surge-conf-2012"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Nathen spent part of this week at [Surge Conference](http://omniti.com/surge/2012) and was able to grab a bunch of the presenters for some quick interviews.  We also had a chance to sit down with [Michael Bevilacqua-Linn](http://twitter.com/novustiro) earlier in the week to discuss his presentation.

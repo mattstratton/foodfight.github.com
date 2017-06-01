@@ -2,7 +2,16 @@
 title = "community summit day two"
 date = "2012-10-25"
 aliases = "/2012/10/25/community-summit-day-two"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  Wednesday, October 24

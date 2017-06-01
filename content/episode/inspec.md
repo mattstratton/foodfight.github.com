@@ -2,12 +2,19 @@
 title = "inspec"
 date = "2016-02-21"
 aliases = "/2016/02/21/inspec"
-Categories = []
+Description = "Join us for a discussion about InSpec, the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements."
+episode_image = "img/episode/inspec.png"
+episode_banner = "img/episode/inspec_banner.png"
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "foodfight-99-inspec.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "RraZsq6C42s"
 +++
 
-# Watch Now
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/RraZsq6C42s" frameborder="0" allowfullscreen></iframe>
 
 Join us for a discussion about [InSpec](http://github.com/chef/inspec), the open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.
 

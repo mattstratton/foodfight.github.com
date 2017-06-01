@@ -2,7 +2,17 @@
 title = "awesome community chefs"
 date = "2016-09-22"
 aliases = "/2016/09/22/awesome-community-chefs"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "foodfight-101-awesome-community-chefs.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 
 * [Panel](http://foodfightshow.org/2016/09/awesome-community-chefs.html#panel)

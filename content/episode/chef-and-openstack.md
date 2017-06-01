@@ -2,12 +2,19 @@
 title = "chef and openstack"
 date = "2015-12-28"
 aliases = "/2015/12/28/chef-and-openstack"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "foodfight-96-chef-and-openstack.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "UOxsre69cPo"
+
 +++
 
-# Watch Now
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/UOxsre69cPo" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/12/chef-and-openstack.html#panel)
 * [Outline](http://foodfightshow.org/2015/12/chef-and-openstack.html#outline)
@@ -67,7 +74,7 @@ Outline & Show Notes<a name="outline"></a>
 Picks<a name="picks"></a>
 -----
 
-#### JJ  
+#### JJ
 
 * [This War of Mine](http://www.11bitstudios.com/games/16/this-war-of-mine)
 * [Labyrinth Black Ale](https://untappd.com/b/uinta-brewing-company-labyrinth-black-ale/10948)
@@ -79,13 +86,13 @@ Picks<a name="picks"></a>
 * [Munchkin](http://www.worldofmunchkin.com/game/)
 * [Good Ole `make`](http://www.gnu.org/software/make/manual/make.html)
 
-#### Samuel  
+#### Samuel
 
 * [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/)
 * [Sierra Nevada Celebration Ale](http://www.sierranevada.com/beer/seasonal/celebration-ale)
 * [bhyve](http://bhyve.org/)
 
-#### Nathen  
+#### Nathen
 
 * [Config Management Camp EU](http://cfgmgmtcamp.eu/) - Feb 1-2 in Gent
 * [ChefConf 2016](https://www.chef.io/chefconf/) - July in Austin, CFP opens Feb 1

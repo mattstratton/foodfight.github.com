@@ -2,7 +2,16 @@
 title = "test kitchen 1 dot x"
 date = "2014-08-22"
 aliases = "/2014/08/22/test-kitchen-1-dot-x"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join our panelists as we discuss Test Kitchen!

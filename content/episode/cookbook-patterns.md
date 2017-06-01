@@ -2,7 +2,16 @@
 title = "cookbook patterns"
 date = "2014-04-29"
 aliases = "/2014/04/29/cookbook-patterns"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 # Watch Now

@@ -2,12 +2,19 @@
 title = "best practices with chef"
 date = "2013-12-03"
 aliases = "/2013/12/03/best-practices-with-chef"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FoodFightShow69-Chef-Best-Practices.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "6mpZLEIzx-c"
+
 +++
 
-# Watch Now
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/6mpZLEIzx-c" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/12/best-practices-with-chef.html#panel)
 * [Outline](http://foodfightshow.org/2013/12/best-practices-with-chef.html#outline)
@@ -122,7 +129,7 @@ Picks<a name="picks"></a>
 * [#ChefConf 2014](http://chefconf.com) - CFP closes in mid-January.  Ticket prices go up at the end of the calendar year so lock-in the best rate now.
 * [Community Cookbooks blog post](http://www.opscode.com/blog/2013/11/26/community-cookbooks/)
 
-#### Fletcher 
+#### Fletcher
 
 * [The Test Kitchen Getting Started Guide](http://kitchen.ci/docs/getting-started/)
 * [serverspec](http://serverspec.org)
@@ -132,12 +139,12 @@ Picks<a name="picks"></a>
 
 * [Omnibus](https://github.com/opscode/omnibus-ruby/blob/master/README.md)
 * [Lua](http://www.lua.org/)
- 
+
 ### John
 
 * [chef-sugar](https://github.com/sethvargo/chef-sugar)
 * [chef-rbenv](https://github.com/fnichol/chef-rbenv)
-* Customizing Chef! 
+* Customizing Chef!
 
 
 Download
@@ -153,5 +160,3 @@ The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryan
 The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
-
- 

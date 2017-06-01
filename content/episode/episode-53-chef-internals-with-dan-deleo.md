@@ -2,7 +2,16 @@
 title = "episode 53 chef internals with dan deleo"
 date = "2013-06-13"
 aliases = "/2013/06/13/episode-53-chef-internals-with-dan-deleo"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date: June 12, 2013

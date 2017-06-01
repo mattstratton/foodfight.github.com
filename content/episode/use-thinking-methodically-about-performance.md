@@ -2,7 +2,16 @@
 title = "use thinking methodically about performance"
 date = "2013-02-06"
 aliases = "/2013/02/06/use-thinking-methodically-about-performance"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Tuesday, February 6, 2013
 

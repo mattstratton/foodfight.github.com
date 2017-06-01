@@ -2,7 +2,16 @@
 title = "application deployment"
 date = "2013-01-28"
 aliases = "/2013/01/28/application-deployment"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "DevOps-Delicacy-Application-Deployment.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "8H3jsj7_B6A"
 +++
 Show Date:  Monday, January 28, 2013
 
@@ -19,11 +28,6 @@ This episode was started with a tweet:
   * [Video Stream](http://www.youtube.com/watch?v=8H3jsj7_B6A)
 
 
-Watch Now
---------
-<iframe width="560" height="315" src="http://www.youtube.com/embed/8H3jsj7_B6A" frameborder="0" allowfullscreen></iframe>
-
-<!-- more -->
 
 Panel<a name="panel"></a>
 -----

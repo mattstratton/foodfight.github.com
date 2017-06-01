@@ -2,7 +2,16 @@
 title = "devopsdays dfw"
 date = "2016-09-26"
 aliases = "/2016/09/26/devopsdays-dfw"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "foodfight-102-devopsdays-dfw.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 * [Panel](http://foodfightshow.org/2016/09/devopsdays-dfw.html#panel)
@@ -48,4 +57,3 @@ The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nat
 The show is sponsored, in part, by [Chef](http://www.chef.io).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
-

@@ -2,7 +2,16 @@
 title = "learning reviews"
 date = "2015-10-23"
 aliases = "/2015/10/23/learning-reviews"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join us for a discussion of Learning Reviews.  What and how can we learn from failure?

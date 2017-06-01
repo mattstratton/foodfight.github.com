@@ -2,7 +2,16 @@
 title = "food fight show year two"
 date = "2013-01-02"
 aliases = "/2013/01/02/food-fight-show-year-two"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  2 January 2013

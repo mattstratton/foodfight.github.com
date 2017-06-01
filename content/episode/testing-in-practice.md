@@ -2,7 +2,16 @@
 title = "testing in practice"
 date = "2013-05-22"
 aliases = "/2013/05/22/testing-in-practice"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date: May 22, 2013
 

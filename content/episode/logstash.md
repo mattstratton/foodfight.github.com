@@ -2,7 +2,16 @@
 title = "logstash"
 date = "2013-02-13"
 aliases = "/2013/02/13/logstash"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Wednesday, February 13, 2013
 

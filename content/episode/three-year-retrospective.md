@@ -2,7 +2,16 @@
 title = "three year retrospective"
 date = "2015-01-20"
 aliases = "/2015/01/20/three-year-retrospective"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Watch Now

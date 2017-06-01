@@ -2,7 +2,16 @@
 title = "secret chef"
 date = "2013-07-09"
 aliases = "/2013/07/09/secret-chef"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  July 9, 2013
 

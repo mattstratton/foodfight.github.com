@@ -2,7 +2,16 @@
 title = "roles2"
 date = "2013-01-22"
 aliases = "/2013/01/22/roles2"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  Tuesday, January 22, 2013

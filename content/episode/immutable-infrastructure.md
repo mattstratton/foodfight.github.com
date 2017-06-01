@@ -2,7 +2,16 @@
 title = "immutable infrastructure"
 date = "2013-07-22"
 aliases = "/2013/07/22/immutable-infrastructure"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  July 22, 2013
 

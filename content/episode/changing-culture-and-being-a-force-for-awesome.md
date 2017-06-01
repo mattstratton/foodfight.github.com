@@ -2,7 +2,17 @@
 title = "changing culture and being a force for awesome"
 date = "2012-07-20"
 aliases = "/2012/07/20/changing-culture-and-being-a-force-for-awesome"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FoodFightShow22-BeingAForceForAwesome1.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 Show Date:  Thursday, 19 July 2012
 
@@ -102,4 +112,3 @@ Changing Culture &amp; Being a Force for Awesome with Jesse Robbins:  [Download 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to [info@foodfightshow.org](mailto:info@foodfightshow.org).
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
-

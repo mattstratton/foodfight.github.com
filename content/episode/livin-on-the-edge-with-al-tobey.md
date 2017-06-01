@@ -2,10 +2,19 @@
 title = "livin on the edge with al tobey"
 date = "2013-11-05"
 aliases = "/2013/11/05/livin-on-the-edge-with-al-tobey"
-Categories = ["linux", "filesystems", "golang", "cassandra"]
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
-Join us as we discuss how to test your distributed system in production with Al Tobey 
+Join us as we discuss how to test your distributed system in production with Al Tobey
 
 # Watch Now
 
@@ -55,7 +64,7 @@ Picks<a name="picks"></a>
 * Remapping the right option key on the Macbook to be a Control key
 * M-f, M-b, M-d, M-del shortcuts in the shell, see the [Emacs Readline Cheatsheet](http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf)
 
-#### Al 
+#### Al
 
 * [Vibram shoes](http://www.vibramfivefingers.com/index.htm)
 * [Serfdom](http://serfdom.io)
@@ -78,4 +87,3 @@ The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryan
 The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
- 

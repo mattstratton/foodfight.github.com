@@ -3,11 +3,18 @@ title = "apache kafka"
 date = "2014-11-17"
 aliases = "/2014/11/17/apache-kafka"
 Categories = ["kafka", "jaykreps"]
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FoodFightShow85-Apache-Kafka.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "3b-sjsVMgd0"
 +++
 
-Watch Now
----------
-<iframe width="420" height="315" src="http://www.youtube.com/embed/3b-sjsVMgd0" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/11/apache-kafka.html#panel)
 * [Outline](http://foodfightshow.org/2014/11/apache-kafka.html#outline)

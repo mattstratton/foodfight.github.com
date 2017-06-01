@@ -2,7 +2,16 @@
 title = "metrics driven engineering"
 date = "2012-10-11"
 aliases = "/2012/10/11/metrics-driven-engineering"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Tuesday, 9 October 2012
 

@@ -2,7 +2,16 @@
 title = "release engineering"
 date = "2012-10-31"
 aliases = "/2012/10/31/release-engineering"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  Tuesday, 30 October 2012

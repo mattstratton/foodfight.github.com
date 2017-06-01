@@ -2,7 +2,16 @@
 title = "configuration management camp 2017"
 date = "2017-02-17"
 aliases = "/2017/02/17/configuration-management-camp-2017"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FFS106.mp3"
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Listen in to this recap from [Configuration Management Camp Gent 2017](http://cfgmgmtcamp.eu/).

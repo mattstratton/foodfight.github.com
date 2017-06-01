@@ -2,11 +2,15 @@
 title = "a3 thinking"
 date = "2017-02-28"
 aliases = "/2017/02/28/a3-thinking"
-Categories = []
 Description = ""
+episode_image = ""
 explicit = "no"
-podcast_file = "FFS108.mp3"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_bytes = ""
 tags = []
+podcast_file = "FFS108.mp3"
 youtube = "pXHmeNhlETE"
 guests = ["cswetel"]
 +++

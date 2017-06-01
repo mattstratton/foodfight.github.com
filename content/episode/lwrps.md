@@ -2,7 +2,16 @@
 title = "lwrps"
 date = "2013-03-13"
 aliases = "/2013/03/13/lwrps"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Wednesday, March 13, 2013
 

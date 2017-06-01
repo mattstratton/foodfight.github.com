@@ -2,7 +2,16 @@
 title = "devopsdays belgium 2014"
 date = "2014-11-04"
 aliases = "/2014/11/04/devopsdays-belgium-2014"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 * [Outline](http://foodfightshow.org/2014/11/devopsdays-belgium-2014.html#outline)

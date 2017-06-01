@@ -2,7 +2,16 @@
 title = "devops riot"
 date = "2013-08-20"
 aliases = "/2013/08/20/devops-riot"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join us as we discuss DevOps at Riot Games.  

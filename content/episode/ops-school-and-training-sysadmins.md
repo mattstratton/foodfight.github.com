@@ -2,7 +2,16 @@
 title = "ops school and training sysadmins"
 date = "2012-12-20"
 aliases = "/2012/12/20/ops-school-and-training-sysadmins"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Thursday, 20 December 2012
 

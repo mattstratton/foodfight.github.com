@@ -2,7 +2,16 @@
 title = "elasticsearch"
 date = "2013-03-19"
 aliases = "/2013/03/19/elasticsearch"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Tuesday, March 19
 

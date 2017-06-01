@@ -2,14 +2,21 @@
 title = "chef and hpc"
 date = "2013-09-27"
 aliases = "/2013/09/27/chef-and-hpc"
-Categories = []
+Description = "Bryan and Nathen are joined by Brock Palen and Jeff Squyers,  the co-hosts of the RCE Cast, a podcast about High Performance Computing."
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FoodFightShow-63-Chef_and_HPC.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "P44L-7jLb6w"
+
 +++
 
 Bryan and Nathen are joined by [Brock Palen](http://www.rce-cast.com/about/about-the-hosts.html#brockp) and [Jeff Squyers](http://www.rce-cast.com/about/about-the-hosts.html#jsquyres),  the co-hosts of the [RCE Cast](http://www.rce-cast.com/), a podcast about High Performance Computing.
 
-# Watch Now
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/P44L-7jLb6w" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2013/09/chef-and-hpc.html#panel)
 * [Outline](http://foodfightshow.org/2013/09/chef-and-hpc.html#outline)
@@ -26,7 +33,7 @@ Panel<a name="panel"></a>
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
-<!-- more --> 
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------
@@ -48,7 +55,7 @@ Outline<a name="outline"></a>
 * [cron](http://docs.opscode.com/resource_cron.html)
 * Search
 * [Learn Chef](https://learnchef.opscode.com/)
-  
+
 
 Picks<a name="picks"></a>
 -----
@@ -95,4 +102,3 @@ The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryan
 The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
-

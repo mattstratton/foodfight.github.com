@@ -2,14 +2,22 @@
 title = "audit mode and compliance"
 date = "2015-07-14"
 aliases = "/2015/07/14/audit-mode-and-compliance"
-Categories = []
+Description = "Listen in as we discuss Chef's Audit Mode, Analytics, and compliance."
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FoodFightShow94-Compliance_and_Audit.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "zcguEmLJ5y8"
+
 +++
 
-Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.  
+Listen in as we discuss Chef's Audit Mode, Analytics, and compliance.
 
-# Watch Now
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/zcguEmLJ5y8" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#panel)
 * [Outline](http://foodfightshow.org/2015/07/audit-mode-and-compliance.html#outline)

@@ -2,7 +2,16 @@
 title = "community summit recap"
 date = "2013-11-19"
 aliases = "/2013/11/19/community-summit-recap"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Join us as we recap the [Opscode Community Summit](https://github.com/opscode/opscode-summit-2013/wiki).

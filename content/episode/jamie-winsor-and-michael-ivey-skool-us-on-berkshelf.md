@@ -2,7 +2,16 @@
 title = "jamie winsor and michael ivey skool us on berkshelf"
 date = "2012-08-03"
 aliases = "/2012/08/03/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA

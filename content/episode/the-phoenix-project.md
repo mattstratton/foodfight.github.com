@@ -2,7 +2,16 @@
 title = "the phoenix project"
 date = "2013-03-25"
 aliases = "/2013/03/25/the-phoenix-project"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Monday, March 25, 2013
 

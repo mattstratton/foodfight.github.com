@@ -2,7 +2,16 @@
 title = "monitorama 2013"
 date = "2013-05-21"
 aliases = "/2013/05/21/monitorama-2013"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  29 March 2013
 

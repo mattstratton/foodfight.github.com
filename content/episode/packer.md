@@ -2,7 +2,16 @@
 title = "packer"
 date = "2013-08-14"
 aliases = "/2013/08/14/packer"
-Categories = ["packer", "vagrant", "go", "mitchellh"]
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Join us as we discuss [Packer](http://packer.io) with [Mitchell Hashimoto](https://twitter.com/mitchellh)
 
@@ -124,4 +133,3 @@ The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryan
 The show and the [newsletter](http://us6.campaign-archive2.com/home/?u=7d43a288e882a145b7e99c650&id=ad8186466d) are sponsored, in part, by [Opscode](http://www.opscode.com).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
- 

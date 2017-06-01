@@ -2,14 +2,21 @@
 title = "chef metal"
 date = "2014-06-04"
 aliases = "/2014/06/04/chef-metal"
-Categories = []
+Description = "Join us as we discuss chef-metal with it's creator, John Keiser"
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FoodFightShow75-Chef-Metal.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "oiMh0RNtR08"
+
 +++
 
 Join us as we discuss [chef-metal](https://github.com/opscode/chef-metal) with it's creator, [John Keiser](https://twitter.com/jkeiser2)
 
-## Watch Now
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/oiMh0RNtR08" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2014/06/chef-metal.html#panel)
 * [Outline](http://foodfightshow.org/2014/06/chef-metal.html#outline)
@@ -28,7 +35,7 @@ Panel<a name="panel"></a>
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
-<!-- more --> 
+<!-- more -->
 
 Outline<a name="outline"></a>
 -------
@@ -50,7 +57,7 @@ Outline<a name="outline"></a>
   * [Online - Windows class](http://www.getchef.com/blog/event/3-day-chef-fundamentals-windows-online/) - June 23-25
   * [San Francicso](http://www.getchef.com/blog/event/2-day-chef-fundamentals-san-francisco-8/) - June 25-26
   * [London](http://www.getchef.com/blog/event/2-day-chef-fundamentals-london-uk-2/) - June 26-27
-  * 
+  *
 
 ### Show Notes
 

@@ -2,7 +2,16 @@
 title = "update from surge with andrew miklas from pagerduty"
 date = "2012-09-28"
 aliases = "/2012/09/28/update-from-surge-with-andrew-miklas-from-pagerduty"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Friday, 28 September 2012
 

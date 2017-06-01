@@ -2,7 +2,16 @@
 title = "devopsdays silicon valley"
 date = "2013-06-28"
 aliases = "/2013/06/28/devopsdays-silicon-valley"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  June 21, 2013
 

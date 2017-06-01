@@ -2,7 +2,16 @@
 title = "even moar windows"
 date = "2014-10-18"
 aliases = "/2014/10/18/even-moar-windows"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 * [Panel](http://foodfightshow.org/2014/10/even-moar-windows.html#panel)

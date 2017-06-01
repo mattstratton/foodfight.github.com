@@ -2,7 +2,16 @@
 title = "management in operations"
 date = "2014-06-03"
 aliases = "/2014/06/03/management-in-operations"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 * [Panel](http://foodfightshow.org/2014/04/management-in-operations.html#panel)

@@ -2,7 +2,16 @@
 title = "configuration management camp 2016"
 date = "2016-02-08"
 aliases = "/2016/02/08/configuration-management-camp-2016"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 A wrap-up of [Configuration Management Camp 2016](http://cfgmgmtcamp.eu) recorded live at the end of the conference.

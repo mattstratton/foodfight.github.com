@@ -2,12 +2,18 @@
 title = "chefconf day 2 recap"
 date = "2015-04-11"
 aliases = "/2015/04/11/chefconf-day-2-recap"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FFS090ChefConf2015Day2Recap.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "VQlPIGurNP0"
+
 +++
-
-# Watch now
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQlPIGurNP0" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2015/04/chefconf-day-2-recap.html#panel)
 * [Outline](http://foodfightshow.org/2015/04/chefconf-day-2-recap.html#outline)

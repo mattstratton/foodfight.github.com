@@ -2,7 +2,16 @@
 title = "hangops"
 date = "2013-03-11"
 aliases = "/2013/03/11/hangops"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Friday, March 8, 2013
 

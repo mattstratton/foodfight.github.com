@@ -2,7 +2,16 @@
 title = "roll your own paas mark imbriaco and alex howells"
 date = "2012-07-03"
 aliases = "/2012/07/03/roll-your-own-paas-mark-imbriaco-and-alex-howells"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 

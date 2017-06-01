@@ -2,7 +2,16 @@
 title = "opsworks"
 date = "2013-12-17"
 aliases = "/2013/12/17/opsworks"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Watch and listen to our discussion of Amazon's [OpsWorks](http://aws.amazon.com/opsworks/).

@@ -2,7 +2,16 @@
 title = "roles"
 date = "2013-01-10"
 aliases = "/2013/01/10/roles"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 Show Date:  Thursday, January 10, 2013
 

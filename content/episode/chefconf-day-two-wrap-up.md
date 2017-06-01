@@ -2,7 +2,17 @@
 title = "chefconf day two wrap up"
 date = "2013-04-30"
 aliases = "/2013/04/30/chefconf-day-two-wrap-up"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
+
 +++
 Show Date:  26 April 2013
 
@@ -30,4 +40,3 @@ Download
 --------
 
 * [Download the Audio file](http://traffic.libsyn.com/foodfight/ChefConf-2013-Wrap-Up.mp3)
- 

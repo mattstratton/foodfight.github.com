@@ -2,7 +2,16 @@
 title = "the future of devops"
 date = "2013-10-01"
 aliases = "/2013/10/01/the-future-of-devops"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Andrew Clay Shafer ([@littleidea](http://twitter.com/littleidea)) joins us to discuss the future of DevOps.

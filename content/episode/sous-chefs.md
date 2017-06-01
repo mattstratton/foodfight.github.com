@@ -2,12 +2,17 @@
 title = "sous chefs"
 date = "2017-01-06"
 aliases = "/2017/01/06/sous-chefs"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = "FFS105.mp3"
+podcast_bytes = ""
+tags = []
+youtube = "DYrCP_7_tCo"
 +++
-
-# Watch Now!
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/DYrCP_7_tCo" frameborder="0" allowfullscreen></iframe>
 
 * [Panel](http://foodfightshow.org/2017/01/sous-chefs.html#panel)
 * [Outline](http://foodfightshow.org/2017/01/sous-chefs.html#outline)
@@ -82,4 +87,3 @@ The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nat
 The show is sponsored, in part, by [Chef](http://www.chef.io).
 
 Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
-

@@ -2,7 +2,16 @@
 title = "inaugural office hours"
 date = "2012-11-01"
 aliases = "/2012/11/01/inaugural-office-hours"
-Categories = []
+Description = ""
+episode_image = ""
+explicit = "no"
+#guests = [""]
+images = ["img/episode/default-social.jpg"]
+podcast_duration = ""
+podcast_file = ""
+podcast_bytes = ""
+tags = []
+youtube = ""
 +++
 
 Office Hours - Thursday, November 1, 2012
