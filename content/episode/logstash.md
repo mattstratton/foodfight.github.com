@@ -1,7 +1,7 @@
 +++
 title = "logstash"
 date = "2013-02-13"
-slug = "2013/02/13/logstash"
+aliases = "/2013/02/13/logstash"
 Categories = []
 +++
 Show Date:  Wednesday, February 13, 2013

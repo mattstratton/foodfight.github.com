@@ -1,7 +1,7 @@
 +++
 title = "configuration management camp 2017"
 date = "2017-02-17"
-slug = "2017/02/17/configuration-management-camp-2017"
+aliases = "/2017/02/17/configuration-management-camp-2017"
 Categories = []
 +++
 

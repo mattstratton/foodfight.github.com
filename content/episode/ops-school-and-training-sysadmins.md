@@ -1,7 +1,7 @@
 +++
 title = "ops school and training sysadmins"
 date = "2012-12-20"
-slug = "2012/12/20/ops-school-and-training-sysadmins"
+aliases = "/2012/12/20/ops-school-and-training-sysadmins"
 Categories = []
 +++
 Show Date:  Thursday, 20 December 2012

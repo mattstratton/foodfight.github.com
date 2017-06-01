@@ -1,7 +1,7 @@
 +++
 title = "chefconf day 3 recap"
 date = "2015-04-12"
-slug = "2015/04/12/chefconf-day-3-recap"
+aliases = "/2015/04/12/chefconf-day-3-recap"
 Categories = []
 +++
 # Watch now

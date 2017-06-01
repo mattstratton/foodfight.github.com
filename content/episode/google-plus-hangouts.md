@@ -1,7 +1,7 @@
 +++
 title = "google plus hangouts"
 date = "2012-11-06"
-slug = "2012/11/06/google-plus-hangouts"
+aliases = "/2012/11/06/google-plus-hangouts"
 Categories = []
 +++
 We held two different Hangouts on Google+ this week.  Thank you to everyone who participated!

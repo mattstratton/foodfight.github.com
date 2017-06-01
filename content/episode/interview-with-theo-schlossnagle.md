@@ -1,7 +1,7 @@
 +++
 title = "interview with theo schlossnagle"
 date = "2012-07-27"
-slug = "2012/07/27/interview-with-theo-schlossnagle"
+aliases = "/2012/07/27/interview-with-theo-schlossnagle"
 Categories = []
 +++
 Show Date:  Thursday, 26 July 2012

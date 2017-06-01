@@ -1,7 +1,7 @@
 +++
 title = "awesome community chefs"
 date = "2016-09-22"
-slug = "2016/09/22/awesome-community-chefs"
+aliases = "/2016/09/22/awesome-community-chefs"
 Categories = []
 +++
 

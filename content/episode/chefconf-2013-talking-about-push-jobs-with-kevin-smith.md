@@ -1,7 +1,7 @@
 +++
 title = "chefconf 2013 talking about push jobs with kevin smith"
 date = "2013-04-26"
-slug = "2013/04/26/chefconf-2013-talking-about-push-jobs-with-kevin-smith"
+aliases = "/2013/04/26/chefconf-2013-talking-about-push-jobs-with-kevin-smith"
 Categories = []
 +++
 

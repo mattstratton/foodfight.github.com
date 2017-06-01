@@ -1,7 +1,7 @@
 +++
 title = "ms ignite australia"
 date = "2017-02-27"
-slug = "2017/02/27/ms-ignite-australia"
+aliases = "/2017/02/27/ms-ignite-australia"
 Categories = []
 +++
 

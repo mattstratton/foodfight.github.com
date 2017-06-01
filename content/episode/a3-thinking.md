@@ -1,7 +1,7 @@
 +++
 title = "a3 thinking"
 date = "2017-02-28"
-slug = "2017/02/28/a3-thinking"
+aliases = "/2017/02/28/a3-thinking"
 Categories = []
 Description = ""
 explicit = "no"

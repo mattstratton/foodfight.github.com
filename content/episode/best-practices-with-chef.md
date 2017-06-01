@@ -1,7 +1,7 @@
 +++
 title = "best practices with chef"
 date = "2013-12-03"
-slug = "2013/12/03/best-practices-with-chef"
+aliases = "/2013/12/03/best-practices-with-chef"
 Categories = []
 +++
 

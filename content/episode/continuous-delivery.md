@@ -1,7 +1,7 @@
 +++
 title = "continuous delivery"
 date = "2013-06-17"
-slug = "2013/06/17/continuous-delivery"
+aliases = "/2013/06/17/continuous-delivery"
 Categories = []
 +++
 

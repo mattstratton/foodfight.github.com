@@ -1,7 +1,7 @@
 +++
 title = "roles"
 date = "2013-01-10"
-slug = "2013/01/10/roles"
+aliases = "/2013/01/10/roles"
 Categories = []
 +++
 Show Date:  Thursday, January 10, 2013

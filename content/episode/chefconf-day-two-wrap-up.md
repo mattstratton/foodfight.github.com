@@ -1,7 +1,7 @@
 +++
 title = "chefconf day two wrap up"
 date = "2013-04-30"
-slug = "2013/04/30/chefconf-day-two-wrap-up"
+aliases = "/2013/04/30/chefconf-day-two-wrap-up"
 Categories = []
 +++
 Show Date:  26 April 2013

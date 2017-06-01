@@ -1,7 +1,7 @@
 +++
 title = "cookbook patterns"
 date = "2014-04-29"
-slug = "2014/04/29/cookbook-patterns"
+aliases = "/2014/04/29/cookbook-patterns"
 Categories = []
 +++
 

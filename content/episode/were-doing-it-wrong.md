@@ -1,7 +1,7 @@
 +++
 title = "were doing it wrong"
 date = "2014-01-10"
-slug = "2014/01/10/were-doing-it-wrong"
+aliases = "/2014/01/10/were-doing-it-wrong"
 Categories = []
 +++
 

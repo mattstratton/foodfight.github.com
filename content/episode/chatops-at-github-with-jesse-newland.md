@@ -1,7 +1,7 @@
 +++
 title = "chatops at github with jesse newland"
 date = "2012-08-23"
-slug = "2012/08/23/chatops-at-github-with-jesse-newland"
+aliases = "/2012/08/23/chatops-at-github-with-jesse-newland"
 Categories = []
 +++
 

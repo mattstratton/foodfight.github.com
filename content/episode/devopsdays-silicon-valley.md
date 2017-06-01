@@ -1,7 +1,7 @@
 +++
 title = "devopsdays silicon valley"
 date = "2013-06-28"
-slug = "2013/06/28/devopsdays-silicon-valley"
+aliases = "/2013/06/28/devopsdays-silicon-valley"
 Categories = []
 +++
 Show Date:  June 21, 2013

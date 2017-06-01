@@ -1,7 +1,7 @@
 +++
 title = "consul template"
 date = "2014-11-04"
-slug = "2014/11/04/consul-template"
+aliases = "/2014/11/04/consul-template"
 Categories = []
 +++
 

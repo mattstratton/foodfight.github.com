@@ -1,7 +1,7 @@
 +++
 title = "elasticsearch"
 date = "2013-03-19"
-slug = "2013/03/19/elasticsearch"
+aliases = "/2013/03/19/elasticsearch"
 Categories = []
 +++
 Show Date:  Tuesday, March 19

@@ -1,7 +1,7 @@
 +++
 title = "use thinking methodically about performance"
 date = "2013-02-06"
-slug = "2013/02/06/use-thinking-methodically-about-performance"
+aliases = "/2013/02/06/use-thinking-methodically-about-performance"
 Categories = []
 +++
 Show Date:  Tuesday, February 6, 2013

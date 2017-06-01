@@ -1,7 +1,7 @@
 +++
 title = "surge update knewton"
 date = "2012-09-28"
-slug = "2012/09/28/surge-update-knewton"
+aliases = "/2012/09/28/surge-update-knewton"
 Categories = []
 +++
 Show Date:  Friday, 28 September 2012

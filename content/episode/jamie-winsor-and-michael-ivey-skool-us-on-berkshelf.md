@@ -1,7 +1,7 @@
 +++
 title = "jamie winsor and michael ivey skool us on berkshelf"
 date = "2012-08-03"
-slug = "2012/08/03/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf"
+aliases = "/2012/08/03/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf"
 Categories = []
 +++
 

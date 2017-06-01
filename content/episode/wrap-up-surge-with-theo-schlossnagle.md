@@ -1,7 +1,7 @@
 +++
 title = "wrap up surge with theo schlossnagle"
 date = "2012-09-29"
-slug = "2012/09/29/wrap-up-surge-with-theo-schlossnagle"
+aliases = "/2012/09/29/wrap-up-surge-with-theo-schlossnagle"
 Categories = []
 +++
 Show Date:  Friday, 28 September 2012

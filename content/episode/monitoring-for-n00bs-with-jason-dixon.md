@@ -1,7 +1,7 @@
 +++
 title = "monitoring for n00bs with jason dixon"
 date = "2012-07-18"
-slug = "2012/07/18/monitoring-for-n00bs-with-jason-dixon"
+aliases = "/2012/07/18/monitoring-for-n00bs-with-jason-dixon"
 Categories = []
 +++
 Show Date:  Tuesday, 17 July 2012

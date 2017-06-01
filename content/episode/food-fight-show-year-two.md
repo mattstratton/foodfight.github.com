@@ -1,7 +1,7 @@
 +++
 title = "food fight show year two"
 date = "2013-01-02"
-slug = "2013/01/02/food-fight-show-year-two"
+aliases = "/2013/01/02/food-fight-show-year-two"
 Categories = []
 +++
 

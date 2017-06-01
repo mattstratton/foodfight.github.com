@@ -1,7 +1,7 @@
 +++
 title = "hangops"
 date = "2013-03-11"
-slug = "2013/03/11/hangops"
+aliases = "/2013/03/11/hangops"
 Categories = []
 +++
 Show Date:  Friday, March 8, 2013

@@ -1,7 +1,7 @@
 +++
 title = "changing culture and being a force for awesome"
 date = "2012-07-20"
-slug = "2012/07/20/changing-culture-and-being-a-force-for-awesome"
+aliases = "/2012/07/20/changing-culture-and-being-a-force-for-awesome"
 Categories = []
 +++
 Show Date:  Thursday, 19 July 2012

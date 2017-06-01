@@ -1,7 +1,7 @@
 +++
 title = "vagrant"
 date = "2012-09-20"
-slug = "2012/09/20/vagrant"
+aliases = "/2012/09/20/vagrant"
 Categories = []
 +++
 Show Date:  Tuesday, 11 September 2012

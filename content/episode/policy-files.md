@@ -1,7 +1,7 @@
 +++
 title = "policy files"
 date = "2016-12-08"
-slug = "2016/12/08/policy-files"
+aliases = "/2016/12/08/policy-files"
 Categories = []
 +++
 

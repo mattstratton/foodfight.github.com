@@ -1,7 +1,7 @@
 +++
 title = "adaptive fault detection"
 date = "2013-03-04"
-slug = "2013/03/04/adaptive-fault-detection"
+aliases = "/2013/03/04/adaptive-fault-detection"
 Categories = []
 +++
 Show Date:  Monday, March 4, 2013

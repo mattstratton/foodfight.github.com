@@ -1,7 +1,7 @@
 +++
 title = "lwrps"
 date = "2013-03-13"
-slug = "2013/03/13/lwrps"
+aliases = "/2013/03/13/lwrps"
 Categories = []
 +++
 Show Date:  Wednesday, March 13, 2013

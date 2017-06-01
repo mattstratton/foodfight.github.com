@@ -1,7 +1,7 @@
 +++
 title = "surge update mike nolet"
 date = "2012-09-28"
-slug = "2012/09/28/surge-update-mike-nolet"
+aliases = "/2012/09/28/surge-update-mike-nolet"
 Categories = []
 +++
 Show Date:  Friday, 28 September 2012

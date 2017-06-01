@@ -1,7 +1,7 @@
 +++
 title = "inaugural office hours"
 date = "2012-11-01"
-slug = "2012/11/01/inaugural-office-hours"
+aliases = "/2012/11/01/inaugural-office-hours"
 Categories = []
 +++
 

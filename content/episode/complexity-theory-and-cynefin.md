@@ -1,7 +1,7 @@
 +++
 title = "complexity theory and cynefin"
 date = "2015-01-29"
-slug = "2015/01/29/complexity-theory-and-cynefin"
+aliases = "/2015/01/29/complexity-theory-and-cynefin"
 Categories = []
 +++
 

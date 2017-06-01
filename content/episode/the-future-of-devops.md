@@ -1,7 +1,7 @@
 +++
 title = "the future of devops"
 date = "2013-10-01"
-slug = "2013/10/01/the-future-of-devops"
+aliases = "/2013/10/01/the-future-of-devops"
 Categories = []
 +++
 

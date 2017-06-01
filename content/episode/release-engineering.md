@@ -1,7 +1,7 @@
 +++
 title = "release engineering"
 date = "2012-10-31"
-slug = "2012/10/31/release-engineering"
+aliases = "/2012/10/31/release-engineering"
 Categories = []
 +++
 

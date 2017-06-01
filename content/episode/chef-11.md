@@ -1,7 +1,7 @@
 +++
 title = "chef 11"
 date = "2013-02-20"
-slug = "2013/02/20/chef-11"
+aliases = "/2013/02/20/chef-11"
 Categories = []
 +++
 Show Date:  Wednesday, February 20, 2013

@@ -1,7 +1,7 @@
 +++
 title = "testing in practice"
 date = "2013-05-22"
-slug = "2013/05/22/testing-in-practice"
+aliases = "/2013/05/22/testing-in-practice"
 Categories = []
 +++
 Show Date: May 22, 2013

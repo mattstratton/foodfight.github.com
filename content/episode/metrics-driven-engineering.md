@@ -1,7 +1,7 @@
 +++
 title = "metrics driven engineering"
 date = "2012-10-11"
-slug = "2012/10/11/metrics-driven-engineering"
+aliases = "/2012/10/11/metrics-driven-engineering"
 Categories = []
 +++
 Show Date:  Tuesday, 9 October 2012

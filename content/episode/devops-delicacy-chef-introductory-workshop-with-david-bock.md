@@ -1,7 +1,7 @@
 +++
 title = "devops delicacy chef introductory workshop with david bock"
 date = "2012-07-14"
-slug = "2012/07/14/devops-delicacy-chef-introductory-workshop-with-david-bock"
+aliases = "/2012/07/14/devops-delicacy-chef-introductory-workshop-with-david-bock"
 Categories = []
 +++
 Show Date:  Friday, 13 Jul 2012

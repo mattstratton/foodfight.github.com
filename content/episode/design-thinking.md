@@ -1,7 +1,7 @@
 +++
 title = "design thinking"
 date = "2016-02-09"
-slug = "2016/02/09/design-thinking"
+aliases = "/2016/02/09/design-thinking"
 Categories = []
 +++
 

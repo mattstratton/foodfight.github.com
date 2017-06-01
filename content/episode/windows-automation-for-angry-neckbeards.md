@@ -1,7 +1,7 @@
 +++
 title = "windows automation for angry neckbeards"
 date = "2014-10-07"
-slug = "2014/10/07/windows-automation-for-angry-neckbeards"
+aliases = "/2014/10/07/windows-automation-for-angry-neckbeards"
 Categories = []
 +++
 

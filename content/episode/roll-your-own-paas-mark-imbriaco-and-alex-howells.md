@@ -1,7 +1,7 @@
 +++
 title = "roll your own paas mark imbriaco and alex howells"
 date = "2012-07-03"
-slug = "2012/07/03/roll-your-own-paas-mark-imbriaco-and-alex-howells"
+aliases = "/2012/07/03/roll-your-own-paas-mark-imbriaco-and-alex-howells"
 Categories = []
 +++
 

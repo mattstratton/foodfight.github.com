@@ -1,7 +1,7 @@
 +++
 title = "even moar windows"
 date = "2014-10-18"
-slug = "2014/10/18/even-moar-windows"
+aliases = "/2014/10/18/even-moar-windows"
 Categories = []
 +++
 

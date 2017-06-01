@@ -1,7 +1,7 @@
 +++
 title = "three year retrospective"
 date = "2015-01-20"
-slug = "2015/01/20/three-year-retrospective"
+aliases = "/2015/01/20/three-year-retrospective"
 Categories = []
 +++
 

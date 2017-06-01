@@ -1,7 +1,7 @@
 +++
 title = "episode 53 chef internals with dan deleo"
 date = "2013-06-13"
-slug = "2013/06/13/episode-53-chef-internals-with-dan-deleo"
+aliases = "/2013/06/13/episode-53-chef-internals-with-dan-deleo"
 Categories = []
 +++
 

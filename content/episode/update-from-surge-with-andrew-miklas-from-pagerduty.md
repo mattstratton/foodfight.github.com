@@ -1,7 +1,7 @@
 +++
 title = "update from surge with andrew miklas from pagerduty"
 date = "2012-09-28"
-slug = "2012/09/28/update-from-surge-with-andrew-miklas-from-pagerduty"
+aliases = "/2012/09/28/update-from-surge-with-andrew-miklas-from-pagerduty"
 Categories = []
 +++
 Show Date:  Friday, 28 September 2012

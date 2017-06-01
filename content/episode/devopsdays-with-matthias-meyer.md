@@ -1,7 +1,7 @@
 +++
 title = "devopsdays with matthias meyer"
 date = "2013-01-18"
-slug = "2013/01/18/devopsdays-with-matthias-meyer"
+aliases = "/2013/01/18/devopsdays-with-matthias-meyer"
 Categories = []
 +++
 

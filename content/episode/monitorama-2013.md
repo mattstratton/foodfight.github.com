@@ -1,7 +1,7 @@
 +++
 title = "monitorama 2013"
 date = "2013-05-21"
-slug = "2013/05/21/monitorama-2013"
+aliases = "/2013/05/21/monitorama-2013"
 Categories = []
 +++
 Show Date:  29 March 2013

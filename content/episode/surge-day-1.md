@@ -1,7 +1,7 @@
 +++
 title = "surge day 1"
 date = "2012-09-27"
-slug = "2012/09/27/surge-day-1"
+aliases = "/2012/09/27/surge-day-1"
 Categories = []
 +++
 Show Date:  Thursday, 27 September 2012

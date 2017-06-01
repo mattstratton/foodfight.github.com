@@ -1,7 +1,7 @@
 +++
 title = "docker the linux container runtime"
 date = "2013-04-15"
-slug = "2013/04/15/docker-the-linux-container-runtime"
+aliases = "/2013/04/15/docker-the-linux-container-runtime"
 Categories = []
 +++
 Show Date:  Monday, April 15, 2013

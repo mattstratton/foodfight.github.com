@@ -1,7 +1,7 @@
 +++
 title = "amazon web services"
 date = "2013-06-05"
-slug = "2013/06/05/amazon-web-services"
+aliases = "/2013/06/05/amazon-web-services"
 Categories = []
 +++
 

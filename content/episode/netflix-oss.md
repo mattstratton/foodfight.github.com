@@ -1,7 +1,7 @@
 +++
 title = "netflix oss"
 date = "2013-05-09"
-slug = "2013/05/09/netflix-oss"
+aliases = "/2013/05/09/netflix-oss"
 Categories = []
 +++
 Show Date:  Thursday, May 9, 2013

@@ -1,7 +1,7 @@
 +++
 title = "audit mode and compliance"
 date = "2015-07-14"
-slug = "2015/07/14/audit-mode-and-compliance"
+aliases = "/2015/07/14/audit-mode-and-compliance"
 Categories = []
 +++
 

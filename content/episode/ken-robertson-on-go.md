@@ -1,7 +1,7 @@
 +++
 title = "ken robertson on go"
 date = "2012-10-01"
-slug = "2012/10/01/ken-robertson-on-go"
+aliases = "/2012/10/01/ken-robertson-on-go"
 Categories = []
 +++
 

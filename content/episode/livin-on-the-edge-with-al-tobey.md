@@ -1,7 +1,7 @@
 +++
 title = "livin on the edge with al tobey"
 date = "2013-11-05"
-slug = "2013/11/05/livin-on-the-edge-with-al-tobey"
+aliases = "/2013/11/05/livin-on-the-edge-with-al-tobey"
 Categories = ["linux", "filesystems", "golang", "cassandra"]
 +++
 

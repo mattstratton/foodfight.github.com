@@ -1,7 +1,7 @@
 +++
 title = "big data in the small why n tier architectures are an antipattern"
 date = "2012-09-25"
-slug = "2012/09/25/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern"
+aliases = "/2012/09/25/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern"
 Categories = []
 +++
 Show Date:  Tuesday, 25 September 2012

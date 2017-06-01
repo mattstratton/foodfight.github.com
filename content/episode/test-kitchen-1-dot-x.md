@@ -1,7 +1,7 @@
 +++
 title = "test kitchen 1 dot x"
 date = "2014-08-22"
-slug = "2014/08/22/test-kitchen-1-dot-x"
+aliases = "/2014/08/22/test-kitchen-1-dot-x"
 Categories = []
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "application deployment"
 date = "2013-01-28"
-slug = "2013/01/28/application-deployment"
+aliases = "/2013/01/28/application-deployment"
 Categories = []
 +++
 Show Date:  Monday, January 28, 2013
@@ -35,12 +35,12 @@ Panel<a name="panel"></a>
 
 Show Notes<a name="notes"></a>
 ----------
- 
+
 Should you deploy your applicaiton with Chef's [deploy resource](http://docs.opscode.com/resource_deploy.html) or should you use [Capistrano](https://github.com/capistrano/capistrano) or something like it?  To an extent, this comes down to a question of push vs. pull.
 
 On the panel we discuss the merits of both and reach a conclusion something along the lines of:
 
-Use whichever method best suits your team and your application's workflow.  In either case, it makes sense to leverage [Chef's search capability](http://docs.opscode.com/essentials_search.html) to help drive the deployment. 
+Use whichever method best suits your team and your application's workflow.  In either case, it makes sense to leverage [Chef's search capability](http://docs.opscode.com/essentials_search.html) to help drive the deployment.
 
 A [thread on the mailing list](http://lists.opscode.com/sympa/arc/chef/2013-01/msg00392.html) came up during our discussion.  Although not directly related to our conversation, [the thread](http://lists.opscode.com/sympa/arc/chef/2013-01/msg00392.html) is worth reading.  [Joshua Timberman](https://twitter.com/jtimberman) schooled all of us on the use of the [template resource's](http://docs.opscode.com/resource_template.html) `local` attribute.  This was certainly something new to most, if not all, of the panelists.  Joshua wrote up blog post, [Local Templates for Application Configuration](http://jtimberman.housepub.org/blog/2013/01/28/local-templates-for-application-configuration/) exploring the use of local templates.
 

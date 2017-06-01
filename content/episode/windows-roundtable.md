@@ -1,7 +1,7 @@
 +++
 title = "windows roundtable"
 date = "2013-01-24"
-slug = "2013/01/24/windows-roundtable"
+aliases = "/2013/01/24/windows-roundtable"
 Categories = []
 +++
 

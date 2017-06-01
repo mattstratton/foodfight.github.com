@@ -1,7 +1,7 @@
 +++
 title = "devops delicacy special episode"
 date = "2012-10-07"
-slug = "2012/10/07/devops-delicacy-special-episode"
+aliases = "/2012/10/07/devops-delicacy-special-episode"
 Categories = []
 +++
 Show Date:  Monday, 8 October 2012

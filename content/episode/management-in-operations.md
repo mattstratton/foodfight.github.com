@@ -1,7 +1,7 @@
 +++
 title = "management in operations"
 date = "2014-06-03"
-slug = "2014/06/03/management-in-operations"
+aliases = "/2014/06/03/management-in-operations"
 Categories = []
 +++
 

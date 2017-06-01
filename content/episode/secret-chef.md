@@ -1,7 +1,7 @@
 +++
 title = "secret chef"
 date = "2013-07-09"
-slug = "2013/07/09/secret-chef"
+aliases = "/2013/07/09/secret-chef"
 Categories = []
 +++
 Show Date:  July 9, 2013

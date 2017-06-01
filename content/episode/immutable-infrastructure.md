@@ -1,7 +1,7 @@
 +++
 title = "immutable infrastructure"
 date = "2013-07-22"
-slug = "2013/07/22/immutable-infrastructure"
+aliases = "/2013/07/22/immutable-infrastructure"
 Categories = []
 +++
 Show Date:  July 22, 2013

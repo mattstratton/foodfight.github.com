@@ -1,7 +1,7 @@
 +++
 title = "chefconf preview"
 date = "2015-03-05"
-slug = "2015/03/05/chefconf-preview"
+aliases = "/2015/03/05/chefconf-preview"
 Categories = []
 +++
 

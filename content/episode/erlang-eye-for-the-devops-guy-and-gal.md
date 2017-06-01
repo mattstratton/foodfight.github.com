@@ -1,7 +1,7 @@
 +++
 title = "erlang eye for the devops guy and gal"
 date = "2013-07-01"
-slug = "2013/07/01/erlang-eye-for-the-devops-guy-and-gal"
+aliases = "/2013/07/01/erlang-eye-for-the-devops-guy-and-gal"
 Categories = []
 +++
 Show Date: Monday, July 1, 2013

@@ -1,7 +1,7 @@
 +++
 title = "inspec"
 date = "2016-02-21"
-slug = "2016/02/21/inspec"
+aliases = "/2016/02/21/inspec"
 Categories = []
 +++
 

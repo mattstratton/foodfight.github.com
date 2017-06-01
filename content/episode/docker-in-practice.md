@@ -1,7 +1,7 @@
 +++
 title = "docker in practice"
 date = "2013-11-27"
-slug = "2013/11/27/docker-in-practice"
+aliases = "/2013/11/27/docker-in-practice"
 Categories = []
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "devopsdays dc"
 date = "2015-06-12"
-slug = "2015/06/12/devopsdays-dc"
+aliases = "/2015/06/12/devopsdays-dc"
 Categories = []
 +++
 A wrap-up of [DevOpsDays DC](http://devopsdaysdc.org) recorded live at the end of the conference.

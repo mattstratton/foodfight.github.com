@@ -1,7 +1,7 @@
 +++
 title = "cookbook versioning"
 date = "2012-11-15"
-slug = "2012/11/15/cookbook-versioning"
+aliases = "/2012/11/15/cookbook-versioning"
 Categories = []
 +++
 Show Date:  Tuesday, 13 October 2012

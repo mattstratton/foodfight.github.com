@@ -1,7 +1,7 @@
 +++
 title = "interview with kate matsudaira"
 date = "2012-10-03"
-slug = "2012/10/03/interview-with-kate-matsudaira"
+aliases = "/2012/10/03/interview-with-kate-matsudaira"
 Categories = []
 +++
 Show Date:  Tuesday, 2 October 2012

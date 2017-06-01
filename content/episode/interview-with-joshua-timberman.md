@@ -1,7 +1,7 @@
 +++
 title = "interview with joshua timberman"
 date = "2012-07-10"
-slug = "2012/07/10/interview-with-joshua-timberman"
+aliases = "/2012/07/10/interview-with-joshua-timberman"
 Categories = []
 +++
 Show Date:  Tuesday, 10 July 2012

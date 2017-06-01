@@ -1,7 +1,7 @@
 +++
 title = "chefconf 2013 talking shop with spheromak"
 date = "2013-04-27"
-slug = "2013/04/27/chefconf-2013-talking-shop-with-spheromak"
+aliases = "/2013/04/27/chefconf-2013-talking-shop-with-spheromak"
 Categories = []
 +++
 

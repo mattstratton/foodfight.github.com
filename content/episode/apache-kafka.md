@@ -1,7 +1,7 @@
 +++
 title = "apache kafka"
 date = "2014-11-17"
-slug = "2014/11/17/apache-kafka"
+aliases = "/2014/11/17/apache-kafka"
 Categories = ["kafka", "jaykreps"]
 +++
 

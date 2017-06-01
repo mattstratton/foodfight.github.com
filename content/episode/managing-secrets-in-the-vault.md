@@ -1,7 +1,7 @@
 +++
 title = "managing secrets in the vault"
 date = "2015-06-16"
-slug = "2015/06/16/managing-secrets-in-the-vault"
+aliases = "/2015/06/16/managing-secrets-in-the-vault"
 Categories = []
 +++
 

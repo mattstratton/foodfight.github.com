@@ -1,7 +1,7 @@
 +++
 title = "devops live call in show"
 date = "2017-04-17"
-slug = "2017/04/17/devops-live-call-in-show"
+aliases = "/2017/04/17/devops-live-call-in-show"
 Categories = []
 +++
 

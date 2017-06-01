@@ -1,7 +1,7 @@
 +++
 title = "devopsdays rome"
 date = "2012-10-05"
-slug = "2012/10/05/devopsdays-rome"
+aliases = "/2012/10/05/devopsdays-rome"
 Categories = []
 +++
 

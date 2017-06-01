@@ -1,7 +1,7 @@
 +++
 title = "the phoenix project"
 date = "2013-03-25"
-slug = "2013/03/25/the-phoenix-project"
+aliases = "/2013/03/25/the-phoenix-project"
 Categories = []
 +++
 Show Date:  Monday, March 25, 2013

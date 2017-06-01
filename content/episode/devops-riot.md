@@ -1,7 +1,7 @@
 +++
 title = "devops riot"
 date = "2013-08-20"
-slug = "2013/08/20/devops-riot"
+aliases = "/2013/08/20/devops-riot"
 Categories = []
 +++
 

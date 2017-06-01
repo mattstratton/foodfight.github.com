@@ -1,7 +1,7 @@
 +++
 title = "new year"
 date = "2017-01-04"
-slug = "2017/01/04/new-year"
+aliases = "/2017/01/04/new-year"
 Categories = []
 +++
 

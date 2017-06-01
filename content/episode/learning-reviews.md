@@ -1,7 +1,7 @@
 +++
 title = "learning reviews"
 date = "2015-10-23"
-slug = "2015/10/23/learning-reviews"
+aliases = "/2015/10/23/learning-reviews"
 Categories = []
 +++
 

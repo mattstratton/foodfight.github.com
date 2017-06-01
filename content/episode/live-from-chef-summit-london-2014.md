@@ -1,7 +1,7 @@
 +++
 title = "live from chef summit london 2014"
 date = "2014-10-18"
-slug = "2014/10/18/live-from-chef-summit-london-2014"
+aliases = "/2014/10/18/live-from-chef-summit-london-2014"
 Categories = []
 +++
 

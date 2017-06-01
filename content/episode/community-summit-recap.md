@@ -1,7 +1,7 @@
 +++
 title = "community summit recap"
 date = "2013-11-19"
-slug = "2013/11/19/community-summit-recap"
+aliases = "/2013/11/19/community-summit-recap"
 Categories = []
 +++
 

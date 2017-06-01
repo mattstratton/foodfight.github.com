@@ -1,7 +1,7 @@
 +++
 title = "community summit day 1"
 date = "2013-11-19"
-slug = "2013/11/19/community-summit-day-1"
+aliases = "/2013/11/19/community-summit-day-1"
 Categories = []
 +++
 Join Nathen as he discusses the first day of the Opscode Community Summit with Tom Duffield and John Dyer.

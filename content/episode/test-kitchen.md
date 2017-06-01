@@ -1,7 +1,7 @@
 +++
 title = "test kitchen"
 date = "2012-08-25"
-slug = "2012/08/25/test-kitchen"
+aliases = "/2012/08/25/test-kitchen"
 Categories = []
 +++
 Show Date:  Thursday, 23 August 2012

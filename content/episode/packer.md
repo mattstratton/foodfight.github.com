@@ -1,7 +1,7 @@
 +++
 title = "packer"
 date = "2013-08-14"
-slug = "2013/08/14/packer"
+aliases = "/2013/08/14/packer"
 Categories = ["packer", "vagrant", "go", "mitchellh"]
 +++
 Join us as we discuss [Packer](http://packer.io) with [Mitchell Hashimoto](https://twitter.com/mitchellh)

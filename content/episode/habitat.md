@@ -1,7 +1,7 @@
 +++
 title = "habitat"
 date = "2016-06-20"
-slug = "2016/06/20/habitat"
+aliases = "/2016/06/20/habitat"
 Categories = []
 +++
 

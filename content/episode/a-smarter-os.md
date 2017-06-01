@@ -6,7 +6,7 @@ tags = []
 youtube = "DJfppm1SyeI"
 title = "a smarter os"
 date = "2013-04-08"
-slug = "2013/04/08/a-smarter-os"
+aliases = "/2013/04/08/a-smarter-os"
 Categories = []
 +++
 Show Date:  Monday, April 8, 2013

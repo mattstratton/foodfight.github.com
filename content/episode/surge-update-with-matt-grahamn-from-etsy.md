@@ -1,7 +1,7 @@
 +++
 title = "surge update with matt grahamn from etsy"
 date = "2012-09-29"
-slug = "2012/09/29/surge-update-with-matt-grahamn-from-etsy"
+aliases = "/2012/09/29/surge-update-with-matt-grahamn-from-etsy"
 Categories = []
 +++
 Show Date:  Friday, 28 September 2012

@@ -1,7 +1,7 @@
 +++
 title = "chefconf 2013 day 1 wrap up"
 date = "2013-04-26"
-slug = "2013/04/26/chefconf-2013-day-1-wrap-up"
+aliases = "/2013/04/26/chefconf-2013-day-1-wrap-up"
 Categories = []
 +++
 

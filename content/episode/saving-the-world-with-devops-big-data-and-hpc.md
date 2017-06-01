@@ -1,7 +1,7 @@
 +++
 title = "saving the world with devops big data and hpc"
 date = "2013-02-19"
-slug = "2013/02/19/saving-the-world-with-devops-big-data-and-hpc"
+aliases = "/2013/02/19/saving-the-world-with-devops-big-data-and-hpc"
 Categories = []
 +++
 Show Date:  Tuesday, February 19, 2013
