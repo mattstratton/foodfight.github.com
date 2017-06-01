@@ -57,7 +57,7 @@ paginate = 9
   	  [params.authors.Nathen]
   			name	= "Nathen Harvey"
   			thumbnail = "img/hosts/nharvey.png"
-  			bio = "As the Chief Awesome Officer at Chef, Nathen helps the community whip up an awesome ecosystem built around the Chef platform. Nathen also spends much of his time helping people learn about the practices, processes, and technologies that support DevOps, continuous delivery, and high velocity organizations. Prior to joining Chef, Nathen spent a number of years managing operations and infrastructure for a diverse range of web applications. "
+  			bio = "As the Chief Awesome Officer at Chef, Nathen helps the community whip up an awesome ecosystem built around the Chef platform. Nathen also spends much of his time helping people learn about the practices, processes, and technologies that support DevOps, continuous delivery, and high velocity organizations. Prior to joining Chef, Nathen spent a number of years managing operations and infrastructure for a diverse range of web applications."
   			[params.authors.Nathen.social]
           github = "nathenharvey"
           twitter = "nathenharvey"

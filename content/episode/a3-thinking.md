@@ -5,14 +5,13 @@ aliases = "/2017/02/28/a3-thinking"
 Description = ""
 episode_image = ""
 explicit = "no"
-#guests = [""]
+guests = ["nshamrell","cswetel","brockwood","akraft","nharvey"]
 images = ["img/episode/default-social.jpg"]
 podcast_duration = ""
 podcast_bytes = ""
 tags = []
 podcast_file = "FFS108.mp3"
 youtube = "pXHmeNhlETE"
-guests = ["cswetel"]
 +++
 
 * [Panel](http://foodfightshow.org/2017/02/a3-thinking.html#panel)
