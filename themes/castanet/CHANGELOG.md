@@ -1,5 +1,34 @@
 # Change Log
 
+## [0.8.0](https://github.com/mattstratton/castanet/tree/0.8.0) (2017-06-13)
+**Implemented enhancements:**
+
+- Add a bunch more sample guests [\#125](https://github.com/mattstratton/castanet/issues/125)
+- Guest page should show links to all shows with all versions of a guest [\#117](https://github.com/mattstratton/castanet/issues/117)
+- Customize placement of "Read More" [\#116](https://github.com/mattstratton/castanet/issues/116)
+- Add proper use of CDATA to episode feed [\#23](https://github.com/mattstratton/castanet/issues/23)
+
+## [0.7.0](https://github.com/mattstratton/castanet/tree/0.7.0) (2017-06-10)
+**Implemented enhancements:**
+
+- Create a page listing all guests [\#121](https://github.com/mattstratton/castanet/issues/121)
+- Episode titles should be set to capitalized [\#114](https://github.com/mattstratton/castanet/issues/114)
+- Add support for sponsors [\#113](https://github.com/mattstratton/castanet/issues/113)
+- \[Enhancement\]: Collection of external links in sidebar [\#110](https://github.com/mattstratton/castanet/issues/110)
+- Menu should sort by identifier, not name [\#100](https://github.com/mattstratton/castanet/issues/100)
+- Truncate iTunes summary based on characters in feed generation [\#93](https://github.com/mattstratton/castanet/issues/93)
+- Prettify the guest page [\#122](https://github.com/mattstratton/castanet/pull/122) ([mattstratton](https://github.com/mattstratton))
+- Prettify the grid page [\#118](https://github.com/mattstratton/castanet/pull/118) ([mattstratton](https://github.com/mattstratton))
+- add soundcloud and pocketcasts subscription options in sidebar [\#109](https://github.com/mattstratton/castanet/pull/109) ([thercast](https://github.com/thercast))
+- Add direct download link for audio file [\#103](https://github.com/mattstratton/castanet/pull/103) ([thercast](https://github.com/thercast))
+- add gitlab to social parameters [\#102](https://github.com/mattstratton/castanet/pull/102) ([thercast](https://github.com/thercast))
+
+**Fixed bugs:**
+
+- Fix formatting on guest page [\#120](https://github.com/mattstratton/castanet/issues/120)
+- "Read More" shows up on main hero even if not truncated [\#115](https://github.com/mattstratton/castanet/issues/115)
+- Paginator needs to be constrained [\#96](https://github.com/mattstratton/castanet/issues/96)
+
 ## [0.6.0](https://github.com/mattstratton/castanet/tree/0.6.0) (2017-05-19)
 **Implemented enhancements:**
 
